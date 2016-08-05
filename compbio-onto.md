@@ -19,5 +19,5 @@ We collaborated with the Computational Biology group of Martin Vingron at the Ma
 Human Phenotype Ontology
 ------------
 
-We have tackled the often mentioned problem of missing controlled vocabularies for mining human phenotype data by developing the Human Phenotype Ontology. We have used the HPO to annotate all disease from OMIM, Orphanet, and Decipher and annotating more databases at the moment. Please refer to the [HPO website](http://www.human-phenotype-ontology.org) for further information. We have also used the HPO to develop a new diagnostic tool called the [Phenomizer](http://compbio.charite.de/phenomizer).
+Together with the <a href="https://phenomicsberlin.github.io/" target="_new2">Phenomics Berlin Team</a>, we have tackled the often mentioned problem of missing controlled vocabularies for mining human phenotype data by developing the Human Phenotype Ontology. We have used the HPO to annotate all disease from OMIM, Orphanet, and Decipher and annotating more databases at the moment. Please refer to the [HPO website](http://www.human-phenotype-ontology.org) for further information. We have also used the HPO to develop a new diagnostic tool called the [Phenomizer](http://compbio.charite.de/phenomizer).
 
