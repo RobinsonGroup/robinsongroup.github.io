@@ -11,7 +11,7 @@ published: true
 
 The Robinson Lab is primarily located at the Jackson Labs. 
 
-Together with the <a href="https://phenomicsberlin.github.io/" target="_new2">Phenomics Berlin Team</a>, our group develops the <a href="http:///www.human-phenotype-ontology.org" target="_new2">Human Phenotype Ontology</a> and applications of this ontology to differential diagnositics and genomics analyses. 
+Together with the <a href="https://phenomics.github.io/" target="_new2">Phenomics Team</a>, our group develops the <a href="http:///www.human-phenotype-ontology.org" target="_new2">Human Phenotype Ontology</a> and applications of this ontology to differential diagnostics and genomics analyses. 
 
 We develop algorithms for exome and genome sequencing, ChIP-seq, immunogenomics, and other genomics applications, Gene Ontology analysis,
 computational phenotype analysis, as well as various algorithms from the fields of Machine 

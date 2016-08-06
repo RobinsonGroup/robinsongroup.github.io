@@ -7,4 +7,4 @@ The Human Phenotype Ontology (HPO) aims to provide a standardized vocabulary of 
 
 For further details and information please refer to the [Human Phenotype Ontology Homepage](http://www.human-phenotype-ontology.org).
 
-
+Please have a look at the [Phenomics Team Page](https://phenomics.github.io/) as well.
