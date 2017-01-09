@@ -530,14 +530,14 @@ body {
   vertical-align: bottom;
 }
 #masthead .hgroup .support-text {
-  line-height: 1.2em;
-  position: absolute;
-  right: 0;
-  top: 50%;
-  margin-top: -0.6em;
-  color: #4b4b4b;
-  font-style: italic;
-  max-width: 50%;
+  #line-height: 1.2em;
+  #position: absolute;
+  #right: 0;
+  #top: 50%;
+  margin-top: -0.2em;
+  #color: #4b4b4b;
+ # font-style: italic;
+  #max-width: 50%;
 }
 #masthead .hgroup #header-sidebar {
   padding-top: 15px;
@@ -3721,3 +3721,4 @@ span.jwcontrols span button {
   z-index: 100000;
   /* Above WP toolbar. */
 }
+
