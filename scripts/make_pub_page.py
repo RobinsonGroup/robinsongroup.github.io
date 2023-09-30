@@ -54,7 +54,7 @@ class Publication:
         authors = authors.replace("Robinson PN", "**Robinson, PN**")
         mdown = f"{authors}  \n{self._title}  \n *{self._journal}*, {self._year}; **{self._volume}**:{self._pages}"
         if self._pmid is not None and self._pmid != "n/a":
-            mdown = f"{mdown} [PMID:{self._pmid}](https://pubmed.ncbi.nlm.nih.gov/{self._pmid}/)"
+            mdown = f"{mdown} [PMID:{self._pmid}](https://pubmed.ncbi.nlm.nih.gov/{self._pmid}/)" + "{:target=\"_blank\"}"
         return mdown
 
 
