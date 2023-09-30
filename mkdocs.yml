@@ -29,6 +29,8 @@ theme:
 
 plugins:
   - social
+  - badges:
+
 
 extra:
   social:
