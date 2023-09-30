@@ -109,11 +109,17 @@ Genome Med; 14:44.
 
 Chromatin immunoprecipitation coupled with next-generation sequencing (ChIP-seq) is a powerful technology to identify the genome-wide locations of transcription factors and other DNA binding proteins. Computational ChIP-seq peak calling infers the location of protein-DNA interactions based on various measures of enrichment of sequence reads.
 Our algorithm, Q,  uses an assessment of the quadratic enrichment of reads to center candidate peaks followed by statistical analysis of saturation of candidate peaks by 5' ends of reads. We show that our method not only is substantially faster than several competing methods but also demonstrates statistically significant advantages with respect to reproducibility of results and in its ability to identify peaks with reproducible binding site motifs.
-
-- [Hansen P, et al. (2015) Saturation
-analysis of ChIP-seq data for reproducible identification of binding peaks. Genome Res 25:1391-400.](http://www.ncbi.nlm.nih.gov/pubmed/26163319)
 S|Q - GitHub||link:https://github.com/charite/Q|
-* [Hansen P, et al. (2016) Q-nexus: a comprehensive and efficient analysis pipeline designed for ChIP-nexus. BMC Genomics 17:873](https://pubmed.ncbi.nlm.nih.gov/27814676/)
+
+
+
+<figure markdown>
+![Q algorithm](img/Q-algorithm.jpg){ width="400" }
+<figcaption>Hansen P, et al. (2015) Saturation
+analysis of ChIP-seq data for reproducible identification of binding peaks. Genome Res 25:1391-400.
+</figcaption>
+</figure>
+
 		
 ## GOPHER
  Target enrichment combined with chromosome conformation capturing methodologies such as capture Hi-C (CHC) can be used 
