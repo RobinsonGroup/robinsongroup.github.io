@@ -511,10 +511,7 @@ pages: 472-486
 top: false
 
 -pmid: 33402532
-authors: Rodr{\'{i}}guez de Los Santos M, Rivalan M, David FS, Stumpf A, Pitsch J,
-Tsortouktzidis D, Velasquez LM, Voigt A, Schilling K, Mattei D, Long M, Vogt G,
-Knaus A, Fischer-Zirnsak B, Wittler L, Timmermann B, Robinson PN, Horn D,
-Mundlos S, Kornak U, Becker AJ, Schmitz D, Winter Y, Krawitz PM
+authors: Rodríguez de Los Santos M, Rivalan M, David FS, Stumpf A, Pitsch J, Tsortouktzidis D, Velasquez LM, Voigt A, Schilling K, Mattei D, Long M, Vogt G, Knaus A, Fischer-Zirnsak B, Wittler L, Timmermann B, Robinson PN, Horn D, Mundlos S, Kornak U, Becker AJ, Schmitz D, Winter Y, Krawitz PM
 year: 2021
 title: A CRISPR-Cas9-engineered mouse model for GPI-anchor deficiency mirrors human phenotypes and exhibits hippocampal synaptic dysfunctions
 journal: Proc Natl Acad Sci U S A
@@ -709,7 +706,7 @@ pages: D704-D715
 top: false
 
 -pmid: 31479590
-authors: Köhler S, {\O}ien NC, Buske OJ, Groza T, Jacobsen JOB, McNamara C, Vasilevsky N, Carmody LC, Gourdine JP, Gargano M, McMurry JA, Danis D, Mungall CJ, Smedley D,
+authors: Köhler S,  Øien NC, Buske OJ, Groza T, Jacobsen JOB, McNamara C, Vasilevsky N, Carmody LC, Gourdine JP, Gargano M, McMurry JA, Danis D, Mungall CJ, Smedley D,
 	  Haendel M, Robinson PN
 year: 2019
 title: Encoding Clinical Data with the Human Phenotype Ontology for Computational Differential Diagnostics.
@@ -719,7 +716,7 @@ pages: e92
 top: false
 
 -pmid: 31417602
-authors: Nell{\aa}ker C, Alkuraya FS, Baynam G, Bernier RA, Bernier FPJ, Boulanger V,
+authors: Nellåker C, Alkuraya FS, Baynam G, Bernier RA, Bernier FPJ, Boulanger V,
 	Brudno M, Brunner HG, Clayton-Smith J, Cogné B, Dawkins HJS, deVries BBA, Douzgou
 	S, Dudding-Byth T, Eichler EE, Ferlaino M, Fieggen K, Firth HV, FitzPatrick DR,
 	Gration D, Groza T, Haendel M, Hallowell N, Hamosh A, Hehir-Kwa J, Hitz MP,
@@ -1330,7 +1327,7 @@ top: false
 
 -pmid: 26547235
 authors: Corpas M, Valdivia-Granda W, Torres N, Greshake B, Coletta A, Knaus A,
-	  Harrison AP, Cariaso M, Moran F, Nielsen F, Swan D, Weiss Sol{\'{i}}s DY, Krawitz P,
+	  Harrison AP, Cariaso M, Moran F, Nielsen F, Swan D, Weiss Solís DY, Krawitz P,
 	  Schacherer F, Schols P, Yang H, Borry P, Glusman G, Robinson PN
 year: 2015
 title: Crowdsourced direct-to-consumer genomic analysis of a family quartet
@@ -1450,8 +1447,7 @@ pages: 137-155
 top: false
 
 -pmid: 26562621
-authors: Smedley D, Jacobsen JOB, Jäger, Köhler, Holtgrewe M, Schubach M, Siragusa E, Zemojtel T,  Buske O, Bone WP, Haendel MA, 
-	  Robinson PN
+authors: Smedley D, Jacobsen JOB, Jäger M, Köhler S, Holtgrewe M, Schubach M, Siragusa E, Zemojtel T,  Buske O, Bone WP, Haendel MA, Robinson PN
 year: 2015
 title: Next-Generation Diagnostics and Disease Gene Discovery with the Exomiser
 journal: Nat Protoc
@@ -1737,7 +1733,7 @@ top: false
 
 -pmid: 25078397
 authors: Smedley D, Köhler S, Czeschik JC, Amberger J,
-	  Bocchini C, Hamosh A, Veldboer J, Zemojtel T, {\bf Robinson PN*}
+	  Bocchini C, Hamosh A, Veldboer J, Zemojtel T, Robinson PN
 year: 2014
 title: Walking the interactome for candidate prioritization in exome sequencing studies of Mendelian diseases
 journal: Bioinformatics
@@ -1746,8 +1742,7 @@ pages: 3215-3222
 top: false
 
 -pmid: 25064449
-authors: Vanita V, Guo G, Singh D, Ott CE, {\bf Robinson
-	  PN*}
+authors: Vanita V, Guo G, Singh D, Ott CE, Robinson PN
 year: 2014
 title: Differential effect of cataract-associated mutations in MAF on transactivation of MAF target genes
 journal: Mol Cell Biochem
@@ -1877,7 +1872,7 @@ pages: 5-12
 top: false
 
 -pmid: 24227377
-authors: {\bf Robinson PN*}
+authors: Robinson PN
 year: 2013
 title: A Systematic Large-scale Phenotypic Analysis of de novo and Inherited Copy Number Variation
 journal: Hum Mutat
@@ -1900,7 +1895,7 @@ pages: D966-74
 top: false
 
 -pmid: 24162188
-authors: {\bf Robinson PN*}, Köhler S, Oellrich A, Sanger Mouse Genetics Project, Wang K, Mungall C, Lewis SE, Washington N,
+authors: Robinson PN, Köhler S, Oellrich A, Sanger Mouse Genetics Project, Wang K, Mungall C, Lewis SE, Washington N,
 	  Bauer S, Seelow D, Krawitz P, Gilissen C, Haendel M, Smedley D*
 year: 2014
 title: Improved exome prioritization of disease genes through cross species phenotype comparison
@@ -2001,7 +1996,7 @@ top: false
 
 -pmid: 23561847
 authors: Krawitz PM, Murakami Y, Rie\ss{} A, Hietala M, Krüger U, Zhu N, Kinoshita T,
-	  Mundlos S, Hecht J, {\bf Robinson PN*}, Horn D*
+	  Mundlos S, Hecht J, Robinson PN, Horn D
 year: 2013
 title: PGAP2 mutations, affecting the GPI-anchor-synthesis pathway, cause hyperphosphatasia with mental retardation syndrome
 journal: Am J Hum Genet

@@ -8,7 +8,47 @@ It is almost YML but contains some characters that do not mix well with YML
 so for now we use a naive parse to transform these contents to markdown
 """
 
-
+# The following authors are or were on our team and their names
+# will be shown in bold in the publication page
+our_team = [
+    "Robinson PN",
+    "Robinson, PN",
+    "Booms P",
+    "Tiecke F",
+    "Palz M",
+    "Katzke S",
+    "Böhme U",
+    "Ney A",
+    "Guo G",
+    "Bauer S",
+    "Sebastian Bauer",
+    "Schulz MH",
+    "Köhler S",
+    "Koehler S",
+    "Ibn-Salem J",
+    "Ott CE",
+    "Rödelsperger C",
+    "Krawitz PM",
+    "Jäger M",
+    "Doelken SC",
+    "Heinrich V",
+    "Bhushan R",
+    "Grünhagen J",
+    "Hansen P",
+    "Krüger U",
+    "Mensah MA",
+    "Zemojtel T",
+    "Kuchenbecker L",
+    "Zhu N",
+    "Schubach M",
+    "Carmody L",
+    "Danis D",
+    "Blau H",
+    "Karlebach G",
+    "Ravanmehr V",
+    "Gargano MA",
+    "Coleman BD"
+]
 
 class Publication:
 
@@ -50,8 +90,13 @@ class Publication:
         authors = authors.replace("{\\bf Robinson P}", "Robinson P")
         authors = authors.replace("{\\bf Robinson N}", "Robinson N")
         authors = re.sub(r"\.\s?", "", authors)
-        authors = authors.replace("Robinson, PN", "**Robinson, PN**")
-        authors = authors.replace("Robinson PN", "**Robinson, PN**")
+        for a in our_team:
+            authors = authors.replace(a, f"**{a}**")
+        # The following sometimes use their middle initial :-0
+        authors = authors.replace("Gargano M", "**Gargano M**")
+        authors = authors.replace("Krawitz P", "**Krawitz P**")
+        authors = authors.replace("Coleman B", "**Coleman B**")
+
         mdown = f"{authors}  \n{self._title}  \n *{self._journal}*, {self._year}; **{self._volume}**:{self._pages}"
         if self._pmid is not None and self._pmid != "n/a":
             mdown = f"{mdown} [PMID:{self._pmid}](https://pubmed.ncbi.nlm.nih.gov/{self._pmid}/)" + "{:target=\"_blank\"}"
@@ -117,13 +162,14 @@ with open(publication_file, 'r') as fh:
 
 fh = open("../docs/publications.md", "wt")
 fh.write("# Publications\n\n")
-
+fh.write("Authors who are lab members or alumni are shown in **bold** font.\n\n")
 years = sorted(list(pub_d.keys()), reverse=True)
 
 citation_i = 0
 for year in years:
     publist = pub_d.get(year)
     fh.write(f"## {year} Publications\n\n")
+
     for pub in publist:
         citation_i += 1
         fh.write(f"{citation_i}. {pub.get_markdown()}\n")
