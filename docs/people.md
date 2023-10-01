@@ -4,11 +4,27 @@
 
 ## Peter N. Robinson, MD
 
-We are living in a time of unparalleled opportunity to extend our understanding of human disease and improve the care of patients with precision genomic medicine. Sophisticated bioinformatics and computational biology are essential to achieve the full potential of genomics for science as well as for patients. Peter Robinson, Professor and Donald A. Roux Chair, Genomics and Computational Biology, leads a research group dedicated to the development of algorithms and computational resources for genomics. Peter is a PI of the
-[Monarch Initiative](https://monarchinitiative.org), an NIH supported project dedicated to the integration, alignment, and re-distribution of cross-species gene, genotype, variant, disease, and phenotype data. Highlights of the lab’s work include the [Human Phenotype Ontology](http://www.human-phenotype-ontology.org), the [Exomiser](https://monarchinitiative.org/page/exomes) suite  of tools for exome and genome analysis, and algorithms for ChIP-seq and immunogenomics. Peter studied Mathematics (Bachelor) at Columbia College, Medicine at the University of Pennsylvania, and Computer Science (Master's) at Columbia University. He completed an internship in Primary Care Internal Medicine at Yale University, and a residency (Facharzt) in Pediatrics at Charité - Universitätsmedizin Berlin in Berlin, Germany. Subsequent to that, he led the Bioinformatics group at the Institute for Medical Genetics and Human Genetics at the Charité from 2004-2016. In 2016, he relocated to the Jackson Laboratory for Genomic Medicine in Connecticut, USA.
+We are living in a time of unparalleled opportunity to extend our understanding of human disease and improve the 
+care of patients with precision genomic medicine. Sophisticated bioinformatics and computational biology are 
+essential to achieve the full potential of genomics for science as well as for patients. Peter Robinson, 
+Professor and Donald A. Roux Chair, Genomics and Computational Biology, leads a research group dedicated to the 
+development of algorithms and computational resources for genomics. Peter is a PI of the
+[Monarch Initiative](https://monarchinitiative.org), an NIH supported project dedicated to the integration, 
+alignment, and re-distribution of cross-species gene, genotype, variant, disease, and phenotype data. Highlights 
+of the lab’s work include the [Human Phenotype Ontology](http://www.human-phenotype-ontology.org), 
+the [Exomiser](https://monarchinitiative.org/page/exomes) suite  of tools for exome and genome analysis, 
+and algorithms for ChIP-seq and immunogenomics. Peter studied Mathematics (Bachelor) at Columbia College, 
+Medicine at the University of Pennsylvania, and Computer Science (Master's) at Columbia University. 
+He completed an internship in Primary Care Internal Medicine at Yale University, and a residency (Facharzt) in 
+Pediatrics  and obtained a Habilitation (roughly equivalent
+to a PhD) in Human Genetics at the Charité - Universitätsmedizin Berlin. He led the 
+Bioinformatics group at the Institute for Medical Genetics and Human Genetics at the Charité from 2004-2016. 
+From 2016-2-23, he led a research group at  the Jackson Laboratory (JAX) for Genomic Medicine in Connecticut, USA. 
+From 2024, his primary affiliation will be with the Berlin Institute of Health (BIH) abd he will continue to
+lead a group at JAX.
 
 <figure markdown>
-![Peter Robinson](img/peter-robinson.jpg){ width="400" }
+![Peter Robinson](img/people/peter-robinson.jpg){ width="200" }
 <figcaption>Peter Robinson
 </figcaption>
 </figure>
@@ -19,7 +35,7 @@ We are living in a time of unparalleled opportunity to extend our understanding 
 ### Hannah Blau, Ph.D.
 
 <figure markdown>
-![Hannah Blau](img/hannah-blau.jpg){ width="400" }
+![Hannah Blau](img/people/hannah-blau.jpg){ width="200" }
 <figcaption>Hannah Blau
 </figcaption>
 </figure>
@@ -44,7 +60,7 @@ member of the science team for the Mars Science Laboratory
 ### Leigh Carmody, Ph.D.
 
 <figure markdown>
-![Leigh Carmody](img/leigh-carmody.jpg){ width="400" }
+![Leigh Carmody](img/people/leigh-carmody.jpg){ width="200" }
 <figcaption>Leigh Carmody
 </figcaption>
 </figure>
@@ -56,7 +72,7 @@ Leigh Carmody, Ph.D., obtained her doctorate of philosophy in Molecular Physiolo
 ### Daniel Danis, Ph.D.
 
 <figure markdown>
-![Daniel Danis](img/daniel-danis.jpg){ width="400" }
+![Daniel Danis](img/people/daniel-danis.jpg){ width="200" }
 <figcaption>Daniel Danis
 </figcaption>
 </figure>
@@ -69,7 +85,7 @@ His work in the Robinson lab involves the development of algorithms for prioriti
 
 
 <figure markdown>
-![Guy Karlebach](img/guy-karlebach.jpg){ width="400" }
+![Guy Karlebach](img/people/guy-karlebach.jpg){ width="200" }
 <figcaption>Guy Karlebach
 </figcaption>
 </figure>
@@ -82,30 +98,29 @@ Guy earned his B.Sc. in Computer Science from the Technion, Israel Institute of 
 
 
 ### Alumni
-
+| Almunus/a                                            | Name                                                                                                                                          |
+|:-----------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](img/people/aaron-zhang.jpg){ align=left width="60" }    | Xingmin “Aaron” Zhang, Ph.D.                                                                                                                  |
+| ![](img/people/vida-ravanmehr.jpg){ align=left width="60" } | Vida Ravanmehr, Ph.D                                                                                                                          |
+| :material-head-outline:                              | Sebastian Köhler, Dr. rer. nat. (<a href="http://drseb.github.io" target="_blank">Homepage</a>)                                               |
+| :material-head-outline:                              | Peter Krawitz, PhD. (<a href="https://www.igsb.uni-bonn.de/en">Uni Bonn</a>)                                                                  |
+| :material-head-outline:                              | Marten Jäger, PhD (<a href="https://genomics.charite.de/metas/person/person/address_detail/dr_marten_jaeger/">BIH Core Facility Genomik </a>) |
+| :material-head-outline:                              | Max Schubach, PhD (<a href="https://kircherlab.github.io/people/max.html">Computational Genome Biology, BIH</a>)                              |
+| :material-head-outline:                              | Leon Kuchenbecker, PhD (<a href="https://www.ghga.de/about-us/team-members/kuchenbecker-leon">GHGA</a>)                                       |
+| :material-head-outline:                              | Robin Steinhaus, MSc (BIH)                                                                                                                    |
+| :material-head-outline:                              | Layal Abo-Kayal. PhD                                                                                                                          |
+| :material-head-outline:                              | Na Zhu. PhD                                                                                                                                   |
+| :material-head-outline:                              | Christian Rödelsperger.PhD                                                                                                                    |
+| :material-head-outline:                              | Martin-Atta Mensah, Dr. med.                                                                                                                  |
+| :material-head-outline:                              | Patrick Booms, Ph.D.                                                                                                                          |
+| :material-head-outline:                              | Marcel H Schulz, Ph.D. (<a href="https://schulzlab.github.io/MS.html">Uni Frankfurt</a>)                                                      |
+| :material-head-outline:                              | Miriam Sandya Bauer, Dr. med.                                                                                                                 |
+| :material-head-outline:                              | Begoña Muñoz-Garcia, PhD                                                                                                                      |
+| :material-head-outline:                              | Dmitri Parkhomchuk, PhD                                                                                                                       |
+| :material-head-outline:                              | Dr. Sebastian Bauer, PhD. (<a href="https://www.htw-berlin.de/hochschule/personen/person/?eid=8385">HTW Berlin</a>)                           |
+| :material-head-outline:                              | Oliver Stolpe (BIH)                                                                                                                           |
+| :material-head-outline:                              | Manuel Holgrewe, Ph.D. (<a href="https://www.cubi.bihealth.org/team/manuel-holtgrewe/">CUBI/BIH</a>)                                          |
+| :material-head-outline:                              | Verena Heinrich, Ph.D. (<a href="https://pure.mpg.de/cone/persons/resource/persons179829">MPG</a>)                                            |
 
             
-* Vida Ravanmehr, Ph.D.
-* Xingmin “Aaron” Zhang, Ph.D.
-* Sebastian Köhler, Dr. rer. nat. (<a href="http://drseb.github.io" target="_blank">Homepage</a>)
-* Peter Krawitz, Dr.med., Dipl. Phys. 
-* Marten Jäger, Msc Bioinformatik (<a href="https://scholar.google.com/citations?user=gcv8LpcAAAAJ" target="_blank">Google Scholar</a>)
-* Max Schubach, MSc. Bioinformatik  (<a href="https://scholar.google.de/citations?user=rIsf3wMAAAAJ" target="_blank">Google Scholar</a>)
-* Leon Kuchenbecker, MSc. Bioinformatik
-* Robin Steinhaus
-* Layal Abo-Kayal
-* Na Zhu
-* Christian Rödelsperger
-* Duc Dang
-* Martin-Atta Mensah
-* Patrick Booms
-* Marcel H Schulz
-* Miriam Sandya Bauer
-* Sandra Appelt 
-* Martin Wettig 
-* Begoña Muñoz-Garcia
-* Dmitri Parkhomchuk
-* Dr. Sebastian Bauer
-* Oliver Stolpe
-* Manuel Holgrewe
-* Verena Heinrich     
+

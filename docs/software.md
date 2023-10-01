@@ -6,16 +6,26 @@ software or computational resources of the lab.
 
 ## The Human Phenotype Ontology (HPO)
 
-The Human Phenotype Ontology (HPO) aims to provide a standardized vocabulary of phenotypic abnormalities encountered in human disease.
+The [Human Phenotype Ontology (HPO)](http://www.human-phenotype-ontology.org) aims to provide a standardized vocabulary of phenotypic abnormalities encountered in human disease.
 Terms in the HPO describe individual phenotypic abnormalities such as atrial septal defect.
 The HPO is developed as a part of the [Monarch Initiative](http://monarchinitiative.org).
-S|HPO - Homepage||link:http://www.human-phenotype-ontology.org|
-S|HPO - GitHub||link:https://github.com/obophenotype/human-phenotype-ontology|
+
+[HPO :material-github:](https://github.com/obophenotype/human-phenotype-ontology){: .md-button .md-button--primary }
+
+
+<figure markdown>
+![HPO](img/hpo-kpmp.jpg){ width="400" }
+<figcaption>Using HPO to suppor the Kidney Precision Medicine Project (KPMP). Figure from 
+Köhler et al (2021) The Human Phenotype Ontology in 2021. Nucleic Acids Res; 49:D1207-D1217
+</figcaption>
+</figure>
 
 ## The Medical Action Ontology (MAxO)
 the Medical Action Ontology (MAxO), the first ontology specifically designed to organize medical procedures, therapies, and interventions in a structured way. 
-Currently, MAxO contains 1757 medical action terms added through a combination of manual and semi-automated processes. 
-S|MAxO - GitHub||link:https://github.com/monarch-initiative/maxo|
+Currently, MAxO contains 1757 medical action terms added through a combination of manual and semi-automated processes.
+
+[MAxO :material-github:](https://github.com/monarch-initiative/maxo){: .md-button .md-button--primary }
+
 
 ## The Global Alliance for Health (GA4GH) Phenopacket Schema
 
@@ -28,9 +38,12 @@ The Phenopacket Schema represents an open standard for sharing disease and pheno
 </figure>
 
 * [Jacobsen JOB, et al. (2022) The GA4GH Phenopacket schema defines a computable representation of clinical data. Nat Biotechnol. 40:817-820](https://pubmed.ncbi.nlm.nih.gov/35705716/)
-S|phenopacket-schema - GitHub||link:https://github.com/phenopackets/phenopacket-schema|
+
+[Phenopacket-Schema :material-github:](https://github.com/phenopackets/phenopacket-schema){: .md-button .md-button--primary }
+
 * [Danis D,et al. (2023) Phenopacket-tools: Building and validating GA4GH Phenopackets. PLoS One. 18:e0285433](https://pubmed.ncbi.nlm.nih.gov/37196000/);
-S|phenopacket-tools - GitHub||link:https://github.com/phenopackets/phenopacket-tools|
+
+[Phenopacket TOOLS :material-github:](https://github.com/phenopackets/phenopacket-tools){: .md-button .md-button--primary }
 
 ## Exomiser
 
@@ -38,11 +51,14 @@ The Exomiser is a Java program that functionally annotates and prioritises varia
 VCF file. The Exomiser was developed by our group, Damian Smedley and Jules Jacobsen of the Mouse Informatics Group at the Sanger Institute (now at the 100,000 Genomes Project and Quenn Mary's University in London), and other members of the [Monarch Initiative](http://monarchinitiative.org).
 
 - [Robinson et al., 2014, Genome Research](https://pubmed.ncbi.nlm.nih.gov/24162188/){:target="_blank"} and [Smedley et al. (2015)](http://www.ncbi.nlm.nih.gov/pubmed/26562621){:target="_blank"}
-S|Exomiser - GitHub||link:https://github.com/exomiser/Exomiser|
-- An [online demo version](https://exomiser.monarchinitiative.org/exomiser/) is available
 
+[Exomiser :material-github:](https://github.com/exomiser/Exomiser){: .md-button .md-button--primary }
 
-	
+<figure markdown>
+![Exomiser](img/exomiser-alg.png){ width="400" }
+<figcaption>Overview of Exomiser algorithm
+</figcaption>
+</figure>
 
 ## Phenomizer
 The [Phenomizer](http://compbio.charite.de/phenomizer)  aims to help clinicians to identify the correct differential diagnosis 
@@ -53,18 +69,31 @@ The software then ranks all diseases from OMIM, Orphanet, and DECIPHER by a scor
 
 - See also [Kohler, S. et al., 2009](http://www.ncbi.nlm.nih.gov/pubmed/19800049)
 
+<figure markdown>
+![Exomiser](img/LDSphenomizer1.png){ width="400" }
+<figcaption>Phenomizer Graphical User Interface
+</figcaption>
+</figure>
+
+
+
 
 ## Phenol
 Phenol is a Java library for working with JSON phenotype ontologies including especially the Human Phenotype Ontology and 
 the Mammalian Phenotype Ontology and associate phenotype annotation files.
-S|Phenol - GitHub||link:https://github.com/monarch-initiative/phenol|
+
+[Phenol :material-github:](https://github.com/monarch-initiative/phenol){: .md-button .md-button--primary }
+
+	
 
 ## LIRICAL
 LIkelihood Ratio Interpretation of Clinical AbnormaLities (LIRICAL)   exploits the likelihood ratio (LR) 
 framework to provide an estimate of (1) the posttest probability of candidate diagnoses, 
 (2) the LR for each observed HPO phenotype, and (3) the predicted pathogenicity of observed genotypes.
-S|LIRICAL - GitHub||link:https://github.com/TheJacksonLaboratory/LIRICAL|
 
+[LIRICAL :material-github:](https://github.com/TheJacksonLaboratory/LIRICAL){: .md-button .md-button--primary }
+
+	
 
 <figure markdown>
 ![GA4GH Phenopacket Schema](img/lirical.jpg){ width="400" }
@@ -78,7 +107,10 @@ generates a small set of interpretable features for machine learning by calculat
 of wild-type and variant sequences of canonical and cryptic splice sites, assessing changes in candidate 
 splicing regulatory sequences, and incorporating characteristics of the sequence such as exon length, 
 disruptions of the AG exclusion zone, and conservation. 
-S|SQUIRLS - GitHub||link:https://github.com/TheJacksonLaboratory/SQUIRLS|
+
+[SQUIRLS :material-github:](https://github.com/TheJacksonLaboratory/SQUIRLS){: .md-button .md-button--primary }
+
+	
 
 <figure markdown>
 ![SQUIRLS](img/squirls.jpg){ width="400" }
@@ -94,7 +126,12 @@ underascertained owing to sequencing technology limitations. Long-read sequencin
 detection of SVs, but approaches for prioritization of candidate SVs are needed. Structural variant 
 Annotation and analysis (SvAnna) assesses all classes of SVs and their intersection with transcripts and regulatory 
 sequences, relating predicted effects on gene function with clinical phenotype data. 
-S|SvAnna - GitHub||link:https://github.com/TheJacksonLaboratory/Svanna|
+
+[SvAnna :material-github:](https://github.com/TheJacksonLaboratory/SvAnna){: .md-button .md-button--primary }
+
+	
+
+
 
 <figure markdown>
 ![SvAnna](img/svanna.png){ width="400" }
@@ -109,8 +146,10 @@ Genome Med; 14:44.
 
 Chromatin immunoprecipitation coupled with next-generation sequencing (ChIP-seq) is a powerful technology to identify the genome-wide locations of transcription factors and other DNA binding proteins. Computational ChIP-seq peak calling infers the location of protein-DNA interactions based on various measures of enrichment of sequence reads.
 Our algorithm, Q,  uses an assessment of the quadratic enrichment of reads to center candidate peaks followed by statistical analysis of saturation of candidate peaks by 5' ends of reads. We show that our method not only is substantially faster than several competing methods but also demonstrates statistically significant advantages with respect to reproducibility of results and in its ability to identify peaks with reproducible binding site motifs.
-S|Q - GitHub||link:https://github.com/charite/Q|
 
+[Q :material-github:](https://github.com/charite/Q){: .md-button .md-button--primary }
+
+	
 
 
 <figure markdown>
@@ -125,7 +164,11 @@ analysis of ChIP-seq data for reproducible identification of binding peaks. Geno
  Target enrichment combined with chromosome conformation capturing methodologies such as capture Hi-C (CHC) can be used 
  to investigate spatial layouts of genomic regions with high resolution and at scalable costs. A common application of CHC is the investigation of regulatory elements that are in contact with promoters, but CHC can be used for a range of other applications. 
 GOPHER (Generator Of Probes for capture Hi-C Experiments at high Resolution) is an easy-to-use and robust desktop application for CHC probe design
-S|GOPHER - GitHub||link:https://github.com/TheJacksonLaboratory/Gopher|
+
+[GOPHER :material-github:](https://github.com/TheJacksonLaboratory/Gopher){: .md-button .md-button--primary }
+
+	
+
 
 <figure markdown>
 ![HBA-DEALS](img/gopher.png){ width="400" }
@@ -139,7 +182,9 @@ It uses counts data for isoforms (alternative transcripts of a gene) to infer th
 Bayesian model of expression and splicing. It then uses the posterior of the parameters to determine the existence 
 of differential expression and/or differential alternative splicing. Isoform counts can be derived from short-read 
 sequencing RNA-Seq data or from long-read RNA sequencing data such as that generated by the PacBio SequelII platform.
-S|HBA-DEALS - GitHub||link:https://github.com/TheJacksonLaboratory/HBA-DEALS|
+
+[HBA-DEALS :material-github:](https://github.com/TheJacksonLaboratory/HBA-DEALS){: .md-button .md-button--primary }
+
 
 <figure markdown>
 ![HBA-DEALS](img/hbadeals.png){ width="400" }
@@ -152,7 +197,9 @@ isopret (*isoform interpretation*) is a method that uses expectation–maximizat
 functions based on the relationship between sequence and functional isoform similarity. 
 We predicted isoform-specific functional annotations for 85 617 isoforms of 17 900 protein-coding human genes spanning 
 a range of 17 430 distinct gene ontology terms. 
-S|isopretEM - GitHub||link:https://github.com/TheJacksonLaboratory/isopretEM|
+
+[isopretEM :material-github:](https://github.com/TheJacksonLaboratory/isopretEM){: .md-button .md-button--primary }
+
 
 <figure markdown>
 ![HBA-DEALS](img/isopret.jpg){ width="400" }
