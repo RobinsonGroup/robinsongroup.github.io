@@ -80,11 +80,11 @@ top: false
 
 -pmid: 37076585
 authors: Stefancsik R, Balhoff JP, Balk MA, Ball RL, Bello SM, Caron AR, Chesler EJ, de Souza V, Gehrke S, Haendel M, Harris LW, Harris NL, Ibrahim A, Koehler S, Matentzoglu N, McMurry JA, Mungall CJ, Munoz-Torres MC, Putman T, Robinson P, Smedley D, Sollis E, Thessen AE, Vasilevsky N, Walton DO, Osumi-Sutherland D
-year: 2021
+year: 2023
 title: The Ontology of Biological Attributes (OBA)-computational traits for the life sciences
 journal: Mamm Genome
-volume: Epub ahead of print
-pages: doi: 10.1007/s00335-023-09992-1
+volume: 34(3):
+pages: 364-378
 top: false
 
 -pmid: 36929917
@@ -155,7 +155,7 @@ title: Generalisable long COVID subtypes: findings from the NIH N3C and RECOVER 
 journal: EBioMedicine
 volume: 87
 pages: 104413
-top: false
+top:true
 
 -pmid: 36400170
 authors: Chan LE, Casiraghi E, Laraway B, Coleman B, Blau H, Zaman A, Harris NL, Wilkins K, Antony B, Gargano M, Valentini G, Sahner D, Haendel M, Robinson PN, Bramante C, Reese J; N3C consortium
@@ -181,8 +181,8 @@ authors: Dhombres F, Morgan P,  Chaudhari BP, Filges I, Sparks TN, Lapunzina P, 
 year: 2022
 title: Prenatal phenotyping: a community effort to enhance the Human Phenotype Ontology
 journal: Am J Med Genet C
-volume: in press
-pages: 
+volume: 190(2)
+pages: 231-242
 top: false
 
 -pmid: 36910590
@@ -274,7 +274,7 @@ title: Risk of new-onset psychiatric sequelae of COVID-19 in the early and late 
 journal: World Psychiatry
 volume: 21
 pages: 319-320
-top: false
+top: true
 
 -pmid: 35351638
 authors: Yan S, Luo L, Lai PT, Veltri D, Oler AJ, Xirasagar S, Ghosh R, Similuk M, Robinson PN, Lu Z
@@ -292,8 +292,7 @@ title: The GA4GH Phenopacket schema: A computable representation of clinical dat
 journal: Nat Biotechnol
 volume: 40(6)
 pages: 817-820
->
-        top: true
+top: true
 
 -pmid:  35570298
 authors: Reese JT, Coleman B, Chan L, Blau H, Callahan TJ, Cappelletti L, Fontana T, 
@@ -310,13 +309,11 @@ top: false
 authors: Danis D, Jacobsen JOB, Balachandran P, Zhu Q, Yilmaz F, Reese J, Haimel M, Lyon GJ, Helbig I, Mungall CJ, Beck C, Lee C,
     Smedley D, Robinson PN, 
 year: 2022
-title: SvAnna: efficient and accurate pathogenicity prediction for coding and regulatory structural 
-        variants in long-read genome sequencing
+title: SvAnna: efficient and accurate pathogenicity prediction for coding and regulatory structural variants in long-read genome sequencing
 journal: Genome Med
 volume: 14
 pages: 44
->
-        top: true
+top: true
 
 -pmid: 35311178
 authors: Wagner AH, Babb L, Alterovitz G, Baudis M, Brush M, Cameron DL, Cline M, Griffith M, Griffith OL,
@@ -432,8 +429,7 @@ title: Interpretable prioritization of splice variants in diagnostic next-genera
 journal: Am J Hum Genet
 volume: 108
 pages: 1564-1577
->
-        top: true
+top: true
 
 -pmid: 34240108
 authors: Notaro M, Frasca M, Petrini A, Gliozzo J, Casiraghi E, Robinson PN, Valentini G
@@ -584,8 +580,7 @@ title: Interpretable Clinical Genomics with a Likelihood Ratio Paradigm
 journal: Am J Hum Genet
 volume: 107
 pages: 403-417
->
-        top: true
+top: true
 
 -pmid: 32660516
 authors: Karlebach G, Hansen P, Veiga DF, Steinhaus R, Danis D, Li S, Anczukow O, , Robinson PN
@@ -594,8 +589,7 @@ title: HBA-DEALS: accurate and simultaneous identification of differential expre
 journal: Genome Biol
 volume: 32660516
 pages: 171
->
-        top: true
+top: true
 
 -pmid: 32444882
 authors: Petrini A, Mesiti M, Schubach M, Frasca M, Danis D, Re M, Grossi G, Cappelletti L, Castrignan{\`{o}} T, , Robinson PN, Valentini G
@@ -640,8 +634,7 @@ title: Pervasive and CpG-dependent promoter-like characteristics of transcribed 
 journal: Nucleic Acids Res
 volume: 48
 pages: 5306-5317
->
-        top: true
+top: true
 
 -pmid: 32020066
 authors: Haendel M, Vasilevsky N, Unni D, Bologa C, Harris N, Rehm H, Hamosh A, Baynam G, Groza T, McMurry J, Dawkins H, Rath A, Thaxon C, Bocci G, Joachimiak MP, Köhler S,, Robinson PN, Mungall C, Oprea TI
@@ -844,8 +837,7 @@ title: Classification, Ontology, and Precision Medicine
 journal: N Engl J Med
 volume: 379
 pages: 1452-1462
->
-        top: true
+top: true
 
 -pmid: 29653293
 authors: Khayal LA, Grünhagen J, Provazník I, Mundlos S, Kornak U, Robinson PN, Ott CE
@@ -1081,8 +1073,7 @@ title: The Monarch Initiative: an integrative data and analytic platform connect
 journal: Nucleic Acids Res
 volume: 45
 pages: D712-D722
->
-        top: true
+top: true
 
 -pmid: 27924012
 authors: Penzkofer T, Jäger M, Figlerowicz M, Badge R, Mundlos S, Robinson PN, Zemojtel T
@@ -1102,8 +1093,7 @@ title: A Whole-Genome Analysis Framework for Effective Identification of Pathoge
 journal: Am J Hum Genet
 volume: 99
 pages: 595-606
->
-        top: true
+top: true
 
 -pmid: 27814676
 authors: Hansen P, Hecht J, Ibn-Salem J, Menkuec BS, Roskosch S, Truss M, Robinson PN
@@ -1144,8 +1134,7 @@ title: Alternate-locus aware variant calling in whole genome sequencing
 journal: Genome Med
 volume: 8
 pages: 130
->
-        top: true
+top: true
 
 -pmid: 27565584
 authors: Heinrich V, Kamphans T, Mundlos S, Robinson PN, Krawitz PM
@@ -1187,8 +1176,7 @@ title: Rare Noncoding Mutations Extend the Mutational Spectrum in the PGAP3 Subt
 journal: Hum Mutat
 volume: 37
 pages: 737-744
->
-        top: true
+top: true
 
 -pmid: 27209209
 authors: Hombach D, Schwarz JM, Robinson PN, Schuelke M, Seelow D
@@ -1217,8 +1205,7 @@ title: Analysis of Strengths, Weaknesses, Opportunities, and Threats as a Tool f
 journal: Aorta (Stamford)
 volume: 3
 pages: 98-107
->
-        top: true
+top: false
 
 -pmid: 28249667
 authors: Girdauskas E, Robinson PN, von Kodolitsch Y
@@ -1227,8 +1214,7 @@ title: Interpreting Phenotypic Features of Bicuspid Aortic Valve Disease: From S
 journal: Am J Med
 volume: 130(7)
 pages: e315-e31
->
-        top: true
+top: false
 
 -pmid: 27604469
 authors: Jiang Y, Oron TR, Clark WT, Bankapur AR, D'Andrea D, Lepore R, Funk CS,
@@ -1309,7 +1295,7 @@ title: Human genotype-phenotype databases: aims, challenges and opportunities
 journal: Nat Rev Genet
 volume: 16
 pages: 702-15
-top: false
+top: true
 
 -pmid: 26320891
 authors: Fischer-Zirnsak B, Escande-Beillard N, Ganesh J, Tan YX, Al Bughaili M, Lin
@@ -1432,8 +1418,7 @@ title: Saturation analysis of ChIP-seq data for reproducible identification of b
 journal: Genome Res
 volume: 25
 pages: 1391-1400
->
-        top: true
+top: true
 
 -pmid: 26124674
 authors: von Kodolitsch Y, De Backer J, Schüler H, Bannas P, Behzadi C, Bernhardt AM,
@@ -1453,8 +1438,7 @@ title: Next-Generation Diagnostics and Disease Gene Discovery with the Exomiser
 journal: Nat Protoc
 volume: 10
 pages: 2004-2015
->
-        top: true
+top: true
 
 -pmid: 26229552
 authors: Smedley D, Robinson PN
@@ -1510,8 +1494,7 @@ title: The Human Phenotype Ontology: Semantic unification of common and rare dis
 journal: Am J Human Genet
 volume: 97
 pages: 111-124
->
-        top: true
+top: true
 
 -pmid: 25987567
 authors: Kuchenbecker L, Nienen M, Hecht J, Neumann AU, Babel N, Reinert K, Robinson PN
@@ -1684,8 +1667,7 @@ title: Deletions of chromosomal regulatory boundaries are associated with congen
 journal: Genome Biology
 volume: 15
 pages: 423
->
-        top: true
+top: true
 
 -pmid: 25109851
 authors: Baynam G, Walters M, Claes P, Kung S, LeSouef P, Dawkins H, Bellgard M, Girdea
@@ -1707,8 +1689,7 @@ title: Effective diagnosis of genetic disease by computational phenotype analysi
 journal: Science Transl Med
 volume: 6(252)
 pages: A252ra123
->
-        top: true
+top: true
 
 -pmid: 25113270
 authors: Hillebrand M, Millot N, Sheikhzadeh S, Rybczynski M, Gerth S, Kölbel T, Keyser
@@ -1902,8 +1883,7 @@ title: Improved exome prioritization of disease genes through cross species phen
 journal: Genome Res
 volume: 24
 pages: 340-348
->
-        top: true
+top: true
 
 -pmid: 23991918
 authors: Sheikhzadeh S, Sondermann C, Rybczynski M, Habermann CR, Brockstaedt L, Keyser
@@ -2101,8 +2081,7 @@ title: Antagonism of GxxPG fragments ameliorates manifestations of aortic diseas
 journal: Hum Mol Genet
 volume: 22
 pages: 433-443
->
-        top: true
+top: true
 
 -pmid: 23041261
 authors: Saini S, Robinson PN, Singh JR, Vanita V
@@ -2405,8 +2384,7 @@ title: Identity-By-Descent Filtering of Exome Sequence data for Disease-Gene Ide
 journal: Bioinformatics
 volume: 27
 pages: 829-836
->
-        top: true
+top: false
 
 -pmid: 21305018
 authors: Ott CE, Grünhagen J, Jäger M, Horbelt D, Schwill S, Kallenbach K, Guo G, Manke T, Knaus P, Mundlos S, Robinson PN
@@ -2415,8 +2393,7 @@ title: MicroRNAs Differentially Expressed in Postnatal Aortic Development Downre
 journal: PLoS ONE
 volume: 6
 pages: e16250
->
-        top: true
+top: false
 
 -pmid: 20979188
 authors: Graul-Neumann LM, Kienitz T, Robinson PN, Baasanjav S, Karow B,

@@ -2,6 +2,39 @@
 
 Authors who are lab members or alumni are shown in **bold** font.
 
+## Highlights
+
+| Author | Year   | Title  | Journal | PMID |
+|:------ |:------ |:------ |:------- |:------ |
+**Reese JT**|2023|Generalisable long COVID subtypes findings from the NIH N3C and RECOVER programmes|EBioMedicine|[PMID:36563487](https://pubmed.ncbi.nlm.nih.gov/36563487/)
+**Coleman B**|2022|Risk of new-onset psychiatric sequelae of COVID-19 in the early and late post-acute phase|World Psychiatry|[PMID:35524622](https://pubmed.ncbi.nlm.nih.gov/35524622/)
+**Jacobsen JOB**|2022|The GA4GH Phenopacket schema A computable representation of clinical data for precision medicine|Nat Biotechnol|[PMID:35705716](https://pubmed.ncbi.nlm.nih.gov/35705716/)
+**Danis D**|2022|SvAnna efficient and accurate pathogenicity prediction for coding and regulatory structural variants in long-read genome sequencing|Genome Med|[PMID:35484572](https://pubmed.ncbi.nlm.nih.gov/35484572/)
+**Danis D**|2021|Interpretable prioritization of splice variants in diagnostic next-generation sequencing|Am J Hum Genet|[PMID:34289339](https://pubmed.ncbi.nlm.nih.gov/34289339/)
+**Robinson PN**|2020|Interpretable Clinical Genomics with a Likelihood Ratio Paradigm|Am J Hum Genet|[PMID:32755546](https://pubmed.ncbi.nlm.nih.gov/32755546/)
+**Karlebach G**|2020|HBA-DEALS accurate and simultaneous identification of differential expression and splicing using hierarchical Bayesian analysis|Genome Biol|[PMID:32660516](https://pubmed.ncbi.nlm.nih.gov/32660516/)
+**Steinhaus R**|2020|Pervasive and CpG-dependent promoter-like characteristics of transcribed enhancers|Nucleic Acids Res|[PMID:32338759](https://pubmed.ncbi.nlm.nih.gov/32338759/)
+**Haendel MA**|2018|Classification, Ontology, and Precision Medicine|N Engl J Med|[PMID:30304648](https://pubmed.ncbi.nlm.nih.gov/30304648/)
+**Mungall CJ**|2017|The Monarch Initiative an integrative data and analytic platform connecting phenotypes to genotypes across species|Nucleic Acids Res|[PMID:27899636](https://pubmed.ncbi.nlm.nih.gov/27899636/)
+**Smedley D**|2016|A Whole-Genome Analysis Framework for Effective Identification of Pathogenic Regulatory Variants in Mendelian Disease|Am J Hum Genet|[PMID:27569544](https://pubmed.ncbi.nlm.nih.gov/27569544/)
+**Jäger M**|2016|Alternate-locus aware variant calling in whole genome sequencing|Genome Med|[PMID:27964746](https://pubmed.ncbi.nlm.nih.gov/27964746/)
+**Knaus A**|2016|Rare Noncoding Mutations Extend the Mutational Spectrum in the PGAP3 Subtype of Hyperphosphatasia with Mental Retardation Syndrome|Hum Mutat|[PMID:27120253](https://pubmed.ncbi.nlm.nih.gov/27120253/)
+**Brookes AJ**|2015|Human genotype-phenotype databases aims, challenges and opportunities|Nat Rev Genet|[PMID:26553330](https://pubmed.ncbi.nlm.nih.gov/26553330/)
+**Hansen P**|2015|Saturation analysis of ChIP-seq data for reproducible identification of binding peaks|Genome Res|[PMID:26163319](https://pubmed.ncbi.nlm.nih.gov/26163319/)
+**Smedley D**|2015|Next-Generation Diagnostics and Disease Gene Discovery with the Exomiser|Nat Protoc|[PMID:26562621](https://pubmed.ncbi.nlm.nih.gov/26562621/)
+**Groza T**|2015|The Human Phenotype Ontology Semantic unification of common and rare disease|Am J Human Genet|[PMID:26119816](https://pubmed.ncbi.nlm.nih.gov/26119816/)
+**Ibn-Salem J**|2014|Deletions of chromosomal regulatory boundaries are associated with congenital disease|Genome Biology|[PMID:](https://pubmed.ncbi.nlm.nih.gov//)
+**Zemojtel T**|2014|Effective diagnosis of genetic disease by computational phenotype analysis of the disease-associated genome|Science Transl Med|[PMID:25186178](https://pubmed.ncbi.nlm.nih.gov/25186178/)
+**Robinson PN**|2014|Improved exome prioritization of disease genes through cross species phenotype comparison|Genome Res|[PMID:24162188](https://pubmed.ncbi.nlm.nih.gov/24162188/)
+**Guo G**|2013|Antagonism of GxxPG fragments ameliorates manifestations of aortic disease in Marfan syndrome mice|Hum Mol Genet|[PMID:23100322](https://pubmed.ncbi.nlm.nih.gov/23100322/)
+**Krawitz PM**|2010|Identity-by-Descent Filtering of Exome Sequence Data identifies PIGV mutations in Hyperphosphatasia Mental Retardation syndrome (HPMR)|Nat Genet|[PMID:20802478](https://pubmed.ncbi.nlm.nih.gov/20802478/)
+**Bauer S**|2010|GOing Bayesian model-based gene set analysis of genome-scale data|Nucleic Acids Res|[PMID:n/a](https://pubmed.ncbi.nlm.nih.gov/n/a/)
+**Köhler S**|2009|Clinical Diagnostics in Human Genetics with Semantic Similarity Searches in Ontologies|Am J Hum Genet|[PMID:19800049](https://pubmed.ncbi.nlm.nih.gov/19800049/)
+**Robinson PN**|2008|The Human Phenotype Ontology A Tool for Annotating and Analyzing Human Hereditary Disease|Am J Hum Genet|[PMID:18950739](https://pubmed.ncbi.nlm.nih.gov/18950739/)
+**Köhler S**|2008|Walking the interactome for prioritization of candidate disease genes|Am J Hum Genet|[PMID:18371930](https://pubmed.ncbi.nlm.nih.gov/18371930/)
+**Guo G**|2006|Induction of macrophage chemotaxis by aortic extracts of the mgR Marfan mouse model and a GxxPG-containing fibrillin-1 fragment|Circulation|[PMID:17030689](https://pubmed.ncbi.nlm.nih.gov/17030689/)
+
+
 ## 2023 Publications
 
 1. Stefanucci L, Collins JH, Sims MC, Barrio-Hernandez I, Sun L, Burren O, Perfetto L, Bender I, Callahan TJ, Fleming K, Guerrero JA, Hermjakob H, Martin MJ, Stephenson JD, Paneerselvam K, Petrovski S, Porras P, **Robinson PN**, Wang Q, Watkins X, Frontini M, Laskowski RA, Beltrao P, Di Angelantonio E, Gomez K, Laffan M, Ouwehand WH, Mumford AD, Freson K, Carss KJ, Downes K, Gleadall NS, Megy K, Bruford E, Vuckovic D  
@@ -28,82 +61,82 @@ The Ontology of Biological Attributes (OBA)-computational traits for the life sc
 8. Cappelletti L, Taverni, S, Fontana T, Joachimiak MP, Reese J,   Robinson N, Casiraghi E,  Valentini G  
 Degree-Normalization Improves Random-Walk-Based Embedding Accuracy in PPI Graphs  
  *in Bioinformatics and Biomedical Engineering, editors Rojas I, Valenzuela O, Rojas Ruiz F, Herrera LJ,  Ortuño F*, 2023; **n/a**:372-383 [PMID:](https://pubmed.ncbi.nlm.nih.gov//){:target="_blank"}
-9. **Karlebach G**, **Carmody L**, Sundaramurthi JC, Casiraghi E, **Hansen P**, Reese J, Mungall CJ, Valentini G,  **Robinson PN**  
+9. Stefancsik R, Balhoff JP, Balk MA, Ball RL, Bello SM, Caron AR, Chesler EJ, de Souza V, Gehrke S, Haendel M, Harris LW, Harris NL, Ibrahim A, **Koehler S**, Matentzoglu N, McMurry JA, Mungall CJ, Munoz-Torres MC, Putman T, Robinson P, Smedley D, Sollis E, Thessen AE, Vasilevsky N, Walton DO, Osumi-Sutherland D  
+The Ontology of Biological Attributes (OBA)-computational traits for the life sciences  
+ *Mamm Genome*, 2023; **34(3)**:364-378 [PMID:37076585](https://pubmed.ncbi.nlm.nih.gov/37076585/){:target="_blank"}
+10. **Karlebach G**, **Carmody L**, Sundaramurthi JC, Casiraghi E, **Hansen P**, Reese J, Mungall CJ, Valentini G,  **Robinson PN**  
 An expectation-maximization framework for comprehensive prediction of isoform-specific functions  
  *Bioinformatics*, 2023; **39(4)**:btad132 [PMID:36929917](https://pubmed.ncbi.nlm.nih.gov/36929917/){:target="_blank"}
-10. **Danis D**, Jacobsen JOB, Wagner AH, Groza T, Beckwith MA, Rekerle L, **Carmody L**C, Reese J, Hegde H, Ladewig MS, Seitz B, Munoz-Torres M, Harris NL, Rambla J, Baudis M, Mungall CJ, Haendel MA, **Robinson PN**  
+11. **Danis D**, Jacobsen JOB, Wagner AH, Groza T, Beckwith MA, Rekerle L, **Carmody L**C, Reese J, Hegde H, Ladewig MS, Seitz B, Munoz-Torres M, Harris NL, Rambla J, Baudis M, Mungall CJ, Haendel MA, **Robinson PN**  
 Phenopacket-tools Building and validating GA4GH Phenopackets  
  *PLoS One*, 2023; **18(5)**:e0285433 [PMID:37196000](https://pubmed.ncbi.nlm.nih.gov/37196000/){:target="_blank"}
-11. Casiraghi E, Wong R, Hall M, **Coleman B**, Notaro M, Evans MD, Tronieri JS, **Blau H**, Laraway B, Callahan TJ, Chan LE, Bramante CT, Buse JB, Moffitt RA, Stürmer T, Johnson SG, Raymond Shao Y, Reese J, **Robinson PN**, Paccanaro A, Valentini G, Huling JD, Wilkins KJ; N3C Consortium  
+12. Casiraghi E, Wong R, Hall M, **Coleman B**, Notaro M, Evans MD, Tronieri JS, **Blau H**, Laraway B, Callahan TJ, Chan LE, Bramante CT, Buse JB, Moffitt RA, Stürmer T, Johnson SG, Raymond Shao Y, Reese J, **Robinson PN**, Paccanaro A, Valentini G, Huling JD, Wilkins KJ; N3C Consortium  
 A method for comparing multiple imputation techniques A case study on the U.S. national COVID cohort collaborative  
  *J Biomed Inform*, 2023; **139**:104295 [PMID:36716983](https://pubmed.ncbi.nlm.nih.gov/36716983/){:target="_blank"}
-12. Knoflach K, Rapp CK, Schwerk N, Carlens J, Wetzke M, Emiralioğlu N, Kiper N, Ring AM, Buchvald F, Manali E, Papiris S, Reu-Hofer S, Kappler M, Schieber A, Seidl E, Gothe F, **Robinson PN**, Griese M; ChILD EU Collaborators  
+13. Knoflach K, Rapp CK, Schwerk N, Carlens J, Wetzke M, Emiralioğlu N, Kiper N, Ring AM, Buchvald F, Manali E, Papiris S, Reu-Hofer S, Kappler M, Schieber A, Seidl E, Gothe F, **Robinson PN**, Griese M; ChILD EU Collaborators  
 Diffuse alveolar hemorrhage in children with interstitial lung disease Determine etiologies!  
  *Pediatr Pulmonol*, 2023; **58(4)**:1106-1121 [PMID:36588100](https://pubmed.ncbi.nlm.nih.gov/36588100/){:target="_blank"}
-13. Reese JT, **Blau H**, Casiraghi E, Bergquist T, Loomba JJ, Callahan TJ, Laraway B, Antonescu C, **Coleman B**, **Gargano M**, Wilkins KJ, Cappelletti L, Fontana T, Ammar N, Antony B, Murali TM, Caufield JH, **Karlebach G**, McMurry JA, Williams A, Moffitt R, Banerjee J, Solomonides AE, Davis H, Kostka K, Valentini G, Sahner D, Chute CG, Madlock-Brown C, Haendel MA, **Robinson PN**; N3C Consortium; RECOVER Consortium  
+14. Reese JT, **Blau H**, Casiraghi E, Bergquist T, Loomba JJ, Callahan TJ, Laraway B, Antonescu C, **Coleman B**, **Gargano M**, Wilkins KJ, Cappelletti L, Fontana T, Ammar N, Antony B, Murali TM, Caufield JH, **Karlebach G**, McMurry JA, Williams A, Moffitt R, Banerjee J, Solomonides AE, Davis H, Kostka K, Valentini G, Sahner D, Chute CG, Madlock-Brown C, Haendel MA, **Robinson PN**; N3C Consortium; RECOVER Consortium  
 Generalisable long COVID subtypes findings from the NIH N3C and RECOVER programmes  
  *EBioMedicine*, 2023; **87**:104413 [PMID:36563487](https://pubmed.ncbi.nlm.nih.gov/36563487/){:target="_blank"}
 ## 2022 Publications
 
-14. Chan LE, Casiraghi E, Laraway B, **Coleman B**, **Blau H**, Zaman A, Harris NL, Wilkins K, Antony B, **Gargano M**, Valentini G, Sahner D, Haendel M, **Robinson PN**, Bramante C, Reese J; N3C consortium  
+15. Chan LE, Casiraghi E, Laraway B, **Coleman B**, **Blau H**, Zaman A, Harris NL, Wilkins K, Antony B, **Gargano M**, Valentini G, Sahner D, Haendel M, **Robinson PN**, Bramante C, Reese J; N3C consortium  
 Metformin is associated with reduced COVID-19 severity in patients with prediabetes  
  *Diabetes Res Clin Pract*, 2022; **194**:110157 [PMID:36400170](https://pubmed.ncbi.nlm.nih.gov/36400170/){:target="_blank"}
-15. Tummala H, Walne A, Buccafusca R,Alnajar J, Szabo A, Robinson P, McConkie-Rosell A, Wilson M, Crowley A, Kinsler V, Ewins AM,Madapura PM, Patel M, Pontikos N, Codd V,Vulliamy T, Dokal I  
+16. Tummala H, Walne A, Buccafusca R,Alnajar J, Szabo A, Robinson P, McConkie-Rosell A, Wilson M, Crowley A, Kinsler V, Ewins AM,Madapura PM, Patel M, Pontikos N, Codd V,Vulliamy T, Dokal I  
 Germline thymidylate synthase deficiency impacts nucleotide metabolism and causes dyskeratosis congenita  
  *Am J Hum Genet*, 2022; **109**:1472-1483 [PMID:](https://pubmed.ncbi.nlm.nih.gov//){:target="_blank"}
-16. Dhombres F, Morgan P,  Chaudhari BP, Filges I, Sparks TN, Lapunzina P,  Roscioli T, Agarwal U, Aggarwal S, Beneteau C, Cacheiro P, **Carmody L**C, Collardeau-Frachon S, Dempsey EA, Dufke A, Duyzend MH, El Ghosh M, Giordano JL, Glad R, Grinfelde I, Iliescu DG, Ladewig MS, Munoz-Torres MC, Pollazzon M, Radio FC,  Rodo C,  Gouveia Silva R, Smedley D, Sundaramurthi JC, Toro S, Valenzuela I, Vasilevsky NA, Wapner RJ, Zemet R, Haendel MA, **Robinson PN**  
+17. Dhombres F, Morgan P,  Chaudhari BP, Filges I, Sparks TN, Lapunzina P,  Roscioli T, Agarwal U, Aggarwal S, Beneteau C, Cacheiro P, **Carmody L**C, Collardeau-Frachon S, Dempsey EA, Dufke A, Duyzend MH, El Ghosh M, Giordano JL, Glad R, Grinfelde I, Iliescu DG, Ladewig MS, Munoz-Torres MC, Pollazzon M, Radio FC,  Rodo C,  Gouveia Silva R, Smedley D, Sundaramurthi JC, Toro S, Valenzuela I, Vasilevsky NA, Wapner RJ, Zemet R, Haendel MA, **Robinson PN**  
 Prenatal phenotyping a community effort to enhance the Human Phenotype Ontology  
- *Am J Med Genet C*, 2022; **in press**: [PMID:](https://pubmed.ncbi.nlm.nih.gov//){:target="_blank"}
-17. Ladewig MS,  Jacobsen JOB, Wagner AH, **Danis D**, El Kassaby B, **Gargano M**, Groza T, Baudis M, Steinhaus R, Seelow D, Bechrakis NE, Mungall CJ, Schofield PN, Elemento O, Smith L, McMurry JA, Munoz-Torres M, Haendel MA,  **Robinson PN**  
+ *Am J Med Genet C*, 2022; **190(2)**:231-242 [PMID:](https://pubmed.ncbi.nlm.nih.gov//){:target="_blank"}
+18. Ladewig MS,  Jacobsen JOB, Wagner AH, **Danis D**, El Kassaby B, **Gargano M**, Groza T, Baudis M, Steinhaus R, Seelow D, Bechrakis NE, Mungall CJ, Schofield PN, Elemento O, Smith L, McMurry JA, Munoz-Torres M, Haendel MA,  **Robinson PN**  
 GA4GH Phenopackets A practical introduction  
  *Adv Genet (Hoboken)*, 2022; **4**:2200016 [PMID:36910590](https://pubmed.ncbi.nlm.nih.gov/36910590/){:target="_blank"}
-18. **Robinson PN**, Graessner H  
+19. **Robinson PN**, Graessner H  
 Datenstandards für Seltene Erkrankungen  
  *Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz*, 2022; **65(11)**:1126-1132 [PMID:](https://pubmed.ncbi.nlm.nih.gov//){:target="_blank"}
-19. Petrini A, Notaro M, Gliozzo J, Castrignan{\`o} T, **Robinson PN**, Casiraghi E, Valentini G  
+20. Petrini A, Notaro M, Gliozzo J, Castrignan{\`o} T, **Robinson PN**, Casiraghi E, Valentini G  
 ParSMURF-NG A Machine Learning High Performance Computing System for the Analysis of Imbalanced Big Omics Data  
  *Artificial Intelligence Applications and Innovations. AIAI 2022 IFIP WG 12.5 International Workshops*, 2022; **n/a**:424-435 [PMID:](https://pubmed.ncbi.nlm.nih.gov//){:target="_blank"}
-20. Steinhaus R, **Robinson PN**, Seelow D  
+21. Steinhaus R, **Robinson PN**, Seelow D  
 FABIAN-variant predicting the effects of DNA variants on transcription factor binding  
  *Nucleic Acids Res*, 2022; **50(W1)**:W322-W329 [PMID:35639768](https://pubmed.ncbi.nlm.nih.gov/35639768/){:target="_blank"}
-21. Jacobsen JOB, Kelly C, Cipriani V, **Robinson PN**, Smedley D  
+22. Jacobsen JOB, Kelly C, Cipriani V, **Robinson PN**, Smedley D  
 Evaluation of phenotype-driven gene prioritization methods for Mendelian diseases  
  *Brief Bioinform*, 2022; **38(12)**:1271-1283 [PMID:35595299](https://pubmed.ncbi.nlm.nih.gov/35595299/){:target="_blank"}
-22. Steinhaus R, Proft S, Seelow E, Schalau T, **Robinson PN**, Seelow D  
+23. Steinhaus R, Proft S, Seelow E, Schalau T, **Robinson PN**, Seelow D  
 Deep phenotyping symptom annotation made simple with SAMS  
  *Nucleic Acids Res*, 2022; **50(W1)**:W677-W681 [PMID:35524573](https://pubmed.ncbi.nlm.nih.gov/35524573/){:target="_blank"}
-23. Koc S, Lloyd MW, Grover JW, Xiao N, Seepo S, Subramanian SL, Ray M, Frech C, DiGiovanna J, Webster P, Neuhauser S, Srivastava A, Woo XY, Sanderson BJ, White B, Lott P, Dobrolecki LE, Dowst H; PDXNet Consortium, Evrard YA, Wallace TA, Moscow JA, Doroshow JH, Mitsiades N, Kaochar S, Pan CX, Chen MS, Carvajal-Carmona L, Welm AL, Welm BE, Lewis MT, Govindan R, Ding L, Li S, Herlyn M, Davies MA, Roth J, Meric-Bernstam F, **Robinson PN**, Bult CJ, Davis-Dusenbery B, Dean DA 2nd, Chuang JH  
+24. Koc S, Lloyd MW, Grover JW, Xiao N, Seepo S, Subramanian SL, Ray M, Frech C, DiGiovanna J, Webster P, Neuhauser S, Srivastava A, Woo XY, Sanderson BJ, White B, Lott P, Dobrolecki LE, Dowst H; PDXNet Consortium, Evrard YA, Wallace TA, Moscow JA, Doroshow JH, Mitsiades N, Kaochar S, Pan CX, Chen MS, Carvajal-Carmona L, Welm AL, Welm BE, Lewis MT, Govindan R, Ding L, Li S, Herlyn M, Davies MA, Roth J, Meric-Bernstam F, **Robinson PN**, Bult CJ, Davis-Dusenbery B, Dean DA 2nd, Chuang JH  
 PDXNet portal patient-derived Xenograft model, data, workflow and tool discovery  
  *NAR Cancer*, 2022; **4**:zcac014 [PMID:35475145](https://pubmed.ncbi.nlm.nih.gov/35475145/){:target="_blank"}
-24. Chin HL, Gazzaz N, Huynh S, Handra I, Warnock L, Moller-Hansen A, Boerkoel P, Jacobsen JOB, du Souich C, Zhang N, Shefchek K, Prentice LM, Washington N, Haendel M, Armstrong L, Clarke L, Li WL, Smedley D, **Robinson PN**, Boerkoel CF  
+25. Chin HL, Gazzaz N, Huynh S, Handra I, Warnock L, Moller-Hansen A, Boerkoel P, Jacobsen JOB, du Souich C, Zhang N, Shefchek K, Prentice LM, Washington N, Haendel M, Armstrong L, Clarke L, Li WL, Smedley D, **Robinson PN**, Boerkoel CF  
 The Clinical Variant Analysis Tool Analyzing the evidence supporting reported genomic variation in clinical practice  
  *Genet Med*, 2022; **24(7)**:1512-1522 [PMID:35442193](https://pubmed.ncbi.nlm.nih.gov/35442193/){:target="_blank"}
-25. **Coleman B**, Casiraghi E, **Blau H**, Chan L, Haendel M, Laraway B, Callahan TJ, Deer RR, Wilkins K, Reese J, **Robinson PN**,  
+26. **Coleman B**, Casiraghi E, **Blau H**, Chan L, Haendel M, Laraway B, Callahan TJ, Deer RR, Wilkins K, Reese J, **Robinson PN**,  
 Risk of new-onset psychiatric sequelae of COVID-19 in the early and late post-acute phase  
  *World Psychiatry*, 2022; **21**:319-320 [PMID:35524622](https://pubmed.ncbi.nlm.nih.gov/35524622/){:target="_blank"}
-26. Yan S, Luo L, Lai PT, Veltri D, Oler AJ, Xirasagar S, Ghosh R, Similuk M, **Robinson PN**, Lu Z  
+27. Yan S, Luo L, Lai PT, Veltri D, Oler AJ, Xirasagar S, Ghosh R, Similuk M, **Robinson PN**, Lu Z  
 PhenoRerank A re-ranking model for phenotypic concept recognition pre-trained on human phenotype ontology  
  *J Biomed Inform*, 2022; **129**:104059 [PMID:35351638](https://pubmed.ncbi.nlm.nih.gov/35351638/){:target="_blank"}
-27. Jacobsen JOB, Baudis M, Baynam GS, Beckmann JS, Beltran S, Buske OJ, Callahan TJ, Chute CG, Courtot M, **Danis D**, Elemento O, Essenwanger A, Freimuth RR, ****Gargano M**A**, Groza T, Hamosh A, Harris NL, Kaliyaperumal R, Lloyd KCK, Khalifa A, ****Krawitz P**M**, **Köhler S**, Laraway BJ, Lehväslaiho H, Matalonga L, McMurry JA, Metke-Jimenez A, Mungall CJ, Munoz-Torres MC, Ogishima S, Papakonstantinou A, Piscia D, Pontikos N, Queralt-Rosinach N, Roos M, Sass J, Schofield PN, Seelow D, Siapos A, Smedley D, Smith LD, Steinhaus R, Sundaramurthi JC, Swietlik EM, Thun S, Vasilevsky NA, Wagner AH, Warner JL, Weiland C; GAGH Phenopacket Modeling Consortium, Haendel MA, **Robinson PN**  
+28. Jacobsen JOB, Baudis M, Baynam GS, Beckmann JS, Beltran S, Buske OJ, Callahan TJ, Chute CG, Courtot M, **Danis D**, Elemento O, Essenwanger A, Freimuth RR, ****Gargano M**A**, Groza T, Hamosh A, Harris NL, Kaliyaperumal R, Lloyd KCK, Khalifa A, ****Krawitz P**M**, **Köhler S**, Laraway BJ, Lehväslaiho H, Matalonga L, McMurry JA, Metke-Jimenez A, Mungall CJ, Munoz-Torres MC, Ogishima S, Papakonstantinou A, Piscia D, Pontikos N, Queralt-Rosinach N, Roos M, Sass J, Schofield PN, Seelow D, Siapos A, Smedley D, Smith LD, Steinhaus R, Sundaramurthi JC, Swietlik EM, Thun S, Vasilevsky NA, Wagner AH, Warner JL, Weiland C; GAGH Phenopacket Modeling Consortium, Haendel MA, **Robinson PN**  
 The GA4GH Phenopacket schema A computable representation of clinical data for precision medicine  
  *Nat Biotechnol*, 2022; **40(6)**:817-820 [PMID:35705716](https://pubmed.ncbi.nlm.nih.gov/35705716/){:target="_blank"}
-28. Reese JT, **Coleman B**, Chan L, **Blau H**, Callahan TJ, Cappelletti L, Fontana T, Bradwell KR, Harris NL, Casiraghi E, Valentini G, **Karlebach G**, Deer R, McMurry JA, Haendel MA, Chute CG, Pfaff E, Moffitt R, Spratt H, Singh J, Mungall CJ, Williams AE, **Robinson PN**,  
+29. Reese JT, **Coleman B**, Chan L, **Blau H**, Callahan TJ, Cappelletti L, Fontana T, Bradwell KR, Harris NL, Casiraghi E, Valentini G, **Karlebach G**, Deer R, McMurry JA, Haendel MA, Chute CG, Pfaff E, Moffitt R, Spratt H, Singh J, Mungall CJ, Williams AE, **Robinson PN**,  
 NSAID use and clinical outcomes in COVID-19 patients A 38-center retrospective cohort study  
  *Virol J*, 2022; **19**:84 [PMID:35570298](https://pubmed.ncbi.nlm.nih.gov/35570298/){:target="_blank"}
-29. **Danis D**, Jacobsen JOB, Balachandran P, Zhu Q, Yilmaz F, Reese J, Haimel M, Lyon GJ, Helbig I, Mungall CJ, Beck C, Lee C, Smedley D, **Robinson PN**,  
-SvAnna efficient and accurate pathogenicity prediction for coding and regulatory structural  
+30. **Danis D**, Jacobsen JOB, Balachandran P, Zhu Q, Yilmaz F, Reese J, Haimel M, Lyon GJ, Helbig I, Mungall CJ, Beck C, Lee C, Smedley D, **Robinson PN**,  
+SvAnna efficient and accurate pathogenicity prediction for coding and regulatory structural variants in long-read genome sequencing  
  *Genome Med*, 2022; **14**:44 [PMID:35484572](https://pubmed.ncbi.nlm.nih.gov/35484572/){:target="_blank"}
-30. Laurie S, Piscia D, Matalonga L, Corvo A, Garcia C, Fernandez-Callejo M, Hernandez C, Luengo C, Ntalis AP, Protassio J, Martinez I, Pico D, Thompson R, Tonda R, Bayes M, Bullich G, Camps J, Paramonov I, Trotta JR, Alonso A, Attimonelli M, Béroud C, Bros-Facer V, Buske O, Cañada A, Fernandez JM, Hansson M, Horvath R, Jacobsen J, Kaliyaperumal R, Lair S, Licata L, Lopes P, López-Martin E, Mascalzoni D, Monaco L, Jurado LP, Posada M, Rambla J, Rath A, Riess O, Robinson P, Smedley D, Spalding DJ, 't Hoen PB, Töpf A, Zaharieva I, Graessner H, Gut I, Lochmüller H, Beltran S  
+31. Laurie S, Piscia D, Matalonga L, Corvo A, Garcia C, Fernandez-Callejo M, Hernandez C, Luengo C, Ntalis AP, Protassio J, Martinez I, Pico D, Thompson R, Tonda R, Bayes M, Bullich G, Camps J, Paramonov I, Trotta JR, Alonso A, Attimonelli M, Béroud C, Bros-Facer V, Buske O, Cañada A, Fernandez JM, Hansson M, Horvath R, Jacobsen J, Kaliyaperumal R, Lair S, Licata L, Lopes P, López-Martin E, Mascalzoni D, Monaco L, Jurado LP, Posada M, Rambla J, Rath A, Riess O, Robinson P, Smedley D, Spalding DJ, 't Hoen PB, Töpf A, Zaharieva I, Graessner H, Gut I, Lochmüller H, Beltran S  
 The RD-Connect Genome-Phenome Analysis Platform Accelerating diagnosis, research, and gene discovery for rare diseases  
  *Hum Mutat*, 2022; **43(6)**:717-733 [PMID:35178824](https://pubmed.ncbi.nlm.nih.gov/35178824/){:target="_blank"}
-31. **Karlebach G**, Aronow B, Baylin SB, Butler D, Foox J, Levy S, Meydan C, Mozsary C, Saravia-Butler AM, Taylor DM, Wurtele E, Mason CE, Beheshti A, **Robinson PN**  
+32. **Karlebach G**, Aronow B, Baylin SB, Butler D, Foox J, Levy S, Meydan C, Mozsary C, Saravia-Butler AM, Taylor DM, Wurtele E, Mason CE, Beheshti A, **Robinson PN**  
 Betacoronavirus-specific alternate splicing  
  *Genomics*, 2022; **114**:110270 [PMID:35074468](https://pubmed.ncbi.nlm.nih.gov/35074468/){:target="_blank"}
 ## 2021 Publications
 
-32. Stefancsik R, Balhoff JP, Balk MA, Ball RL, Bello SM, Caron AR, Chesler EJ, de Souza V, Gehrke S, Haendel M, Harris LW, Harris NL, Ibrahim A, **Koehler S**, Matentzoglu N, McMurry JA, Mungall CJ, Munoz-Torres MC, Putman T, Robinson P, Smedley D, Sollis E, Thessen AE, Vasilevsky N, Walton DO, Osumi-Sutherland D  
-The Ontology of Biological Attributes (OBA)-computational traits for the life sciences  
- *Mamm Genome*, 2021; **Epub ahead of print**:doi 10.1007/s00335-023-09992-1 [PMID:37076585](https://pubmed.ncbi.nlm.nih.gov/37076585/){:target="_blank"}
 33. Chan LE, Thessen AE, Duncan WD, Matentzoglu N, Schmitt C, Grondin CJ, Vasilevsky N, McMurry JA,  **Robinson PN**, Mungall CJ, Haendel MA  
 The Environmental Conditions, Treatments, and Exposures Ontology (ECTO) connecting toxicology and exposure to human health and beyond  
  *J Biomed Semantics*, 2021; **14**:3 [PMID:36823605](https://pubmed.ncbi.nlm.nih.gov/36823605/){:target="_blank"}

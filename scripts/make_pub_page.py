@@ -62,12 +62,30 @@ class Publication:
             volume = "n/a"
         self._volume = volume
         self._pages = pages
-        self._top = top
+        self._top = top.lower() == "true"
 
 
     @property
     def year(self):
         return self._year
+
+    @property
+    def title(self):
+        return self._title
+
+    @property
+    def journal(self):
+        return self._journal
+
+    def get_link(self):
+        return f"[PMID:{self._pmid}](https://pubmed.ncbi.nlm.nih.gov/{self._pmid}/)"
+
+    def get_first_author(self):
+        athrs = self._authors.split(",")
+        return athrs[0]
+
+    def is_top(self):
+        return self._top
 
 
     def _prcess_authors(self, authors):
@@ -157,13 +175,29 @@ with open(publication_file, 'r') as fh:
 
 
 
-
+def write_top_publications_table(pub_d, years, fh):
+    top_pubs = []
+    for year in years:
+        publist = pub_d.get(year)
+        for pub in publist:
+            if pub.is_top():
+                top_pubs.append(pub)
+    print(f"We got {len(top_pubs)} top publications")
+    fh.write("## Highlights\n\n")
+    fh.write("| Author | Year   | Title  | Journal | PMID |\n")
+    fh.write("|:------ |:------ |:------ |:------- |:------ |\n")
+    for pub in top_pubs:
+        fa = "**" + pub.get_first_author() + "**"
+        items = [fa, str(pub.year), pub.title, pub.journal, pub.get_link()]
+        fh.write("|".join(items) + "\n")
+    fh.write("\n\n")
 
 
 fh = open("../docs/publications.md", "wt")
 fh.write("# Publications\n\n")
 fh.write("Authors who are lab members or alumni are shown in **bold** font.\n\n")
 years = sorted(list(pub_d.keys()), reverse=True)
+write_top_publications_table(pub_d, years, fh)
 
 citation_i = 0
 for year in years:
