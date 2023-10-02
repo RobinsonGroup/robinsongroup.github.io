@@ -8,8 +8,7 @@ The Robinson Lab started at the [Charité – Universitätsmedizin Berlin](https
 
 ## Research
 
-We have developed the
-Human Phenotype Ontology and the GA4GH Phenopacket Schema, leading examples of computational knowledge 
+We have a focus on ontologies, which are an important kind of computational knowledge 
 representation, a field of artificial intelligence that represents domain knowledge in a form that 
 computer algorithms can leverage to perform complex tasks. We develop algorithms 
 that leverage ontologies, statistical, semantic, Bayesian, and machine-learning methologies in innovative ways 

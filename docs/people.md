@@ -19,9 +19,9 @@ He completed an internship in Primary Care Internal Medicine at Yale University,
 Pediatrics  and obtained a Habilitation (roughly equivalent
 to a PhD) in Human Genetics at the Charité - Universitätsmedizin Berlin. He led the 
 Bioinformatics group at the Institute for Medical Genetics and Human Genetics at the Charité from 2004-2016. 
-From 2016-2-23, he led a research group at  the Jackson Laboratory (JAX) for Genomic Medicine in Connecticut, USA. 
-From 2024, his primary affiliation will be with the Berlin Institute of Health (BIH) abd he will continue to
-lead a group at JAX.
+From 2016-2023, he led a research group at  the Jackson Laboratory (JAX) for Genomic Medicine in Connecticut, USA. 
+From 2024, his primary affiliation will be with the Berlin Institute of Health (BIH) and he will continue to
+be affiliated with JAX.
 
 <figure markdown>
 ![Peter Robinson](img/people/peter-robinson.jpg){ width="200" }

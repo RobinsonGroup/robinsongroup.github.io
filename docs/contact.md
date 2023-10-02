@@ -2,9 +2,9 @@
 
 Peter Robinson
  
-* Professor, Jackson Laboratory for Genomic medicine
-* Donald A. Roux Chair, Genomics and Computational Biology (2017-2023)
-* Professor for Medical Computational Science, Berlin Institute if Health (2024-)
+* Professor, Jackson Laboratory for Genomic medicine (JAX)
+* Donald A. Roux Chair, Genomics and Computational Biology, JAX (2017-2023)
+* Professor for Medical Computational Science, Berlin Institute of Health (2024-)
 * Director,  [Human Phenotype Ontology Consortium](https://hpo.jax.org/app/)
 * Co-Program Director, [Monarch Initiative](http://monarchinitiative.org)
 * [email](mailto:peter.robinson@jax.org)
