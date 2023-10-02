@@ -27,6 +27,20 @@ theme:
       primary: teal
       accent: lime
 
+
+nav:
+  - Home: 'index.md'
+  - Publications: 'publications.md'
+  - Software: 'software.md'
+  - Teaching:
+    - 'Genomic algorithms': 'teaching/genomic-algorithms.md'
+    - 'Genetik für Bioformatiker': 'teaching/genetik.md'
+  - People: "people.md"
+  - Careers: "careers.md"
+  - Contact: "contact.md"
+
+
+
 plugins:
   - social
   - badges:
