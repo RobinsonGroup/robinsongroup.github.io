@@ -1,9 +1,4 @@
-# Teaching
 
-Stay tuned for information about future offerings. Here, we make slides from previous courses available.
-
-- [Genomic Algorithms](#Genomic Algorithms)
-- [Genetik für Bioformatiker ](genetik.md)
 
 # Genomic Algorithms
 

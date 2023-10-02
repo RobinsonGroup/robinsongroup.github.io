@@ -33,6 +33,7 @@ nav:
   - Publications: 'publications.md'
   - Software: 'software.md'
   - Teaching:
+    - 'Intro': 'teaching/teaching.md'
     - 'Genomic algorithms': 'teaching/genomic-algorithms.md'
     - 'Genetik für Bioformatiker': 'teaching/genetik.md'
   - People: "people.md"
