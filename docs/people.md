@@ -97,6 +97,25 @@ Guy earned his B.Sc. in Computer Science from the Technion, Israel Institute of 
 ### Peter Hansen, Ph.D.
 
 
+### Enock Niyonkuru
+
+<figure markdown>
+![Guy Karlebach](img/people/enock.png){ width="200" }
+<figcaption>Enock Niyonkuru
+</figcaption>
+</figure>
+
+nock is pursuing his BS in Computer Science at Trinity College, CT. 
+He became a member of The Robinson Lab in Fall 2021. From a young age, Enock was deeply intrigued by the 
+potential of Artificial Intelligence in enhancing healthcare. This interest was further cemented 
+during his high school years when he shadowed physicians at a Rwandan hospital and recognized the 
+pressing need for advanced technology in the medical field. Within the Lab, Enock focuses on developing 
+software and algorithms to refine text mining techniques. He integrates Machine Learning and 
+Large Language Models to assist in the curation of the Medical Action Ontology (MAxO) and contributes to 
+various other bioinformatics initiatives. 
+
+
+
 ### Alumni
 | Almunus/a                                            | Name                                                                                                                                          |
 |:-----------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------|
