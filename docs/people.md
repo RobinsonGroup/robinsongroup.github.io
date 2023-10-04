@@ -67,6 +67,21 @@ member of the science team for the Mars Science Laboratory
 
 Leigh Carmody, Ph.D., obtained her doctorate of philosophy in Molecular Physiology &#38; Biophysics from Vanderbilt University in Spring 2007 where she studied targeting of signaling molecules to F-actin cytoskeleton/dendritic spines. Dr. Carmody continued her studies as a postdoctoral fellow at Massachusetts Institute of Technology where she investigated the role of Rac1 in dendritic spine motility. Late 2008, she joined the Broad Institute of MIT &#38; Harvard as a Scientist where she aided in early-stage drug discovery efforts to identify chemical leads directed at cancer targets and neglected parasitic infections.  Dr. Carmody joined Jackson Laboratory in 2015 as a Project Manager, and is currently a Scientific Curator annotating phenotyping and genomics data for the human phenotype ontology (HPO) database.
 
+### Ben Coleman
+<figure markdown>
+![Leigh Carmody](img/people/ben-coleman.png){ width="200" }
+<figcaption>Ben Coleman
+</figcaption>
+</figure>
+
+I am a current MD-PhD student at UConn School of Medicine with a background in physics. 
+I joined the Robinson Lab after two years of medical school to conduct my thesis research. 
+My research focuses on using the Human Phenotype Ontology (HPO) to describe and understand 
+the phenotypic features of neurodevelopmental disorders in a generalizable and computable format. 
+By improving the way we describe patient phenotypes, we will improve our ability to identify 
+the genetic drivers of these phenotypes. To do this, I work with domain experts to expand the 
+HPO's terminology for neurodevelopmental disorders and to develop tools to translate clinical 
+measurements to the HPO.
 
 
 ### Daniel Danis, Ph.D.
