@@ -95,6 +95,23 @@ measurements to the HPO.
 Daniel has a M.Sc. in Pharmacy from the Comenius University, Bratislava, Slovakia. He is currently working on his Ph.D., mainly focused on the molecular basis and pathomechanisms of rare hereditary diseases in human patients. He has experience in the assembly of custom UNIX-based bioinformatics pipelines for whole exome sequencing data analysis that have identified disease-causing variants in several Slovak families.
 His work in the Robinson lab involves the development of algorithms for prioritizing exome and genome variants. These new algorithms are designed to integrate into the Exomiser and Genomiser frameworks. In addition, he works on tools for the biocuration of published disease-causing variants.
 
+### Michael Gargano 
+
+<figure markdown>
+![Michael Gargano](img/people/michael-g.png){ width="200" }
+<figcaption>Michael Gargano
+</figcaption>
+</figure>
+
+
+Michael Gargano has an M.S in Bioinformatics from Northeastern University. First starting as a UI 
+Developer at Cigna, he joined both The Jackson Laboratory & the Robinson Lab in 2017, and has grown to 
+a Senior Scientific Software Engineer. Bringing the Human Phenotype Ontology to the modern web was his 
+flagship project. He now specializes in data engineering on the cloud, restful applications, bioinformatics 
+pipelines, and architecting software solutions for translational & clinical genomics.
+
+### Peter Hansen, Ph.D.
+
 
 ### Guy Karlebach, Ph.D.
 
@@ -108,8 +125,6 @@ His work in the Robinson lab involves the development of algorithms for prioriti
 Guy earned his B.Sc. in Computer Science from the Technion, Israel Institute of Technology, his Masters in Computer Science from Ben Gurion University, and his Ph.D. in Computer Science from Tel-Aviv University. During his Masters he worked on computational protein structure prediction, developing methods for refining approximate 3D structures. During his Ph.D. he developed algorithms for modeling gene regulatory networks using DNA binding and gene expression data.  He has acquired research experience in academia at the Max Planck Institute and in industry working for IBM’s medical informatics group.  He is now a Postdoctoral Associate in the Robinson lab developing methods that integrate high-throughput genomic data for a better quantification of variation in gene expression under different conditions.  The ultimate goal is to use different technologies in a complementary way that compensates for each individual technology’s shortcomings.</p>
 
 
-
-### Peter Hansen, Ph.D.
 
 
 ### Enock Niyonkuru
