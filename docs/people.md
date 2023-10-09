@@ -31,6 +31,23 @@ be affiliated with JAX.
 
 ## Lab Members
 
+### Martha Beckwith, Ph.D.
+
+<figure markdown>
+![Martha Beckwith](img/people/mbeckwith.png){ width="200" }
+<figcaption>Martha Beckwith
+</figcaption>
+</figure>
+
+Martha Beckwith obtained her PhD in Physical Chemistry from Cornell 
+University. During her PhD, she also conducted research at the Max-Planck-
+Institute for Chemical Energy Conversion in Germany. Prior to joining the 
+Robinson Lab, she was a Postdoctoral Research Associate at Lawrence 
+Livermore National Laboratory, and then a Computational Scientist at the 
+CUNY Advanced Science Research Center. Her current work focuses on 
+developing software for incorporating clinical intuition in phenotype-driven 
+prioritization of rare diseases.
+
 
 ### Hannah Blau, Ph.D.
 
