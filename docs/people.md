@@ -129,6 +129,39 @@ pipelines, and architecting software solutions for translational & clinical geno
 
 ### Peter Hansen, Ph.D.
 
+<figure markdown>
+![Peter Hansen](img/people/peter-hansen.jpg){ width="200" }
+<figcaption>Peter Hansen
+</figcaption>
+</figure>
+
+Peter Hansen studied bioinformatics at the Free University of Berlin from 2003 to 2010.
+In 2011, he began his professional career at the Institute for Medical Genetics and Human Genetics at the Charité hospital in Berlin,
+where he set up analysis pipelines for high-throughput sequencing data.
+By analyzing ChIP-seq data from different collaborators,
+he helped to elucidate the roles of various transcription factors in different contexts,
+for example HOXD13 and PITX1 in limb development, PAX5 in classical Hodgkin's lymphoma, or E2F6 in CGI methylation.
+In 2014, he continued his education as a doctoral student.
+He developed the ChIP-seq peak calling software
+[Q and Q-nexus](https://github.com/charite/Q).
+Moreover, he led the project "Genomic diagnostics for the regulatory genome" at the Charité on behalf of Peter Robinson,
+with a focus on conducting capture Hi-C experiments and data analysis.
+In 2019, he received his
+[Ph.D. in Bioinformatics](https://refubium.fu-berlin.de/bitstream/handle/fub188/24639/thesis_Hansen.pdf)
+from the Department of Mathematics and Computer Science at the Free University Berlin and joined The Jackson Laboratory
+for Genomic Medicine as a Bioinformatics Analyst.
+He developed [GOPHER](https://github.com/TheJacksonLaboratory/Gopher),
+a desktop application for capture Hi-C probe design,
+and [Diachromatic](https://github.com/TheJacksonLaboratory/diachromatic),
+a toolset for preprocessing and quality control of Hi-C and capture Hi-C data.
+Furthermore, he characterized a feature of Hi-C data and used it to assess and mitigate technical bias.
+In parallel, he contributed to team projects on a variety of topics
+including the analysis of differential expression and splicing,
+prediction of isoform functions,
+prediction of associations between protein kinases and cancer,
+and challenges in biomedical knowledge graph representation.
+More recently, he has been working on ontologizing experimental mouse data from the Mouse Phenome Database at JAX and
+representing it as Phenopakets.
 
 ### Guy Karlebach, Ph.D.
 
