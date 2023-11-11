@@ -1,8 +1,35 @@
 -- # Publications
 
+-pmid: 37926714
+authors: Lagorce D, Lebreton E, Matalonga L, Hongnat O, Chahdil M, Piscia D, Paramonov I, Ellwanger K, Köhler S, Robinson P, Graessner H, Beltran S, Lucano C, Hanauer M, Rath A
+year: 2023
+title: Phenotypic similarity-based approach for variant prioritization for unsolved rare disease: a preliminary methodological report
+journal: Eur J Hum Genet
+volume: 10.1038/s41431-023-01486-7
+pages: Epub ahead of print
+top: false
+
+-pmid: 37889991
+authors: Karlebach G, Robinson PN
+year: 2023
+title: Computing Minimal Boolean Models of Gene Regulatory Networks
+journal: J Comput Biol
+volume: doi: 10.1089/cmb.2023.0122
+pages: Epub ahead of print.
+top: false
+
+-pmid: 37684057
+authors: Sundaramurthi JC, Bagley AM, Blau H, Carmody L, Crandall A, Danis D, Gargano M, Gustafson AG, Raney EM, Shingle M, Davids JR,  Robinson PN
+year: 2023
+title: De novo TRPM3 missense variant associated with neurodevelopmental delay and manifestations of cerebral palsy
+journal: Cold Spring Harb Mol Case Stud
+volume: 8
+pages: mcs.a006293
+top: false
+
 -pmid: 37647632
-authors: Stefanucci L, Collins JH, Sims MC, Barrio-Hernandez I, Sun L, Burren O, Perfetto L, Bender I, Callahan TJ, Fleming K, Guerrero JA, Hermjakob H, 
-Martin MJ, Stephenson JD, Paneerselvam K, Petrovski S, Porras P, Robinson PN, Wang Q, Watkins X, Frontini M, Laskowski RA, Beltrao P, 
+authors: Stefanucci L, Collins JH, Sims MC, Barrio-Hernandez I, Sun L, Burren O, Perfetto L, Bender I, Callahan TJ, Fleming K, Guerrero JA, Hermjakob H,
+Martin MJ, Stephenson JD, Paneerselvam K, Petrovski S, Porras P, Robinson PN, Wang Q, Watkins X, Frontini M, Laskowski RA, Beltrao P,
 Di Angelantonio E, Gomez K, Laffan M, Ouwehand WH, Mumford AD, Freson K, Carss KJ, Downes K, Gleadall NS, Megy K, Bruford E, Vuckovic D
 year: 2023
 title: The effects of pathogenic variants for inherited hemostasis disorders in 140,214 UK Biobank participants
@@ -17,12 +44,12 @@ authors: Forwood C, Ashton K, Zhu Y, Zhang F, Dias KR, Standen K, Evans CA, Care
 year: 2023
 title: Integration of EpiSign, facial phenotyping, and likelihood ratio interpretation of clinical abnormalities in the re-classification of an ARID1B missense variant
 journal: Am J Med Genet C Semin Med Genet
-volume: 
+volume:
 pages: Epub ahead of print
 top: false
 
 -pmid: 37672869
-authors: Antony B, Blau H, Casiraghi E, Loomba JJ, Callahan TJ, Laraway BJ, Wilkins KJ, Antonescu CC, Valentini G, Williams AE, Robinson PN, Reese JT, Murali TM; 
+authors: Antony B, Blau H, Casiraghi E, Loomba JJ, Callahan TJ, Laraway BJ, Wilkins KJ, Antonescu CC, Valentini G, Williams AE, Robinson PN, Reese JT, Murali TM;
 N3C consortium
 year: 2023
 title: Predictive models of long COVID
@@ -32,8 +59,8 @@ pages: 104777
 top: false
 
 -pmid: 37208468
-authors: Callahan TJ, Stefanski AL, Wyrwa JM, Zeng C, Ostropolets A, Banda JM, Baumgartner WA Jr, Boyce RD, Casiraghi E, Coleman BD, Collins JH, Deakyne Davies SJ, 
-Feinstein JA, Lin AY, Martin B, Matentzoglu NA, Meeker D, Reese J, Sinclair J, Taneja SB, Trinkley KE, Vasilevsky NA, Williams AE, 
+authors: Callahan TJ, Stefanski AL, Wyrwa JM, Zeng C, Ostropolets A, Banda JM, Baumgartner WA Jr, Boyce RD, Casiraghi E, Coleman BD, Collins JH, Deakyne Davies SJ,
+Feinstein JA, Lin AY, Martin B, Matentzoglu NA, Meeker D, Reese J, Sinclair J, Taneja SB, Trinkley KE, Vasilevsky NA, Williams AE,
 Zhang XA, Denny JC, Ryan PB, Hripcsak G, Bennett TD, Haendel MA, Robinson PN, Hunter LE, Kahn MG
 year: 2023
 title: Ontologizing health systems data at scale: making translational discovery a reality
@@ -47,7 +74,7 @@ authors: Sundaramurthi JC, Bagley AM, Blau H, Carmody L, Crandall A, Danis D, Ga
 year: 2023
 title: De novo TRPM3 missense variant associated with neurodevelopmental delay and manifestations of cerebral palsy
 journal: Cold Spring Harb Mol Case Stud
-volume: 
+volume:
 pages: Epub ahead of print
 top: false
 
@@ -69,12 +96,12 @@ volume: Epub ahead of print
 pages: doi: 10.1007/s00335-023-09992-1
 top: false
 
--pmid: 
+-pmid:
 authors: Cappelletti L, Taverni, S, Fontana T, Joachimiak MP, Reese J,   Robinson N, Casiraghi E,  Valentini G
 year: 2023
 title: Degree-Normalization Improves Random-Walk-Based Embedding Accuracy in PPI Graphs
 journal: in Bioinformatics and Biomedical Engineering, editors Rojas I, Valenzuela O, Rojas Ruiz F, Herrera LJ,  Ortuño F
-volume: 
+volume:
 pages: 372-383
 top: false
 
@@ -166,7 +193,7 @@ volume: 194
 pages: 110157
 top: false
 
--pmid: 
+-pmid:
 authors: Tummala H, Walne A, Buccafusca R,Alnajar J, Szabo A, Robinson P, McConkie-Rosell A, Wilson M,
   Crowley A, Kinsler V, Ewins AM,Madapura PM, Patel M, Pontikos N, Codd V,Vulliamy T, Dokal I
 year: 2022
@@ -176,7 +203,7 @@ volume: 109
 pages: 1472-1483
 top: false
 
--pmid: 
+-pmid:
 authors: Dhombres F, Morgan P,  Chaudhari BP, Filges I, Sparks TN, Lapunzina P,  Roscioli T, Agarwal U, Aggarwal S, Beneteau C, Cacheiro P, Carmody LC, Collardeau-Frachon S, Dempsey EA, Dufke A, Duyzend MH, El Ghosh M, Giordano JL, Glad R, Grinfelde I, Iliescu DG, Ladewig MS, Munoz-Torres MC, Pollazzon M, Radio FC,  Rodo C,  Gouveia Silva R, Smedley D, Sundaramurthi JC, Toro S, Valenzuela I, Vasilevsky NA, Wapner RJ, Zemet R, Haendel MA, Robinson PN
 year: 2022
 title: Prenatal phenotyping: a community effort to enhance the Human Phenotype Ontology
@@ -194,7 +221,7 @@ volume: 4
 pages: 2200016
 top: false
 
--pmid: 
+-pmid:
 authors: Robinson PN, Graessner H
 year: 2022
 title: Datenstandards für Seltene Erkrankungen
@@ -203,13 +230,13 @@ volume: 65(11)
 pages: 1126-1132
 top: false
 
--pmid: 
+-pmid:
 authors: Petrini A, Notaro M, Gliozzo J, Castrignan{\`o} T,
   Robinson PN, Casiraghi E, Valentini G
 year: 2022
 title: ParSMURF-NG: A Machine Learning High Performance Computing System for the Analysis of Imbalanced Big Omics Data
 journal: Artificial Intelligence Applications and Innovations. AIAI 2022 IFIP WG 12.5 International Workshops
-volume: 
+volume:
 pages: 424-435
 top: false
 
@@ -268,7 +295,7 @@ pages: 258
 top: false
 
 -pmid: 35524622
-authors: Coleman B, Casiraghi E, Blau H, Chan L, Haendel M, Laraway B, Callahan TJ, Deer RR, Wilkins K, Reese J, Robinson PN, 
+authors: Coleman B, Casiraghi E, Blau H, Chan L, Haendel M, Laraway B, Callahan TJ, Deer RR, Wilkins K, Reese J, Robinson PN,
 year: 2022
 title: Risk of new-onset psychiatric sequelae of COVID-19 in the early and late post-acute phase
 journal: World Psychiatry
@@ -295,9 +322,9 @@ pages: 817-820
 top: true
 
 -pmid:  35570298
-authors: Reese JT, Coleman B, Chan L, Blau H, Callahan TJ, Cappelletti L, Fontana T, 
+authors: Reese JT, Coleman B, Chan L, Blau H, Callahan TJ, Cappelletti L, Fontana T,
     Bradwell KR, Harris NL, Casiraghi E, Valentini G, Karlebach G, Deer R, McMurry JA, Haendel MA,
-    Chute CG, Pfaff E, Moffitt R, Spratt H, Singh J, Mungall CJ, Williams AE, Robinson PN, 
+    Chute CG, Pfaff E, Moffitt R, Spratt H, Singh J, Mungall CJ, Williams AE, Robinson PN,
 year: 2022
 title: NSAID use and clinical outcomes in COVID-19 patients: A 38-center retrospective cohort study
 journal: Virol J
@@ -307,7 +334,7 @@ top: false
 
 -pmid: 35484572
 authors: Danis D, Jacobsen JOB, Balachandran P, Zhu Q, Yilmaz F, Reese J, Haimel M, Lyon GJ, Helbig I, Mungall CJ, Beck C, Lee C,
-    Smedley D, Robinson PN, 
+    Smedley D, Robinson PN,
 year: 2022
 title: SvAnna: efficient and accurate pathogenicity prediction for coding and regulatory structural variants in long-read genome sequencing
 journal: Genome Med
@@ -329,8 +356,8 @@ top: false
 -pmid: 35178824
 authors: Laurie S, Piscia D, Matalonga L, Corvo A, Garcia C, Fernandez-Callejo M, Hernandez C, Luengo C, Ntalis AP, Protassio J, Martinez I,
     Pico D, Thompson R, Tonda R, Bayes M, Bullich G, Camps J, Paramonov I, Trotta JR, Alonso A, Attimonelli M, Béroud C, Bros-Facer V, Buske O,
-    Cañada A, Fernandez JM, Hansson M, Horvath R, Jacobsen J, Kaliyaperumal R, Lair S, Licata L, Lopes P, López-Martin E, Mascalzoni D, 
-    Monaco L, Jurado LP, Posada M, Rambla J, Rath A, Riess O, Robinson P, Smedley D, Spalding DJ, 't Hoen PB, Töpf A, Zaharieva I, Graessner H, 
+    Cañada A, Fernandez JM, Hansson M, Horvath R, Jacobsen J, Kaliyaperumal R, Lair S, Licata L, Lopes P, López-Martin E, Mascalzoni D,
+    Monaco L, Jurado LP, Posada M, Rambla J, Rath A, Riess O, Robinson P, Smedley D, Spalding DJ, 't Hoen PB, Töpf A, Zaharieva I, Graessner H,
     Gut I, Lochmüller H, Beltran S
 year: 2022
 title: The RD-Connect Genome-Phenome Analysis Platform: Accelerating diagnosis, research, and gene discovery for rare diseases
@@ -386,23 +413,23 @@ pages: 100029
 top: false
 
 -pmid: 34758253
-authors: 100,000 Genomes Project Pilot Investigators, Smedley D, Smith KR, Martin A, Thomas EA, McDonagh EM, Cipriani V, Ellingford JM, Arno G, 
-Tucci A, Vandrovcova J, Chan G, Williams HJ, Ratnaike T, Wei W, Stirrups K, Ibanez K, Moutsianas L, Wielscher M, Need A, Barnes MR, 
-Vestito L, Buchanan J, Wordsworth S, Ashford S, Rehmström K, Li E, Fuller G, Twiss P, Spasic-Boskovic O, Halsall S, Floto RA, Poole K, 
-Wagner A, Mehta SG, Gurnell M, Burrows N, James R, Penkett C, Dewhurst E, Gräf S, Mapeta R, Kasanicki M, Haworth A, Savage H, Babcock M, 
-Reese MG, Bale M, Baple E, Boustred C, Brittain H, de Burca A, Bleda M, Devereau A, Halai D, Haraldsdottir E, Hyder Z, Kasperaviciute D, 
-Patch C, Polychronopoulos D, Matchan A, Sultana R, Ryten M, Tavares ALT, Tregidgo C, Turnbull C, Welland M, Wood S, Snow C, Williams E, 
-Leigh S, Foulger RE, Daugherty LC, Niblock O, Leong IUS, Wright CF, Davies J, Crichton C, Welch J, Woods K, Abulhoul L, Aurora P, 
-Bockenhauer D, Broomfield A, Cleary MA, Lam T, Dattani M, Footitt E, Ganesan V, Grunewald S, Compeyrot-Lacassagne S, Muntoni F, 
-Pilkington C, Quinlivan R, Thapar N, Wallis C, Wedderburn LR, Worth A, Bueser T, Compton C, Deshpande C, Fassihi H, Haque E, Izatt L, 
-Josifova D, Mohammed S, Robert L, Rose S, Ruddy D, Sarkany R, Say G, Shaw AC, Wolejko A, Habib B, Burns G, Hunter S, Grocock RJ, 
-Humphray SJ, Robinson PN, Haendel M, Simpson MA, Banka S, Clayton-Smith J, Douzgou S, Hall G, Thomas HB, O'Keefe RT, Michaelides M, 
-Moore AT, Malka S, Pontikos N, Browning AC, Straub V, Gorman GS, Horvath R, Quinton R, Schaefer AM, Yu-Wai-Man P, Turnbull DM, 
-McFarland R, Taylor RW, O'Connor E, Yip J, Newland K, Morris HR, Polke J, Wood NW, Campbell C, Camps C, Gibson K, Koelling N, 
-Lester T, Németh AH, Palles C, Patel S, Roy NBA, Sen A, Taylor J, Cacheiro P, Jacobsen JO, Seaby EG, Davison V, Chitty L, 
-Douglas A, Naresh K, McMullan D, Ellard S, Temple IK, Mumford AD, Wilson G, Beales P, Bitner-Glindzicz M, Black G, Bradley JR, 
-Brennan P, Burn J, Chinnery PF, Elliott P, Flinter F, Houlden H, Irving M, Newman W, Rahman S, 
-Sayer JA, Taylor JC, Webster AR, Wilkie AOM, Ouwehand WH, Raymond FL, Chisholm J, Hill S, Bentley D, Scott RH, 
+authors: 100,000 Genomes Project Pilot Investigators, Smedley D, Smith KR, Martin A, Thomas EA, McDonagh EM, Cipriani V, Ellingford JM, Arno G,
+Tucci A, Vandrovcova J, Chan G, Williams HJ, Ratnaike T, Wei W, Stirrups K, Ibanez K, Moutsianas L, Wielscher M, Need A, Barnes MR,
+Vestito L, Buchanan J, Wordsworth S, Ashford S, Rehmström K, Li E, Fuller G, Twiss P, Spasic-Boskovic O, Halsall S, Floto RA, Poole K,
+Wagner A, Mehta SG, Gurnell M, Burrows N, James R, Penkett C, Dewhurst E, Gräf S, Mapeta R, Kasanicki M, Haworth A, Savage H, Babcock M,
+Reese MG, Bale M, Baple E, Boustred C, Brittain H, de Burca A, Bleda M, Devereau A, Halai D, Haraldsdottir E, Hyder Z, Kasperaviciute D,
+Patch C, Polychronopoulos D, Matchan A, Sultana R, Ryten M, Tavares ALT, Tregidgo C, Turnbull C, Welland M, Wood S, Snow C, Williams E,
+Leigh S, Foulger RE, Daugherty LC, Niblock O, Leong IUS, Wright CF, Davies J, Crichton C, Welch J, Woods K, Abulhoul L, Aurora P,
+Bockenhauer D, Broomfield A, Cleary MA, Lam T, Dattani M, Footitt E, Ganesan V, Grunewald S, Compeyrot-Lacassagne S, Muntoni F,
+Pilkington C, Quinlivan R, Thapar N, Wallis C, Wedderburn LR, Worth A, Bueser T, Compton C, Deshpande C, Fassihi H, Haque E, Izatt L,
+Josifova D, Mohammed S, Robert L, Rose S, Ruddy D, Sarkany R, Say G, Shaw AC, Wolejko A, Habib B, Burns G, Hunter S, Grocock RJ,
+Humphray SJ, Robinson PN, Haendel M, Simpson MA, Banka S, Clayton-Smith J, Douzgou S, Hall G, Thomas HB, O'Keefe RT, Michaelides M,
+Moore AT, Malka S, Pontikos N, Browning AC, Straub V, Gorman GS, Horvath R, Quinton R, Schaefer AM, Yu-Wai-Man P, Turnbull DM,
+McFarland R, Taylor RW, O'Connor E, Yip J, Newland K, Morris HR, Polke J, Wood NW, Campbell C, Camps C, Gibson K, Koelling N,
+Lester T, Németh AH, Palles C, Patel S, Roy NBA, Sen A, Taylor J, Cacheiro P, Jacobsen JO, Seaby EG, Davison V, Chitty L,
+Douglas A, Naresh K, McMullan D, Ellard S, Temple IK, Mumford AD, Wilson G, Beales P, Bitner-Glindzicz M, Black G, Bradley JR,
+Brennan P, Burn J, Chinnery PF, Elliott P, Flinter F, Houlden H, Irving M, Newman W, Rahman S,
+Sayer JA, Taylor JC, Webster AR, Wilkie AOM, Ouwehand WH, Raymond FL, Chisholm J, Hill S, Bentley D, Scott RH,
 Fowler T, Rendon A, Caulfield M
 year: 2021
 title: 100,000 Genomes Pilot on Rare-Disease Diagnosis in Health Care - Preliminary Report
@@ -412,8 +439,8 @@ pages: 1868-1880
 top: false
 
 -pmid: 34478655
-authors: Hamosh A, Amberger JS, Bocchini CA, Bodurtha J, Bult CJ, Chute CG, Cutting GR, Dietz HC, Firth HV, Gibbs RA, 
-Grody WW, Haendel MA, Lupski JR, Posey JE, Robinson PN, Schriml LM, Scott AF, Sobreira NL, Valle D, Wu N, 
+authors: Hamosh A, Amberger JS, Bocchini CA, Bodurtha J, Bult CJ, Chute CG, Cutting GR, Dietz HC, Firth HV, Gibbs RA,
+Grody WW, Haendel MA, Lupski JR, Posey JE, Robinson PN, Schriml LM, Scott AF, Sobreira NL, Valle D, Wu N,
 Rasmussen SA
 year: 2021
 title: Response to Biesecker et al.
@@ -454,7 +481,7 @@ authors: Haimel M, Pazmandi J, Heredia RJ, Dmytrus J, Bal SK, Zoghi S, van Daele
 year: 2021
 title: Curation and expansion of Human Phenotype Ontology for defined groups of inborn errors of immunity
 journal: J Allergy Clin Immunol
-volume: Online ahead of print. 
+volume: Online ahead of print.
 pages: S0091-6749(21)00732-6
 top: false
 
@@ -477,7 +504,7 @@ pages: 1293-1305
 top: false
 
 -pmid: 33962988
-authors: Kulchak Rahm A, Walton NA, Feldman LK, Jenkins C, Jenkins T, Person TN, Peterson J, Reynolds JC, Robinson PN, Woltz MA, Williams MS, Segal MM.,  
+authors: Kulchak Rahm A, Walton NA, Feldman LK, Jenkins C, Jenkins T, Person TN, Peterson J, Reynolds JC, Robinson PN, Woltz MA, Williams MS, Segal MM.,
 year: 2021
 title: User testing of a diagnostic decision support system with machine-assisted chart review to facilitate clinical genomic diagnosis
 journal: BMJ Health Care Inform
@@ -547,7 +574,7 @@ authors: Ong E, Wang LL, Schaub J, O'Toole JF, Steck B, Rosenberg AZ, Dowd F, Ha
 J, Barisoni L, Jain S, de Boer IH, Valerius MT, Waikar SS, Park C, Crawford DC,
 Alexandrov T, Anderton CR, Stoeckert C, Weng C, Diehl AD, Mungall CJ, Haendel M,
 Robinson PN, Himmelfarb J, Iyengar R, Kretzler M, Mooney S, He Y, Kidney
-Precision Medicine Project 
+Precision Medicine Project
 year: 2020
 title: Modelling kidney disease using ontology: insights from the Kidney Precision Medicine Project
 journal: Nat Rev Nephrol
@@ -605,8 +632,8 @@ authors: Gasteiger LM, , Robinson PN, Pazmandi J, Boztug K, Seppänen MRJ, Seide
 year: 2020
 title: Supplementation of the ESID registry working definitions for the clinical diagnosis of inborn errors of immunity with encoded human phenotype ontology (HPO) terms
 journal: J Allergy Clin Immunol Pract
-volume: 
-pages: 
+volume:
+pages:
 top: false
 
 -pmid: 32366968
@@ -683,7 +710,7 @@ top: false
 
 -pmid: 31701156
 authors: Shefchek KA, Harris NL, Gargano M, Matentzoglu N, Unni D, Brush M, Keith D,
-	  Conlin T, Vasilevsky N, Zhang XA, Balhoff JP, Babb L, Bello SM, Blau H, Bradford 
+	  Conlin T, Vasilevsky N, Zhang XA, Balhoff JP, Babb L, Bello SM, Blau H, Bradford
 	  Y, Carbon S, Carmody L, Chan LE, Cipriani V, Cuzick A, Rocca MD, Dunn N, Essaid
 	  S, Fey P, Grove C, Gourdine JP, Hamosh A, Harris M, Helbig I, Hoatlin M,
 	  Joachimiak M, Jupp S, Lett KB, Lewis SE, McNamara C, Pendlington ZM, Pilgrim C,
@@ -742,7 +769,7 @@ authors: Hsieh TC, Mensah MA, Pantel JT, Aguilar D, Bar O, Bayat A, Becerra-Sola
 	Howell J, Ivanovski I, Kaindl A, Kamphans T, Kamphausen S, Karimov C, Kathom H,
 	Keryan A, Knaus A, Köhler S, Kornak U, Lavrov A, Leitheiser M, Lyon GJ, Mangold
 	E, Reina PM, Carrascal AM, Mitter D, Herrador LM, Nadav G, Nöthen M, Orrico A,
-	Ott CE, Park K, Peterlin B, Pölsler L, Raas-Rothschild A, Randolph L, Revencu N, 
+	Ott CE, Park K, Peterlin B, Pölsler L, Raas-Rothschild A, Randolph L, Revencu N,
 	Fagerberg CR,  Robinson PN, Rosnev S, Rudnik S, Rudolf G, Schatz U, Schossig A,
 	Schubach M, Shanoon O, Sheridan E, Smirin-Yosef P, Spielmann M, Suk EK, Sznajer
 	Y, Thiel CT, Thiel G, Verloes A, Vrecar I, Wahl D, Weber I, Winter K, Wisniewska
@@ -813,7 +840,7 @@ top: false
 
 -pmid: 30476213
 authors: Köhler S, Carmody L, Vasilevsky N, Jacobsen JOB, Danis D, Gourdine JP, Gargano
-	M, Harris NL, Matentzoglu N, McMurry JA, Osumi-Sutherland D, Cipriani V, Balhoff 
+	M, Harris NL, Matentzoglu N, McMurry JA, Osumi-Sutherland D, Cipriani V, Balhoff
 	JP, Conlin T, Blau H, Baynam G, Palmer R, Gratian D, Dawkins H, Segal M, Jansen
 	AC, Muaz A, Chang WH, Bergerson J, Laulederkind SJF, Yüksel Z, Beltran S, Freeman
 	AF, Sergouniotis PI, Durkin D, Storm AL, Hanauer M, Brudno M, Bello SM, Sincan M,
@@ -831,7 +858,7 @@ pages: D1018–D1027
 top: false
 
 -pmid: 30304648
-authors: Haendel MA, Chute CG, Robinson PN 
+authors: Haendel MA, Chute CG, Robinson PN
 year: 2018
 title: Classification, Ontology, and Precision Medicine
 journal: N Engl J Med
@@ -851,7 +878,7 @@ top: false
 -pmid: 29632381
 authors: Vasilevsky NA, Foster ED, Engelstad ME, Carmody L, Might M, Chambers C,
 	Dawkins HJS, Lewis J, Della Rocca MG, Snyder M, Boerkoel CF, Rath A, Terry SF,
-	Kent A, Searle B, Baynam G, Jones E, Gavin P, Bamshad M, Chong J, Groza T, Adams 
+	Kent A, Searle B, Baynam G, Jones E, Gavin P, Bamshad M, Chong J, Groza T, Adams
 	D, Resnick AC, Heath AP, Mungall C, Holm IA, Rageth K, Brownstein CA, Shefchek K,
 	McMurry JA, Robinson PN, Köhler S, Haendel MA
 year: 2018
@@ -863,7 +890,7 @@ top: false
 
 -pmid: 29425702
 authors: Maiella S, Olry A, Hanauer M, Lanneau V, Lourghi H, Donadille B, Rodwell C,
-	Köhler S, Seelow D, Jupp S, Parkinson H, Groza T, Brudno M, Robinson PN, Rath A 
+	Köhler S, Seelow D, Jupp S, Parkinson H, Groza T, Brudno M, Robinson PN, Rath A
 year: 2018
 title: Harmonising phenomics information for a better interoperability in the rare
 	disease field
@@ -905,14 +932,14 @@ top: false
 
 -pmid: 29214566
 authors:  Baynam G, Bowman F, Lister K, Walker CE, Pachter N, Goldblatt J, Boycott KM,
-	Gahl WA, Kosaki K, Adachi T, Ishii K, Mahede T, McKenzie F, Townshend S, Slee J, 
+	Gahl WA, Kosaki K, Adachi T, Ishii K, Mahede T, McKenzie F, Townshend S, Slee J,
 	Kiraly-Borri C, Vasudevan A, Hawkins A, Broley S, Schofield L, Verhoef H, Groza
-	T, Zankl A, Robinson PN, Haendel M, Brudno M, Mattick JS, Dinger ME, Roscioli T, 
+	T, Zankl A, Robinson PN, Haendel M, Brudno M, Mattick JS, Dinger ME, Roscioli T,
 	Cowley MJ, Olry A, Hanauer M, Alkuraya FS, Taruscio D, Posada de la Paz M,
 	Lochmüller H, Bushby K, Thompson R, Hedley V, Lasko P, Mina K, Beilby J, Tifft C,
 	Davis M, Laing NG, Julkowska D, Le Cam Y, Terry SF, Kaufmann P, Eerola I,
 	Norstedt I, Rath A, Suematsu M, Groft SC, Austin CP, Draghia-Akli R, Weeramanthri
-	TS, Molster C, Dawkins HJS. 
+	TS, Molster C, Dawkins HJS.
 year: 2017
 title: Improved Diagnosis and Care for Rare Diseases through Implementation of Precision Public Health Framework
 journal: Adv Exp Med Biol
@@ -949,7 +976,7 @@ top: false
 
 -pmid: 28735859
 authors:  Zepeda-Mendoza CJ, Ibn-Salem J, Kammin T, Harris DJ, Rita D, Gripp KW,
-	MacKenzie JJ, Gropman A, Graham B, Shaheen R, Alkuraya FS, Brasington CK, Spence 
+	MacKenzie JJ, Gropman A, Graham B, Shaheen R, Alkuraya FS, Brasington CK, Spence
 	EJ, Masser-Frye D, Bird LM, Spiegel E, Sparkes RL, Ordulu Z, Talkowski ME,
 	Andrade-Navarro MA, Robinson PN, Morton CC
 year: 2017
@@ -969,7 +996,7 @@ pages: 15-20
 top: false
 
 -pmid: 28603714
-authors: Gall T, Valkanas E, Bello C, Markello T, Adams C, Bone WP, Brandt AJ, Brazill 
+authors: Gall T, Valkanas E, Bello C, Markello T, Adams C, Bone WP, Brandt AJ, Brazill
 	JM, Carmichael L, Davids M, Davis J, Diaz-Perez Z, Draper D, Elson J, Flynn ED,
 	Godfrey R, Groden C, Hsieh CK, Fischer R, Golas GA, Guzman J, Huang Y, Kane MS,
 	Lee E, Li C, Links AE, Maduro V, Malicdan MCV, Malik FS, Nehrebecky M, Park J,
@@ -1007,7 +1034,7 @@ pages: 695-705
 top: false
 
 -pmid: 28425197
-authors: Robinson PN, 
+authors: Robinson PN,
 year: 2017
 title: Once doesn't count: Phenotype-driven gene hunting in cohorts
 journal: Hum Mutat
@@ -1018,7 +1045,7 @@ top: false
 -pmid: 28340351
 authors: Manolio TA, Fowler DM, Starita LM, Haendel MA, MacArthur DG, Biesecker LG,
 	Worthey E, Chisholm RL, Green ED, Jacob HJ, McLeod HL, Roden D, Rodriguez LL,
-	Williams MS, Cooper GM, Cox NJ, Herman GE, Kingsmore S, Lo C, Lutz C, MacRae CA, 
+	Williams MS, Cooper GM, Cox NJ, Herman GE, Kingsmore S, Lo C, Lutz C, MacRae CA,
 	Nussbaum RL, Ordovas JM, Ramos EM, Robinson PN, Rubinstein WS, Seidman C,
 	Stranger BE, Wang H, Westerfield M, Bult C
 year: 2017
@@ -1049,7 +1076,7 @@ top: false
 -pmid: 27899602
 authors: Köhler S, Vasilevsky NA, Engelstad M, Foster E, McMurry J, Aymé S, Baynam G,
 	Bello SM, Boerkoel CF, Boycott KM, Brudno M, Buske OJ, Chinnery PF, Cipriani V,
-	Connell LE, Dawkins HJ, DeMare LE, Devereau AD, de Vries BB, Firth HV, Freson K, 
+	Connell LE, Dawkins HJ, DeMare LE, Devereau AD, de Vries BB, Firth HV, Freson K,
 	Greene D, Hamosh A, Helbig I, Hum C, Jähn JA, James R, Krause R, F Laulederkind
 	SJ, Lochmüller H, Lyon GJ, Ogishima S, Olry A, Ouwehand WH, Pontikos N, Rath A,
 	Schaefer F, Scott RH, Segal M, Sergouniotis PI, Sever R, Smith CL, Straub V,
@@ -1109,7 +1136,7 @@ authors: Knaus A, Pantel JT, Pendziwiat M, Hajjir N, Zhao M, Hsieh TC, Schubach 
 	Gurovich Y, Fleischer N, Jäger M, Köhler S, Muhle H, Korff C, Møller RS, Bayat A,
 	Calvas P, Chassaing N, Warren H, Skinner S, Louie R, Evers C, Bohn M, Christen
 	HJ, van den Born M, Obersztyn E, Charzewska A, Endziniene M, Kortüm F, Brown N,
-	Robinson PN, Schelhaas HJ, Weber Y, Helbig I, Mundlos S, Horn D, Krawitz PM. 
+	Robinson PN, Schelhaas HJ, Weber Y, Helbig I, Mundlos S, Horn D, Krawitz PM.
 year: 2018
 title: Characterization of glycosylphosphatidylinositol biosynthesis defects by clinical features, flow cytometry, and automated image analysis
 journal: Genome Med
@@ -1155,7 +1182,7 @@ pages: 352ed12
 top: false
 
 -pmid: 27516611
-authors: McMurry JA, Köhler S, Washington NL, Balhoff JP, Borromeo C, Brush M, Carbon 
+authors: McMurry JA, Köhler S, Washington NL, Balhoff JP, Borromeo C, Brush M, Carbon
 	S, Conlin T, Dunn N, Engelstad M, Foster E, Gourdine JP, Jacobsen JO, Keith D,
 	  Laraway B, Xuan JN, Shefchek K, Vasilevsky NA, Yuan Z, Lewis SE, Hochheiser H,
 	  Groza T, Smedley D, Robinson PN, Mungall CJ, Haendel MA
@@ -1168,7 +1195,7 @@ pages: 1491-1495
 top: false
 
 -pmid: 27120253
-authors: Knaus A, Awaya T, Helbig I, Afawi Z, Pendziwiat M, Abu-Rachma J, Thompson MD, 
+authors: Knaus A, Awaya T, Helbig I, Afawi Z, Pendziwiat M, Abu-Rachma J, Thompson MD,
 	  Cole DE, Skinner S, Annese F, Canham N, Schweiger MR, Robinson PN, Mundlos S,
 	  Kinoshita T, Munnich A, Murakami Y, Horn D, Krawitz PM
 year: 2016
@@ -1188,8 +1215,8 @@ pages: 388
 top: false
 
 -pmid: 27179278
-authors: Olech EM, Zemojtel T, Sowi\'{n}ska-Seidler A, Mundlos S, Robinson PN, Karczewski M, Jamsheer A 
-	  
+authors: Olech EM, Zemojtel T, Sowi\'{n}ska-Seidler A, Mundlos S, Robinson PN, Karczewski M, Jamsheer A
+
 year: 2016
 title: Identification of a molecular defect in a stillborn fetus with perinatal lethal hypophosphatasia using a disease-associated genome sequencing approach
 journal: Pol J Pathol
@@ -1220,12 +1247,12 @@ top: false
 authors: Jiang Y, Oron TR, Clark WT, Bankapur AR, D'Andrea D, Lepore R, Funk CS,
 	  Kahanda I, Verspoor KM, Ben-Hur A, Koo da CE, Penfold-Brown D, Shasha D, Youngs
 	  N, Bonneau R, Lin A, Sahraeian SM, Martelli PL, Profiti G, Casadio R, Cao R,
-	  Zhong Z, Cheng J, Altenhoff A, Skunca N, Dessimoz C, Dogan T, Hakala K, Kaewphan 
+	  Zhong Z, Cheng J, Altenhoff A, Skunca N, Dessimoz C, Dogan T, Hakala K, Kaewphan
 	  S, Mehryary F, Salakoski T, Ginter F, Fang H, Smithers B, Oates M, Gough J,
-	  Törönen P, Koskinen P, Holm L, Chen CT, Hsu WL, Bryson K, Cozzetto D, Minneci F, 
+	  Törönen P, Koskinen P, Holm L, Chen CT, Hsu WL, Bryson K, Cozzetto D, Minneci F,
 	  Jones DT, Chapman S, Bkc D, Khan IK, Kihara D, Ofer D, Rappoport N, Stern A,
-	  Cibrian-Uhalte E, Denny P, Foulger RE, Hieta R, Legge D, Lovering RC, Magrane M, 
-	  Melidoni AN, Mutowo-Meullenet P, Pichler K, Shypitsyna A, Li B, Zakeri P, ElShal 
+	  Cibrian-Uhalte E, Denny P, Foulger RE, Hieta R, Legge D, Lovering RC, Magrane M,
+	  Melidoni AN, Mutowo-Meullenet P, Pichler K, Shypitsyna A, Li B, Zakeri P, ElShal
 	  S, Tranchevent LC, Das S, Dawson NL, Lee D, Lees JG, Sillitoe I, Bhat P, Nepusz
 	  T, Romero AE, Sasidharan R, Yang H, Paccanaro A, Gillis J, Sedeño-Cortés AE,
 	  Pavlidis P, Feng S, Cejuela JM, Goldberg T, Hamp T, Richter L, Salamov A,
@@ -1238,7 +1265,7 @@ authors: Jiang Y, Oron TR, Clark WT, Bankapur AR, D'Andrea D, Lepore R, Funk CS,
 	  Wang Z, Sternberg MJ, Wass MN, Huntley RP, Martin MJ, O'Donovan C, Robinson PN,
 	  Moreau Y, Tramontano A, Babbitt PC, Brenner SE, Linial M, Orengo CA, Rost B,
 	  Greene CS, Mooney SD, Friedberg I, Radivojac P
-	  
+
 year: 2016
 title: An expanded evaluation of protein function prediction methods shows an improvement in accuracy
 journal: Genome Biol
@@ -1266,7 +1293,7 @@ top: false
 
 -pmid: 26840980
 authors: Seppelt PC, Schwill S, Weymann A, Arif R, Weber A, Zaradzki M, Richter K, Ensminger S, Robinson PN, Wagner AH, Karck M, Kallenbach K
-	  
+
 year: 2016
 title: Loss of Endothelial Barrier in Marfan Mice (mgR/mgR) Results in Severe Inflammation after Adenoviral Gene Therapy
 journal: PLoS One
@@ -1277,10 +1304,10 @@ top: false
 -pmid: 26562225
 authors: Bone WP, Washington NL, Buske OJ, Adams DR, Davis J, Draper D, Flynn ED,
 	  Girdea M, Godfrey R, Golas G, Groden C, Jacobsen J, Köhler S, Lee EM, Links AE,
-	  Markello TC, Mungall CJ, Nehrebecky M, Robinson PN, Sincan M, Soldatos AG, Tifft 
+	  Markello TC, Mungall CJ, Nehrebecky M, Robinson PN, Sincan M, Soldatos AG, Tifft
 	  CJ, Toro C, Trang H, Valkanas E, Vasilevsky N, Wahl C, Wolfe LA, Boerkoel CF,
 	  Brudno M, Haendel MA, Gahl WA, Smedley D.
-	  
+
 year: 2016
 title: Computational evaluation of exome sequence data using human and model organism phenotypes improves diagnostic efficiency
 journal: Genet Med
@@ -1301,8 +1328,8 @@ top: true
 authors: Fischer-Zirnsak B, Escande-Beillard N, Ganesh J, Tan YX, Al Bughaili M, Lin
 	  AE, Sahai I, Bahena P, Reichert SL, Loh A, Wright GD, Liu J, Rahikkala E, Pivnick
 	  EK, Choudhri AF, Krüger U, Zemojtel T, van Ravenswaaij-Arts C, Mostafavi R,
-	  Stolte-Dijkstra I, Symoens S, Pajunen L, Al-Gazali L, Meierhofer D, Robinson PN, 
-	  Mundlos S, Villarroel CE, Byers P, Masri A, Robertson SP, Schwarze U, Callewaert 
+	  Stolte-Dijkstra I, Symoens S, Pajunen L, Al-Gazali L, Meierhofer D, Robinson PN,
+	  Mundlos S, Villarroel CE, Byers P, Masri A, Robertson SP, Schwarze U, Callewaert
 	  B, Reversade B, Kornak U
 year: 2015
 title: Recurrent De Novo Mutations Affecting Residue Arg138 of Pyrroline-5-Carboxylate Synthase Cause a Progeroid Form of Autosomal-Dominant Cutis Laxa
@@ -1360,7 +1387,7 @@ top: false
 
 -pmid: 26295439
 authors: Philippakis AA, Azzariti DR, Beltran S, Brookes AJ, Brownstein CA, Brudno M,
-	  Brunner HG, Buske OJ, Carey K, Doll C, Dumitriu S, Dyke SO, den Dunnen JT, Firth 
+	  Brunner HG, Buske OJ, Carey K, Doll C, Dumitriu S, Dyke SO, den Dunnen JT, Firth
 	  HV, Gibbs RA, Girdea M, Gonzalez M, Haendel MA, Hamosh A, Holm IA, Huang L,
 	  Hurles ME, Hutton B, Krier JB, Misyura A, Mungall CJ, Paschall J, Paten B,
 	  Robinson PN, Schiettecatte F, Sobreira NL, Swaminathan GJ, Taschner PE, Terry SF,
@@ -1458,7 +1485,7 @@ volume: 12
 pages: 841-843
 top: false
 
--pmid: n/a 
+-pmid: n/a
 authors: Robinson PN, Mungall CJ, Haendel MA
 year: 2015
 title: Capturing Phenotypes for Precision Medicine
@@ -1487,7 +1514,7 @@ top: false
 
 -pmid: 26119816
 authors: Groza T, Köhler S, Moldenhauer D, Vasilevsky N, Baynam G, Zemojtel T, Schriml LM, Kibbe W,
-	  Schofield PN, Beck T, Vasant D, Brookes AJ, Zankl A, Washington NL, Mungall CJ, Lewis SE, Haendel M, Parkinson H, 
+	  Schofield PN, Beck T, Vasant D, Brookes AJ, Zankl A, Washington NL, Mungall CJ, Lewis SE, Haendel M, Parkinson H,
 	  Robinson PN
 year: 2015
 title: The Human Phenotype Ontology: Semantic unification of common and rare disease
@@ -1517,7 +1544,7 @@ pages: 1601-6
 top: false
 
 -pmid: 25949529
-authors: Westbury SK, Turro E, Greene D, Lentaigne C, Kelly AM, Bariana TK, Simeoni I, 
+authors: Westbury SK, Turro E, Greene D, Lentaigne C, Kelly AM, Bariana TK, Simeoni I,
 	   Pillois X, Attwood A, Austin S, Jansen SB, Bakchoul T, Crisp-Hihn A, Erber WN,
 	   Favier R, Foad N, Gattens M, Jolley JD, Liesner R, Meacham S, Millar CM, Nurden
 	   AT, Peerlinck K, Perry DJ, Poudel P, Schulman S, Schulze H, Stephens JC, Furie B,
@@ -1531,7 +1558,7 @@ pages: 36
 top: false
 
 -pmid: 25725061
-authors: Groza T, Köhler S, Doelken S, Collier N, Oellrich A, Smedley D, Couto FM, 
+authors: Groza T, Köhler S, Doelken S, Collier N, Oellrich A, Smedley D, Couto FM,
 	  		 Baynam G, Zankl A, Robinson PN
 year: 2015
 title: Automatic concept recognition using the Human Phenotype Ontology reference and test suite corpora
@@ -1550,7 +1577,7 @@ authors: Deans AR, Lewis SE, Huala E, Anzaldo SS, Ashburner M, Balhoff JP, Black
 	  Mungall CJ, Oellrich A, Osumi-Sutherland D, Parkinson H, Ramírez MJ, Richter S,
 	  Robinson PN, Ruttenberg A, Schulz KS, Segerdell E, Seltmann KC, Sharkey MJ, Smith
 	  AD, Smith B, Specht CD, Squires RB, Thacker RW, Thessen A, Fernandez-Triana J,
-	  Vihinen M, Vize PD, Vogt L, Wall CE, Walls RL, Westerfeld M, Wharton RA, Wirkner 
+	  Vihinen M, Vize PD, Vogt L, Wall CE, Walls RL, Westerfeld M, Wharton RA, Wirkner
 	  CS, Woolley JB, Yoder MJ, Zorn AM, Mabee P
 year: 2015
 title: Finding Our Way through Phenotypes
@@ -1621,7 +1648,7 @@ pages: 393-401
 top: false
 
 -pmid: 25293717
-authors: Emmerich D, Zemojtel T, Hecht J, Krawitz P, Spielmann M, Kühnisch J, Kobus K, 
+authors: Emmerich D, Zemojtel T, Hecht J, Krawitz P, Spielmann M, Kühnisch J, Kobus K,
 	  	Osswald M, Heinrich V, Berlien P, Müller U, Mautner VF, Wimmer K, Robinson P,
 	Vingron M, Tinschert S, Mundlos S, Kolanczyk M
 year: 2015
@@ -1658,9 +1685,9 @@ volume: 6
 pages: 78
 top: false
 
--pmid: 
-authors: Ibn-Salem J, Köhler S, Love MI, Chung HR, Huang N, Hurles ME, Haendel M, 
-	  Washington NL, Smedley D, Mungall CJ, Lewis SE, Ott CE, Bauer S, Schofield PN, Mundlos S, 
+-pmid:
+authors: Ibn-Salem J, Köhler S, Love MI, Chung HR, Huang N, Hurles ME, Haendel M,
+	  Washington NL, Smedley D, Mungall CJ, Lewis SE, Ott CE, Bauer S, Schofield PN, Mundlos S,
 	  Spielmann M, Robinson PN
 year: 2014
 title: Deletions of chromosomal regulatory boundaries are associated with congenital disease
@@ -1703,8 +1730,8 @@ pages: 672-679
 top: false
 
 -pmid: 25093073
-authors: Oellrich A, Koehler S, Washington N; Sanger Mouse Genetic Project, Mungall C, 
-	  Lewis S, Haendel M, Robinson PN, Smedley D. 
+authors: Oellrich A, Koehler S, Washington N; Sanger Mouse Genetic Project, Mungall C,
+	  Lewis S, Haendel M, Robinson PN, Smedley D.
 year: 2014
 title: The influence of disease categories on gene candidate predictions from model organism phenotypes
 journal: J Biomed Semantics
@@ -1732,7 +1759,7 @@ pages: 137-145
 top: false
 
 -pmid: 25047600
-authors: Masino AJ, Dechene ET, Dulik MC, Wilkens A, Spinner NB, Krantz ID, Pennington 
+authors: Masino AJ, Dechene ET, Dulik MC, Wilkens A, Spinner NB, Krantz ID, Pennington
 	  JW, Robinson PN, White PS
 year: 2014
 title: Clinical phenotype-based gene prioritization: an initial study using semantic similarity and the human phenotype ontology
@@ -1887,7 +1914,7 @@ top: true
 
 -pmid: 23991918
 authors: Sheikhzadeh S, Sondermann C, Rybczynski M, Habermann CR, Brockstaedt L, Keyser
-	  B, Kaemmerer H, Mir T, Staebler A, Robinson PN, Kutsche K, Berger J, Blankenberg 
+	  B, Kaemmerer H, Mir T, Staebler A, Robinson PN, Kutsche K, Berger J, Blankenberg
 	  S, von Kodolitsch Y
 year: 2013
 title: Comprehensive analysis of dural ectasia in 150 patients with a causative FBN1 mutation
@@ -1897,7 +1924,7 @@ pages: 238-245
 top: false
 
 -pmid: 23995701
-authors: Ibrahim DM, Hansen P, Rödelsperger C, Stiege AC, Doelken SC, Horn D, Jäger M, 
+authors: Ibrahim DM, Hansen P, Rödelsperger C, Stiege AC, Doelken SC, Horn D, Jäger M,
 	  Janetzki C, Krawitz P, Leschik G, Wagner F, Scheuer T, Schmidt-von Kegler M,
 	  Seemann P, Timmermann B, Robinson PN, Mundlos S, Hecht J
 year: 2013
@@ -1964,7 +1991,7 @@ pages: 448-455
 top: false
 
 -pmid: 23733340
-authors: Krawitz PM, Höchsmann B, Murakami Y, Teubner B, Krüger U, Klopocki E, Neitzel 
+authors: Krawitz PM, Höchsmann B, Murakami Y, Teubner B, Krüger U, Klopocki E, Neitzel
 	  H, Hoellein A, Schneider C, Parkhomchuk D, Hecht J, Robinson PN, Mundlos S,
 	  Kinoshita T, Schrezenmeier H
 year: 2013
@@ -1998,7 +2025,7 @@ top: false
 -pmid: 23440042
 authors: Kotlarz D, Zietara N, Uzel G, Weidemann T, Braun CJ, Diestelhorst J, Krawitz
 	  PM, Robinson PN, Hecht J, Puchalka J, Gertz EM, Schäffer AA, Lawrence MG, Kardava
-	  L, Pfeifer D, Baumann U, Pfister ED, Hanson EP, Schambach A, Jacobs R, Kreipe H, 
+	  L, Pfeifer D, Baumann U, Pfister ED, Hanson EP, Schambach A, Jacobs R, Kreipe H,
 	  Moir S, Milner JD, Schwille P, Mundlos S, Klein C.
 year: 2013
 title: Loss-of-function mutations in the IL-21 receptor gene cause a primary immunodeficiency syndrome
@@ -2020,7 +2047,7 @@ pages: 661-666
 top: false
 
 -pmid: 23294503
-authors: Schwill S, Seppelt P, Grünhagen J, Ott CE, Jugold M, 
+authors: Schwill S, Seppelt P, Grünhagen J, Ott CE, Jugold M,
 	  Ruhparwar A, Robinson PN, Karck M, Kallenbach K
 year: 2013
 title: The fibrillin-1 hypomorphic mgR/mgR murine model of Marfan syndrome shows severe elastolysis in all segments of the aorta
@@ -2039,7 +2066,7 @@ pages: 696-705
 top: false
 
 -pmid: 23176764
-authors:  Kühne K, Keyser B, Groene EF, Sheikhzadeh S, Detter C, Lorenzen V, Hillebrand 
+authors:  Kühne K, Keyser B, Groene EF, Sheikhzadeh S, Detter C, Lorenzen V, Hillebrand
 	  M, Bernhardt AM, Hoffmann B, Mir TS, Robinson PN, Berger J, Reichenspurner H, von
 	  Kodolitsch Y, Rybczynski M
 year: 2013
@@ -2063,7 +2090,7 @@ top: false
 authors: Carmignac V, Thevenon J, Adès L, Callewaert B, Julia S, Thauvin-Robinet C,
 	  Gueneau L, Courcet JB, Lopez E, Holman K, Renard M, Plauchu H, Plessis G, De
 	  Backer J, Child A, Arno G, Duplomb L, Callier P, Aral B, Vabres P, Gigot N,
-	  Arbustini E, Grasso M, Robinson PN, Goizet C, Baumann C, Di Rocco M, Sanchez Del 
+	  Arbustini E, Grasso M, Robinson PN, Goizet C, Baumann C, Di Rocco M, Sanchez Del
 	  Pozo J, Huet F, Jondeau G, Collod-Beroud G, Beroud C, Amiel J, Cormier-Daire V,
 	  Riviére JB, Boileau C, De Paepe A, Faivre L
 year: 2012
@@ -2093,7 +2120,7 @@ pages: 82-88
 top: false
 
 -pmid: 23022097
-authors: Spielmann M, Brancati F, Krawitz PM, Robinson PN, Ibrahim DM, Franke M, Hecht 
+authors: Spielmann M, Brancati F, Krawitz PM, Robinson PN, Ibrahim DM, Franke M, Hecht
 	  J, Lohan S, Dathe K, Nardone AM, Ferrari P, Landi A, Wittler L, Timmermann B,
 	  Chan D, Mennen U, Klopocki E, Mundlos S
 year: 2012
@@ -2163,7 +2190,7 @@ top: false
 authors: Robinson PN
 year: 2012
 title: Deep phenotyping for precision medicine
-journal: 
+journal:
 volume: 33
 pages: 777-780
 top: false
@@ -2180,7 +2207,7 @@ top: false
 
 -pmid: 22315194
 authors: Thompson MD, Roscioli T, Marcelis C, Nezarati MM, Stolte-Dijkstra I, Sharom
-                FJ, Lu P, Phillips JA, Sweeney E, Robinson PN, Krawitz P, Yntema HG, Andrade DM, 
+                FJ, Lu P, Phillips JA, Sweeney E, Robinson PN, Krawitz P, Yntema HG, Andrade DM,
                 Brunner HG, Cole DE
 year: 2012
 title: Phenotypic variability in hyperphosphatasia with seizures and neurologic deficit (Mabry syndrome)
@@ -2201,7 +2228,7 @@ pages: 527-535
 top: false
 
 -pmid: 22228761
-authors: Murakami Y, Kanzawa N, Saito K, Krawitz PM, Mundlos S, Robinson PN, Karadimitris A, Maeda Y, Kinoshita T 
+authors: Murakami Y, Kanzawa N, Saito K, Krawitz PM, Mundlos S, Robinson PN, Karadimitris A, Maeda Y, Kinoshita T
 year: 2012
 title: Mechanism for release of alkaline phosphatase caused by glycosylphosphatidylinositol deficiency in patients with hyperphosphatasia-mental retardation syndrome
 journal: J Biol Chem
@@ -2228,7 +2255,7 @@ volume: 40
 pages: 2426-2431
 top: false
 
--pmid: n/a 
+-pmid: n/a
 authors: Robinson PN, Arslan-Kirchner M, Gehle P, Schmidtke J, von Kodolitsch Y*
 year: 2011
 title: Das Marfan-Syndrom und verwandte monogene  Krankheiten der Aorta
@@ -2278,7 +2305,7 @@ pages: 240-247
 top: false
 
 -pmid: 21802748
-authors: Aydin A, Desai N, Bernhardt AM, Treede H, Detter C, Sheikhzadeh S, Rybczynski 
+authors: Aydin A, Desai N, Bernhardt AM, Treede H, Detter C, Sheikhzadeh S, Rybczynski
                 M, Hillebrand M, Lorenzen V, Mortensen K, Robinson PN, Berger J, Reichenspurner
                 H, Meinertz T, Willems S, von Kodolitsch Y
 year: 2013
@@ -2288,7 +2315,7 @@ volume: 164
 pages: 301-305
 top: false
 
--pmid: n/a 
+-pmid: n/a
 authors: Guo G,  Gehle P,  Doelken S,  Martin-Ventura JL,  von Kodolitsch Y, Hetzer R, Robinson PN
 year: 2011
 title: Induction of Macrophage Chemotaxis by Aortic Extracts from Patients with Marfan Syndrome Is Related to Elastin Binding Protein
@@ -2321,7 +2348,7 @@ top: false
 -pmid: 21561920
 authors: Bauer S, Robinson PN, Gagneur J*
 year: 2011
-title: Model-based Gene Set Analysis for Bioconductor 
+title: Model-based Gene Set Analysis for Bioconductor
 journal: Bioinformatics
 volume: 27
 pages: 1882-3
@@ -2337,8 +2364,8 @@ pages: 2697-709
 top: false
 
 -pmid: 21211604
-authors: Rybczynski M, Treede H, Sheikhzadeh S, Groene EF, Bernhardt AM, Hillebrand M, 
-                Mir TS, Kühne K, Koschyk D, Robinson PN, Berger J, Reichenspurner H, Meinertz T, 
+authors: Rybczynski M, Treede H, Sheikhzadeh S, Groene EF, Bernhardt AM, Hillebrand M,
+                Mir TS, Kühne K, Koschyk D, Robinson PN, Berger J, Reichenspurner H, Meinertz T,
                 von Kodolitsch Y
 year: 2011
 title: Predictors of outcome of mitral valve prolapse in patients with the Marfan syndrome
@@ -2377,7 +2404,7 @@ pages: 466-468
 top: false
 
 -pmid: 21278187
-authors: Rödelsperger C, Krawitz P, Bauer S,  Hecht J,   Bigham AW,  Bamshad M, Jonske de Condor B, 
+authors: Rödelsperger C, Krawitz P, Bauer S,  Hecht J,   Bigham AW,  Bamshad M, Jonske de Condor B,
                 Michal Schweiger MR, Robinson PN
 year: 2011
 title: Identity-By-Descent Filtering of Exome Sequence data for Disease-Gene Identification in Autosomal Recessive Disorders
@@ -2483,9 +2510,9 @@ pages: 568-574
 top: false
 
 -pmid: 20802478
-authors: Krawitz PM, Schweiger MR, Rödelsperger C,  Marcelis C, Kölsch U, Meisel C, Stephani F, Kinoshita T, Murakami Y, 
+authors: Krawitz PM, Schweiger MR, Rödelsperger C,  Marcelis C, Kölsch U, Meisel C, Stephani F, Kinoshita T, Murakami Y,
                 Bauer S, Isau M, Fischer A, Dahl A, Kerick M, Hecht J, Köhler S, Jäger M, Gr\"nhagen J, Jonske de Condor B,
-                Doelken S, Brunner HG, Meinecke P, Passarge E, Thompson MD, Cole DE,  Horn D, 
+                Doelken S, Brunner HG, Meinecke P, Passarge E, Thompson MD, Cole DE,  Horn D,
                 Roscioli T, Mundlos S*, Robinson PN
 year: 2010
 title: Identity-by-Descent Filtering of Exome Sequence Data identifies PIGV mutations in Hyperphosphatasia Mental Retardation syndrome (HPMR)
@@ -2503,7 +2530,7 @@ volume: 77
 pages: 525-534
 top: false
 
--pmid: n/a 
+-pmid: n/a
 authors: Doelken SC, Köhler S, Bauer S, Krawitz P, Horn D, Mundlos S, Robinson PN
 year: 2010
 title: Neue Wege in der bioinformatischen Phänotypanalyse: Die Human Phenotype Ontology
@@ -2524,7 +2551,7 @@ top: false
 -pmid: 20395939
 authors: Mortensen K, Baulmann J, Rybczynski M, Sheikhzadeh S, Aydin MA, Treede H,
                 Dombrowski E, Kühne K, Peitsmeier P, Habermann CR, Robinson PN, Stuhrmann M,
-                Berger J, Meinertz T, von Kodolitsch Y 
+                Berger J, Meinertz T, von Kodolitsch Y
 year: 2010
 title: Augmentation index and the evolution of aortic disease in Marfan-like syndromes
 journal: Am J Hypertens
@@ -2541,7 +2568,7 @@ volume: 39
 pages: 17-32
 top: false
 
--pmid: n/a 
+-pmid: n/a
 authors:  Bauer S, Gagneur J, Robinson PN
 year: 2010
 title: GOing Bayesian: model-based gene set analysis of genome-scale data
@@ -2562,7 +2589,7 @@ top: false
 -pmid: 19800049
 authors: Köhler S, Schulz MH, Krawitz P,  Bauer S, Dölken S,  Ott CE, Mundlos C, Horn D, Mundlos S, Robinson PN
 year: 2009
-title: Clinical Diagnostics in Human Genetics with Semantic Similarity Searches in Ontologies 
+title: Clinical Diagnostics in Human Genetics with Semantic Similarity Searches in Ontologies
 journal: Am J Hum Genet
 volume: 85
 pages: 457-64
@@ -2577,7 +2604,7 @@ volume: 94
 pages: 308-316
 top: false
 
--pmid: n/a 
+-pmid: n/a
 authors: Schulz MH, Köhler S, Bauer S, Vingron M, Robinson PN
 year: 2009
 title: Exact Score Distribution Computation for Similarity Searches in Ontologies
@@ -2609,7 +2636,7 @@ top: false
 -pmid: 19353630
 authors: Faivre L, Collod-Beroud G, Callewaert B, Child A, Loeys BL, Binquet C, Gautier
                 E, Arbustini E, Mayer K, Arslan-Kirchner M, Kiotsekoglou A, Comeglio P, Grasso M,
-                Beroud C, Bonithon-Kopp C, Claustres M, Stheneur C, Bouchot O, Wolf JE, Robinson PN, 
+                Beroud C, Bonithon-Kopp C, Claustres M, Stheneur C, Bouchot O, Wolf JE, Robinson PN,
                 Adès L, De Backer J, Coucke P, Francke U, De Paepe A, Boileau C, Jondeau G.
 year: 2009
 title: Pathogenic FBN1 mutations in 146 adults not meeting clinical diagnostic criteria for Marfan syndrome: further delineation of type 1 fibrillinopathies and focus on patients with an isolated major criterion
@@ -2637,10 +2664,10 @@ pages: 1247-1262
 top: false
 
 -pmid: 19002209
-authors: Faivre L, Collod-Béroud G, Callewaert B, Child A, Binquet C, Gautier E, Loeys 
+authors: Faivre L, Collod-Béroud G, Callewaert B, Child A, Binquet C, Gautier E, Loeys
             BL, Arbustini E, Mayer K, Arslan-Kirchner M, Stheneur C, Kiotsekoglou A, Comeglio
             P, Marziliano N, Wolf JE, Bouchot O, Khau-Van-Kien P, Beroud C, Claustres M,
-            Bonithon-Kopp C, Robinson PN, Adès L, De Backer J, Coucke P, Francke U, De Paepe 
+            Bonithon-Kopp C, Robinson PN, Adès L, De Backer J, Coucke P, Francke U, De Paepe
             A, Jondeau G, Boileau C
 year: 2008
 title: Clinical and mutation-type analysis from an international series of 198 probands with a pathogenic FBN1 exons 24-32 mutation
@@ -2651,7 +2678,7 @@ top: false
 
 -pmid: 18950739
 authors: Robinson PN, Köhler S, Bauer S, Seelow D, Horn D, Mundlos S
-        
+
 year: 2008
 title: The Human Phenotype Ontology: A Tool for Annotating and Analyzing Human Hereditary Disease
 journal: Am J Hum Genet
@@ -2734,7 +2761,7 @@ top: false
 
 -pmid: 18310266
 authors: Faivre L, Collod-Beroud G, Child A, Callewaert B, Loeys BL, Binquet C, Gautier
-            E, Arbustini E, Mayer K, Arslan-Kirchner M, Stheneur C, Kiotsekoglou A, Comeglio 
+            E, Arbustini E, Mayer K, Arslan-Kirchner M, Stheneur C, Kiotsekoglou A, Comeglio
             P, Marziliano N, Halliday D, Beroud C, Bonithon-Kopp C, Claustres M, Plauchu H,
             Robinson PN, Adès L, De Backer J, Coucke P, Francke U, De Paepe A, Boileau C,
             Jondeau G
@@ -2757,7 +2784,7 @@ top: false
 -pmid: 17701892
 authors: Faivre L, Collod-Beroud G, Loeys BL, Child A, Binquet C, Gautier E, Callewaert
                 B, Arbustini E, Mayer K, Arslan-Kirchner M, Kiotsekoglou A, Comeglio P,
-                Marziliano N, Dietz HC, Halliday D, Beroud C, Bonithon-Kopp C, Claustres M, Muti 
+                Marziliano N, Dietz HC, Halliday D, Beroud C, Bonithon-Kopp C, Claustres M, Muti
                 C, Plauchu H, Robinson PN, Ades LC, Biggin A, Benetts B, Brett M, Holman KJ, De
                 Backer J, Coucke P, Francke U, De Paepe A, Jondeau G, Boileau C
 year: 2007
@@ -2804,7 +2831,7 @@ pages: 102-112
 top: false
 
 -pmid: 16822315
-authors: Jochen Hecht, Heiner Kuhl, Stefan A Haas, Sebastian Bauer, Albert J Poustka, Jasmin Lienau, Hanna Schell, Asita C Stiege, Volkhard Seitz, 
+authors: Jochen Hecht, Heiner Kuhl, Stefan A Haas, Sebastian Bauer, Albert J Poustka, Jasmin Lienau, Hanna Schell, Asita C Stiege, Volkhard Seitz,
                 Richard Reinhardt, Georg N Duda, Stefan Mundlos,  Robinson PN
 year: 2006
 title: Gene identification and analysis of transcripts differentially regulated in fracture healing by EST sequencing in the domestic sheep
@@ -2843,7 +2870,7 @@ pages: 769-87
 top: false
 
 -pmid: 16705711
-authors: Wenzel K, Carl M, Perrot A, Zabojszcza J, Assadi M, Ebeling M, Geier C, Robinson PN, 
+authors: Wenzel K, Carl M, Perrot A, Zabojszcza J, Assadi M, Ebeling M, Geier C, Robinson PN,
           Kress W, Osterziel KJ, Spuler S
 year: 2006
 title: Novel sequence variants in dysferlin-deficient muscular dystrophy leading to mRNA decay and possible C2-domain misfolding
@@ -2870,7 +2897,7 @@ volume: 140
 pages: 558-66
 top: false
 
--pmid: n/a 
+-pmid: n/a
 authors: Grossmann S, Bauer S,  Robinson PN, Vingron M
 year: 2006
 title: An Improved Statistic for Detecting Over-represented Gene Ontology Annotations in Gene Sets
@@ -2897,8 +2924,8 @@ volume: 114
 pages: 1855-1862
 top: true
 
--pmid: n/a 
-authors: Gille C, Robinson PN 
+-pmid: n/a
+authors: Gille C, Robinson PN
 year: 2006
 title: HotSwap for Bioinformatics: A STRAP Tutorial
 journal: BMC Bioinformatics
@@ -2907,7 +2934,7 @@ pages: 64
 top: false
 
 -pmid: 16442122
-authors: Beattie BJ, Robinson PN 
+authors: Beattie BJ, Robinson PN
 year: 2006
 title: Binary State Pattern Clustering: A Digital Paradigm for Class and Biomarker Discovery
 journal: J Comput Biol
@@ -2916,20 +2943,20 @@ pages: 1114-1130
 top: false
 
 -pmid: 16159712
-authors: Andreas Ney, Patrick Booms, Guido Epple, Matthias Mörgelin, 
-          Gao Guo, Gerhard Kettelgerdes, Reinhard Ge{\ss}ner Robinson PN 
+authors: Andreas Ney, Patrick Booms, Guido Epple, Matthias Mörgelin,
+          Gao Guo, Gerhard Kettelgerdes, Reinhard Ge{\ss}ner Robinson PN
 year: 2006
 title: Calcium-dependent self-association of the C-type lectin domain of versican
-journal: Int J Biochem Cell Biol 
+journal: Int J Biochem Cell Biol
 volume: 38
 pages: 23-29
 top: false
 
--pmid: n/a 
-authors:  Robinson PN, Neumann LM, Tinschert S 
+-pmid: n/a
+authors:  Robinson PN, Neumann LM, Tinschert S
 year: 2006
 title: Response to Kosaki et al. Molecular pathology of Shprintzen-Goldberg syndrome (Letter)
-journal: Am J Med Genet A 
+journal: Am J Med Genet A
 volume: 140A
 pages: 109-110
 top: false
@@ -2938,13 +2965,13 @@ top: false
 authors: Robinson PN, Neumann LM, Demuth S, Enders H, Jung U, König R, Mitulla B, Müller D, Muschke P, Pfeiffer L, Prager B, Somer M, Tinschert S
 year: 2005
 title: Shprintzen-Goldberg syndrome: Fourteen new patients and a clinical analysis
-journal: Am J Med Genet A 
+journal: Am J Med Genet A
 volume: 135
 pages: 251-62
 top: false
 
 -pmid: 15517394
-authors: Booms P, Pregla R, Ney A, Barthel F, Reinhardt DP, Pletschacher A, Mundlos S, Robinson PN 
+authors: Booms P, Pregla R, Ney A, Barthel F, Reinhardt DP, Pletschacher A, Mundlos S, Robinson PN
 year: 2005
 title: RGD-containing fibrillin-1 fragments upregulate matrix metalloproteinase expression in cell culture: a potential factor in the pathogenesis of the Marfan syndrome
 journal: Hum Genet
@@ -2953,7 +2980,7 @@ pages: 51-61
 top: false
 
 -pmid: 15333588
-authors: Albrecht AN, Kornak U, Boddrich A, Suring K, Robinson PN, Stiege AC, Lurz R, Stricker S, Wanker EE, Mundlos S 
+authors: Albrecht AN, Kornak U, Boddrich A, Suring K, Robinson PN, Stiege AC, Lurz R, Stricker S, Wanker EE, Mundlos S
 year: 2004
 title:  A molecular pathogenesis for transcription factor associated poly-alanine tract expansions
 journal: Hum Mol Genet
@@ -3010,7 +3037,7 @@ pages: 197-208
 top: false
 
 -pmid: 11706995
-authors: Robinson PN, Booms P 
+authors: Robinson PN, Booms P
 year: 2001
 title: The molecular pathogenesis of Marfan syndrome
 journal: Cell Mol Life Sci
@@ -3022,7 +3049,7 @@ top: false
 authors: Tiecke F, Katzke S, Booms P, Robinson PN, Neumann L, Godfrey M, Mathews KR, Scheuner M, Hinkel GK, Brenner RE, Hövels-Gürich HH, Hagemeier C, Fuchs J, Skovby F, Rosenberg T
 year: 2001
 title: Classic, atypically severe and neonatal Marfan syndrome: 12 Novel Mutations and Genotype-Phenotype Correlations in*FBN1* Exons 24-40
-journal: Eur J Hum Genet 
+journal: Eur J Hum Genet
 volume: 9
 pages: 13-21
 top: false
@@ -3058,12 +3085,12 @@ top: false
 authors: Booms P, Cisler J, Mathews KR, Godfrey M, Tiecke F, Kaufmann UC, Vetter U, Hagemeier C,  Robinson PN
 year: 1999
 title: Novel exon skipping mutation in the fibrillin-1 gene: two 'hot spots' for the neonatal Marfan syndrome
-journal: Clin Genet 
+journal: Clin Genet
 volume: 55
 pages:  110-117
 top: false
 
--pmid: 9694279 
+-pmid: 9694279
 authors:  Gille C, Gille A, Booms P, Robinson PN, Nürnberg P
 year: 1998
 title: Bipolar clamping improves the sensitivity of mutation detection by temperature gradient gel electrophoresis
@@ -3072,7 +3099,7 @@ volume: 19
 pages: 1347-1350
 top: false
 
--pmid: 9544853 
+-pmid: 9544853
 authors: Klose A, Robinson PN, Gewies A, Kluwe L, Kaufmann D, Buske A, Tinschert S, Peters H
 year: 1998
 title: Two novel mutations in exons 19a and 20 and a BsaL polymorphism in a newly characterized intron of the neurofibromatosis type 1 gene
@@ -3135,8 +3162,8 @@ volume: 140
 pages: 111-119
 top: false
 
--pmid: n/a 
-authors:  Tiecke F, Robinson PN, Steinhoff D, Fehrenbach FJ, Rolfs A 
+-pmid: n/a
+authors:  Tiecke F, Robinson PN, Steinhoff D, Fehrenbach FJ, Rolfs A
 year: 1994
 title: Automated direct sequencing of Legionella 5S rDNA
 journal: Med Microbiol Lett
@@ -3144,8 +3171,8 @@ volume: 3
 pages: 279-290
 top: false
 
--pmid: n/a 
-authors:  Heidrich B, Robinson PN, Tiecke F, Steinhoff D, Fehrenbach FJ, Rolfs A 
+-pmid: n/a
+authors:  Heidrich B, Robinson PN, Tiecke F, Steinhoff D, Fehrenbach FJ, Rolfs A
 year: 1994
 title: Genetische Verwandtschaft innerhalb des Genus Legionella. DNS Sequenzuntersuchungen an ribosomalen Genen
 journal: Klinisches Labor
