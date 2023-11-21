@@ -1,12 +1,12 @@
 import re
 from collections import defaultdict
 
-
 """
 The citations.txt file is created by an internal XSL script
 It is almost YML but contains some characters that do not mix well with YML
 so for now we use a naive parse to transform these contents to markdown
 """
+
 
 # The following authors are or were on our team and their names
 # will be shown in bold in the publication page
@@ -108,13 +108,19 @@ class Publication:
         authors = authors.replace("{\\bf Robinson P}", "Robinson P")
         authors = authors.replace("{\\bf Robinson N}", "Robinson N")
         authors = re.sub(r"\.\s?", "", authors)
-        for a in our_team:
-            authors = authors.replace(a, f"**{a}**")
+        author_list = authors.split(",")
+        author_display_list = []
+        for a in author_list:
+            auth = a.strip()
+            print(f"author \"{a}\"")
+            if auth in our_team:
+                auth = f"**{auth}**"
+            author_display_list.append(auth)
         # The following sometimes use their middle initial :-0
-        authors = authors.replace("Gargano M", "**Gargano M**")
-        authors = authors.replace("Krawitz P", "**Krawitz P**")
-        authors = authors.replace("Coleman B", "**Coleman B**")
-
+        #authors = authors.replace("Gargano M", "**Gargano M**")
+        #authors = authors.replace("Krawitz P", "**Krawitz P**")
+        #authors = authors.replace("Coleman B", "**Coleman B**")
+        authors = ", ".join(author_display_list)
         mdown = f"{authors}  \n{self._title}  \n *{self._journal}*, {self._year}; **{self._volume}**:{self._pages}"
         if self._pmid is not None and self._pmid != "n/a":
             mdown = f"{mdown} [PMID:{self._pmid}](https://pubmed.ncbi.nlm.nih.gov/{self._pmid}/)" + "{:target=\"_blank\"}"
@@ -167,8 +173,7 @@ with open(publication_file, 'r') as fh:
         elif inEntry and len(line) < 5:
             inEntry = False
             try:
-                pub = Publication(pmid=pmid, authors=authors, year=year, title=title,
-                              journal=journal, volume=volume, pages=pages, top=top)
+                pub = Publication(pmid=pmid, authors=authors, year=year, title=title, journal=journal, volume=volume, pages=pages, top=top)
                 pub_d[pub.year].append(pub)
             except:
                 print(f"[ERROR] Not able to create publication for {title}")
@@ -189,7 +194,7 @@ def write_top_publications_table(pub_d, years, fh):
     for pub in top_pubs:
         fa = "**" + pub.get_first_author() + "**"
         items = [fa, str(pub.year), pub.title, pub.journal, pub.get_link()]
-        fh.write("|".join(items) + "\n")
+        fh.write("|".join(items) + "|\n")
     fh.write("\n\n")
 
 

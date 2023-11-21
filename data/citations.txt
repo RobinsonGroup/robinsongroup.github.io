@@ -1,5 +1,33 @@
 -- # Publications
 
+
+-pmid: 37982373
+authors: Roberts AM, DiStefano MT, Riggs ER, Josephs KS, Alkuraya FS, Amberger J, Amin M, Berg JS, Cunningham F, Eilbeck K, Firth HV, Foreman J, Hamosh A, Hay E, Leigh S, Martin CL, McDonagh EM, Perrett D, Ramos EM,  {\bf Robinson PN}, Rath A, Sant DW, Stark Z, Whiffin N, Rehm HL, Ware JS
+year: 2023
+title: Towards robust clinical genome interpretation: developing a consistent terminology to characterize Mendelian disease-gene relationships - allelic requirement, inheritance modes and disease mechanisms
+journal: Genet Med
+volume: 10.1016/j.gim.2023.101029
+pages: Epub ahead of print
+top: false
+
+-pmid: 37953324
+authors: Gargano MA, Matentzoglu N, Coleman B, Addo-Lartey EB, Anagnostopoulos AV, Anderton J, Avillach P, Bagley AM, Bakštein E, Balhoff JP, Baynam G, Bello SM, Berk M, Bertram H, Bishop S, Blau H, Bodenstein DF, Botas P, Boztug K, Čady J, Callahan TJ, Cameron R, Carbon SJ, Castellanos F, Caufield JH, Chan LE, Chute CG, Cruz-Rojo J, Dahan-Oliel N, Davids JR, de Dieuleveult M, de Souza V, de Vries BBA, de Vries E, DePaulo JR, Derfalvi B, Dhombres F, Diaz-Byrd C, Dingemans AJM, Donadille B, Duyzend M, Elfeky R, Essaid S, Fabrizzi C, Fico G, Firth HV, Freudenberg-Hua Y, Fullerton JM, Gabriel DL, Gilmour K, Giordano J, Goes FS, Moses RG, Green I, Griese M, Groza T, Gu W, Guthrie J, Gyori B, Hamosh A, Hanauer M, Hanušová K, He YO, Hegde H, Helbig I, Holasová K, Hoyt CT, Huang S, Hurwitz E, Jacobsen JOB, Jiang X, Joseph L, Keramatian K, King B, Knoflach K, Koolen DA, Kraus ML, Kroll C, Kusters M, Ladewig MS, Lagorce D, Lai MC, Lapunzina P, Laraway B, Lewis-Smith D, Li X, Lucano C, Majd M, Marazita ML, Martinez-Glez V, McHenry TH, McInnis MG, McMurry JA, Mihulová M, Millett CE, Mitchell PB, Moslerová V, Narutomi K, Nematollahi S, Nevado J, Nierenberg AA, Čajbiková NN, Nurnberger JI Jr, Ogishima S, Olson D, Ortiz A, Pachajoa H, Perez de Nanclares G, Peters A, Putman T, Rapp CK, Rath A, Reese J, Rekerle L, Roberts AM, Roy S, Sanders SJ, Schuetz C, Schulte EC, Schulze TG, Schwarz M, Scott K, Seelow D, Seitz B, Shen Y, Similuk MN, Simon ES, Singh B, Smedley D, Smith CL, Smolinsky JT, Sperry S, Stafford E, Stefancsik R, Steinhaus R, Strawbridge R, Sundaramurthi JC, Talapova P, Tenorio Castano JA, Tesner P, Thomas RH, Thurm A, Turnovec M, van Gijn ME, Vasilevsky NA, Vlčková M, Walden A, Wang K, Wapner R, Ware JS, Wiafe AA, Wiafe SA, Wiggins LD, Williams AE, Wu C, Wyrwoll MJ, Xiong H, Yalin N, Yamamoto Y, Yatham LN, Yocum AK, Young AH, Yüksel Z, Zandi PP, Zankl A, Zarante I, Zvolský M, Toro S, Carmody LC, Harris NL, Munoz-Torres MC, Danis D, Mungall CJ, Köhler S, Haendel MA, {\bf Robinson PN}
+year: 2023
+title: The Human Phenotype Ontology in 2024: phenotypes around the world
+journal: Nucleic Acids Res
+volume: 10.1093/nar/gkad1005
+pages: Epub ahead of print
+top: true
+
+-pmid: 37963467
+authors: Carmody LC, Gargano MA, Toro S, Vasilevsky NA, Adam MP, Blau H, Chan LE, Gomez-Andres D, Horvath R, Kraus ML, Ladewig MS, Lewis-Smith D, Lochmüller H, Matentzoglu NA, Munoz-Torres MC, Schuetz C, Seitz B, Similuk MN, Sparks TN, Strauss T, Swietlik EM, Thompson R, Zhang XA, Mungall CJ, Haendel MA,, {\bf Robinson PN}
+year: 2023
+title: The Medical Action Ontology: A tool for annotating and analyzing treatments and clinical management of human disease
+journal: Med
+volume: S2666-6340(23)00334-3
+pages: Epub ahead of print
+top: true
+
 -pmid: 37926714
 authors: Lagorce D, Lebreton E, Matalonga L, Hongnat O, Chahdil M, Piscia D, Paramonov I, Ellwanger K, Köhler S, Robinson P, Graessner H, Beltran S, Lucano C, Hanauer M, Rath A
 year: 2023
