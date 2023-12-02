@@ -1,5 +1,22 @@
 -- # Publications
 
+-pmid: 38001031
+authors: Groza T, Wu H, Dinger ME, Danis D, Hilton C, Bagley A, Davids JR, Luo L, Lu Z, , {\bf Robinson PN}
+year: 2023
+title: Term-BLAST-Like Alignment Tool for Concept Recognition in Noisy Clinical Texts
+journal: Bioinformatics
+volume: btad716
+pages: Epub ahead of print
+top: false
+
+-pmid: 38000386
+authors: Putman TE, Schaper K, Matentzoglu N, Rubinetti VP, Alquaddoomi FS, Cox C, Caufield JH, Elsarboukh G, Gehrke S, Hegde H, Reese JT, Braun I, Bruskiewich RM, Cappelletti L, Carbon S, Caron AR, Chan LE, Chute CG, Cortes KG, De Souza V, Fontana T, Harris NL, Hartley EL, Hurwitz E, Jacobsen JOB, Krishnamurthy M, Laraway BJ, McLaughlin JA, McMurry JA, Moxon SAT, Mullen KR, O'Neil ST, Shefchek KA, Stefancsik R, Toro S, Vasilevsky NA, Walls RL, Whetzel PL, Osumi-Sutherland D, Smedley D, {\bf Robinson PN}, Mungall CJ, Haendel MA, Munoz-Torres MC
+year: 2023
+title: The Monarch Initiative in 2024: an analytic platform integrating phenotypes, genes and diseases across species
+journal: Nucleic Acids Res
+volume: gkad1082
+pages: Epub ahead of print
+top: false
 
 -pmid: 37982373
 authors: Roberts AM, DiStefano MT, Riggs ER, Josephs KS, Alkuraya FS, Amberger J, Amin M, Berg JS, Cunningham F, Eilbeck K, Firth HV, Foreman J, Hamosh A, Hay E, Leigh S, Martin CL, McDonagh EM, Perrett D, Ramos EM,  {\bf Robinson PN}, Rath A, Sant DW, Stark Z, Whiffin N, Rehm HL, Ware JS
