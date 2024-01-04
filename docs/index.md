@@ -1,10 +1,22 @@
-# Introduction
+# The Robinson Lab
 
-The Robinson Lab has developed a wide range of ontologies and algorithms for exome and genome sequencing, ChIP-seq, immunogenomics, and other genomics applications, Gene Ontology analysis, computational phenotype analysis, as well as various algorithms from the fields of Machine Learning and modeling of biological networks with the tools of linear  algebra and graph theory. software for computational phenotype analysis, translational genomics, ChIP-seq, and whole-exome/whole-genome sequence analysis. 
+Our lab is made up of bioinformaticians, computer scientists, ontologists, curators, and software engineers.
+Our mission is to develop software resources and algorithms to improve human health.
+Our research focuses on the development of ontologies and software for translational genomics.
 
 The Robinson Lab started at the [Charité – Universitätsmedizin Berlin](https://www.charite.de/) and moved to the 
-[Jackson Laboratory (JAX) for Genomic Medicine](https://www.jax.org/) in 2016. The Lab is moving to the [Berlin Institute of Health](https://www.bihealth.org/en/) in 2024 and will be retaining an affiliation with JAX. The Lab's activities will be supported by a [Humboldt Professorship](https://www.humboldt-foundation.de/entdecken/newsroom/dossier-alexander-von-humboldt-professur/peter-nicholas-robinson).
+[Jackson Laboratory (JAX) for Genomic Medicine](https://www.jax.org/) in 2016.
+In January 2024, we moved to the [Berlin Institute of Health](https://www.bihealth.org/en/) (BIH) at Charité in Berlin.
+In the framework of an [Alexander von Humboldt Professorship](https://www.humboldt-foundation.de/entdecken/newsroom/dossier-alexander-von-humboldt-professur/peter-nicholas-robinson),
+[__we are setting up a new research group in Berlin and are hiring__](careers.md).
+Our Lab will be retaining an affiliation with JAX and some group members are working remotely in the US.
 
+<figure markdown>
+![BIH](img/bih.jpg){align="center" width="550"}
+<figcaption>
+Our offices are located on the 5th floor of Rahel Hirsch Center for Translational Medicine of the BIH in Berlin Mitte
+</figcaption>
+</figure>
 
 ## Research
 
@@ -32,7 +44,9 @@ Our group has created the [Human Phenotype Ontology](http:///www.human-phenotype
 
 ### Translational and Genomic Bioinformatics
 
-Our group creates algorithms for translational and genomic research. Topics include diagnostic exome and genome sequencing, analysis of genomic data from RNA-seq, ChIP-seq, and Hi-C, and Machine Learning
+Our group creates algorithms for translational and genomic research. Topics include diagnostic exome and genome sequencing, analysis of genomic data from RNA-seq, ChIP-seq, and Hi-C, and machine learning.
+Although our focus has been
+on rare genetic disease, current projects involve common diseases and cancer.
 
 <figure markdown>
 ![Identity-by-descent filtering of exome sequence data ](img/ibd2.png){ width="400" }
