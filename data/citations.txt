@@ -1,39 +1,59 @@
 -- # Publications
 
+
+-pmid: 38242839
+authors: Duyzend MH, Cacheiro P, Jacobsen JOB, Giordano J, Brand H, Wapner RJ, Talkowski ME, {\bf Robinson PN}, Smedley D
+year: 2024
+title: Improving prenatal diagnosis through standards and aggregation
+journal: Prenat Diagn
+volume: doi: 10.1002/pd.6522
+pages: Epub ahead of print
+top: false
+
+-pmid: 38297371
+authors: Groza T, Caufield H, Gration D, Baynam G, Haendel MA, {\bf Robinson PN}, Mungall CJ, Reese JT
+year: 2024
+title: An evaluation of GPT models for phenotype concept recognition
+journal: BMC Med Inform Decis Mak
+volume: 24
+pages: 30
+top: false
+
+
 -pmid: 38001031
 authors: Groza T, Wu H, Dinger ME, Danis D, Hilton C, Bagley A, Davids JR, Luo L, Lu Z, , {\bf Robinson PN}
 year: 2023
 title: Term-BLAST-Like Alignment Tool for Concept Recognition in Noisy Clinical Texts
 journal: Bioinformatics
-volume: btad716
-pages: Epub ahead of print
+volume: 39
+pages: btad716
 top: false
 
 -pmid: 38000386
 authors: Putman TE, Schaper K, Matentzoglu N, Rubinetti VP, Alquaddoomi FS, Cox C, Caufield JH, Elsarboukh G, Gehrke S, Hegde H, Reese JT, Braun I, Bruskiewich RM, Cappelletti L, Carbon S, Caron AR, Chan LE, Chute CG, Cortes KG, De Souza V, Fontana T, Harris NL, Hartley EL, Hurwitz E, Jacobsen JOB, Krishnamurthy M, Laraway BJ, McLaughlin JA, McMurry JA, Moxon SAT, Mullen KR, O'Neil ST, Shefchek KA, Stefancsik R, Toro S, Vasilevsky NA, Walls RL, Whetzel PL, Osumi-Sutherland D, Smedley D, {\bf Robinson PN}, Mungall CJ, Haendel MA, Munoz-Torres MC
-year: 2023
+year: 2024
 title: The Monarch Initiative in 2024: an analytic platform integrating phenotypes, genes and diseases across species
 journal: Nucleic Acids Res
-volume: gkad1082
-pages: Epub ahead of print
+volume: 52(D1)
+pages: D938-D949
 top: false
 
 -pmid: 37982373
 authors: Roberts AM, DiStefano MT, Riggs ER, Josephs KS, Alkuraya FS, Amberger J, Amin M, Berg JS, Cunningham F, Eilbeck K, Firth HV, Foreman J, Hamosh A, Hay E, Leigh S, Martin CL, McDonagh EM, Perrett D, Ramos EM,  {\bf Robinson PN}, Rath A, Sant DW, Stark Z, Whiffin N, Rehm HL, Ware JS
-year: 2023
+year: 2024
 title: Towards robust clinical genome interpretation: developing a consistent terminology to characterize Mendelian disease-gene relationships - allelic requirement, inheritance modes and disease mechanisms
 journal: Genet Med
-volume: 10.1016/j.gim.2023.101029
-pages: Epub ahead of print
+volume: 26(2)
+pages: 101029
 top: false
 
 -pmid: 37953324
 authors: Gargano MA, Matentzoglu N, Coleman B, Addo-Lartey EB, Anagnostopoulos AV, Anderton J, Avillach P, Bagley AM, Bakštein E, Balhoff JP, Baynam G, Bello SM, Berk M, Bertram H, Bishop S, Blau H, Bodenstein DF, Botas P, Boztug K, Čady J, Callahan TJ, Cameron R, Carbon SJ, Castellanos F, Caufield JH, Chan LE, Chute CG, Cruz-Rojo J, Dahan-Oliel N, Davids JR, de Dieuleveult M, de Souza V, de Vries BBA, de Vries E, DePaulo JR, Derfalvi B, Dhombres F, Diaz-Byrd C, Dingemans AJM, Donadille B, Duyzend M, Elfeky R, Essaid S, Fabrizzi C, Fico G, Firth HV, Freudenberg-Hua Y, Fullerton JM, Gabriel DL, Gilmour K, Giordano J, Goes FS, Moses RG, Green I, Griese M, Groza T, Gu W, Guthrie J, Gyori B, Hamosh A, Hanauer M, Hanušová K, He YO, Hegde H, Helbig I, Holasová K, Hoyt CT, Huang S, Hurwitz E, Jacobsen JOB, Jiang X, Joseph L, Keramatian K, King B, Knoflach K, Koolen DA, Kraus ML, Kroll C, Kusters M, Ladewig MS, Lagorce D, Lai MC, Lapunzina P, Laraway B, Lewis-Smith D, Li X, Lucano C, Majd M, Marazita ML, Martinez-Glez V, McHenry TH, McInnis MG, McMurry JA, Mihulová M, Millett CE, Mitchell PB, Moslerová V, Narutomi K, Nematollahi S, Nevado J, Nierenberg AA, Čajbiková NN, Nurnberger JI Jr, Ogishima S, Olson D, Ortiz A, Pachajoa H, Perez de Nanclares G, Peters A, Putman T, Rapp CK, Rath A, Reese J, Rekerle L, Roberts AM, Roy S, Sanders SJ, Schuetz C, Schulte EC, Schulze TG, Schwarz M, Scott K, Seelow D, Seitz B, Shen Y, Similuk MN, Simon ES, Singh B, Smedley D, Smith CL, Smolinsky JT, Sperry S, Stafford E, Stefancsik R, Steinhaus R, Strawbridge R, Sundaramurthi JC, Talapova P, Tenorio Castano JA, Tesner P, Thomas RH, Thurm A, Turnovec M, van Gijn ME, Vasilevsky NA, Vlčková M, Walden A, Wang K, Wapner R, Ware JS, Wiafe AA, Wiafe SA, Wiggins LD, Williams AE, Wu C, Wyrwoll MJ, Xiong H, Yalin N, Yamamoto Y, Yatham LN, Yocum AK, Young AH, Yüksel Z, Zandi PP, Zankl A, Zarante I, Zvolský M, Toro S, Carmody LC, Harris NL, Munoz-Torres MC, Danis D, Mungall CJ, Köhler S, Haendel MA, {\bf Robinson PN}
-year: 2023
+year: 2024
 title: The Human Phenotype Ontology in 2024: phenotypes around the world
 journal: Nucleic Acids Res
-volume: 10.1093/nar/gkad1005
-pages: Epub ahead of print
+volume: 52(D1)
+pages: D1333-D1346
 top: true
 
 -pmid: 37963467
@@ -41,8 +61,8 @@ authors: Carmody LC, Gargano MA, Toro S, Vasilevsky NA, Adam MP, Blau H, Chan LE
 year: 2023
 title: The Medical Action Ontology: A tool for annotating and analyzing treatments and clinical management of human disease
 journal: Med
-volume: S2666-6340(23)00334-3
-pages: Epub ahead of print
+volume: 4(12)
+pages: 913-927
 top: true
 
 -pmid: 37926714
@@ -56,11 +76,11 @@ top: false
 
 -pmid: 37889991
 authors: Karlebach G, Robinson PN
-year: 2023
+year: 2024
 title: Computing Minimal Boolean Models of Gene Regulatory Networks
 journal: J Comput Biol
-volume: doi: 10.1089/cmb.2023.0122
-pages: Epub ahead of print.
+volume: 31(2)
+pages: 117-127
 top: false
 
 -pmid: 37684057
@@ -1146,6 +1166,15 @@ journal: Nucleic Acids Res
 volume: 45
 pages: D712-D722
 top: true
+
+-pmid: 28475229
+authors: Kalish JM, Biesecker LG, Brioude F, Deardorff MA, Di Cesare-Merlone A, Druley T, Ferrero GB, Lapunzina P, Larizza L, Maas S, Macchiaiolo M, Maher ER, Maitz S, Martinez-Agosto JA, Mussa A, . {\bf Robinson P}, Russo S, Selicorni A, Hennekam RC
+year: 2017
+title: Nomenclature and definition in asymmetric regional body overgrowth
+journal: Am J Med Genet A
+volume: 173
+pages: 1735-1738
+top: false
 
 -pmid: 27924012
 authors: Penzkofer T, Jäger M, Figlerowicz M, Badge R, Mundlos S, Robinson PN, Zemojtel T
