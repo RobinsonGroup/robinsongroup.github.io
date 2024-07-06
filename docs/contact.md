@@ -19,9 +19,9 @@ Peter Robinson
 </figure>
 
 
-## Berlin Institute of Health (from 2024)
+## Berlin Institute of Health
 
-Starting in January, 2024, the Robinson Lab will be located at the Berlin Institute of Health (BIH) in the 
+The Robinson Lab is located at the Berlin Institute of Health (BIH) in the 
 Rahel Hirsch Center for Translational Medicine of the Charité in Berlin Mitte.
 
 
@@ -34,8 +34,9 @@ Rahel Hirsch Center for Translational Medicine of the Charité in Berlin Mitte.
 
 ## The Jackson Laboratory for Genomic Medicine
 
-The Robinson Lab will also be located at the Jackson Laboratory (JAX) in the
-for Genomic Medicine campus in Farmington Connecticut.
+The Robinson Lab is also located at the Jackson Laboratory (JAX) in the
+for Genomic Medicine (JAX-GM) campus in Farmington Connecticut. 
+The primary location of the Robinson lab from 2016-2023 was at JAX-GM and we are delighted to keep the affiliation.
 
 <figure markdown>
 ![JAX](img/jax.jpg){ width="400" }

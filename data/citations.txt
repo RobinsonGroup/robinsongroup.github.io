@@ -1,13 +1,101 @@
 -- # Publications
 
 
+-pmid: 38177435
+authors: Cappelletti L, Fontana T, Casiraghi E, Ravanmehr V, Callahan TJ, Cano C, Joachimiak MP, Mungall CJ,  {\bf Robinson PN},  Reese J, Valentini G
+year: 2023
+title: GRAPE for fast and scalable graph processing and random-walk-based embedding
+journal: Nat Comput Sci
+volume: 3(6)
+pages: 552-568
+top: false
+
+
+-pmid: 38383067
+authors: Caufield JH, Hegde H, Emonet V, Harris NL, Joachimiak MP, Matentzoglu N, Kim H, Moxon S, Reese JT, Haendel MA, {\bf Robinson PN}, Mungall CJ
+year: 2024
+title: Structured Prompt Interrogation and Recursive Extraction of Semantics (SPIRES): a method for populating knowledge bases using zero-shot learning
+journal: Bioinformatics
+volume: 40(3)
+pages: btae104
+top: false
+
+-pmid: 38577542
+authors: Cappelletti L, Rekerle L, Fontana T, Hansen P, Casiraghi E, Ravanmehr V, Mungall CJ, Yang JJ, Spranger L, Karlebach G, Caufield JH, Carmody L, 
+Coleman B, Oprea TI, Reese J, Valentini G, {\bf Robinson PN}
+year: 2024
+title: Node-degree aware edge sampling mitigates inflated classification performance in biomedical random walk-based graph representation learning
+journal: Bioinform Adv
+volume: 4(1)
+pages: vbae036
+top: false
+
+-pmid: 38605048
+authors: Callahan TJ, Tripodi IJ, Stefanski AL, Cappelletti L, Taneja SB, Wyrwa JM, Casiraghi E, Matentzoglu NA, Reese J, Silverstein JC, 
+Hoyt CT, Boyce RD, Malec SA, Unni DR, Joachimiak MP, {\bf Robinson PN}, Mungall CJ, Cavalleri E, Fontana T, Valentini G, Mesiti M, Gillenwater LA, 
+Santangelo B, Vasilevsky NA, Hoehndorf R, Bennett TD, Ryan PB, Hripcsak G, Kahn MG, Bada M, Baumgartner WA Jr, Hunter LE
+year: 2024
+title: An open source knowledge graph ecosystem for the life sciences
+journal: Sci Data
+volume: 11(1)
+pages: 363
+top: false
+
+-pmid: 38629401
+authors: Cacheiro P, Lawson S, Van den Veyver IB, Marengo G, Zocche D, Murray SA, Duyzend M, {\bf Robinson PN}, Smedley D
+year: 2024
+title: Lethal phenotypes in Mendelian disorders
+journal: Genet Med
+volume: 26(7)
+pages: 101141
+top: false
+
+-pmid: 38643701
+authors: Chan LE, Casiraghi E, Reese J, Harmon QE, Schaper K, Hegde H, Valentini G, Schmitt C, Motsinger-Reif A, Hall JE, 
+	Mungall CJ, {\bf Robinson PN},  Haendel MA
+year: 2024
+title: Predicting nutrition and environmental factors associated with female reproductive disorders using a knowledge graph and random forests
+journal: Int J Med Inform
+volume: 187
+pages: 105461
+top: false
+
+
+-pmid: 38951652
+authors: Morgan AT, Coleman B, Vogel AP, McNeill A, {\bf Robinson PN}
+year: 2024
+title: Speech and language classification in the human phenotype ontology
+journal: Eur J Hum Genet
+volume: doi: 10.1038/s41431-024-01635-6
+pages: Epub ahead of print
+top: false
+
+-pmid: 38913850
+authors: Groza T, Gration D, Baynam G, {\bf Robinson PN}
+year: 2024
+title: FastHPOCR: Pragmatic, fast and accurate concept recognition using the Human Phenotype Ontology
+journal: Bioinformatics
+volume: doi: 10.1093/bioinformatics/btae406
+pages: Epub ahead of print
+top: false
+
+-pmid: 38851761
+authors: Coleman B, Casiraghi E, Callahan TJ, Blau H, Chan LE, Laraway B, Clark KB, Re'em Y, Gersing KR, 
+	Wilkins KJ, Harris NL, Valentini G, Haendel MA, Reese JT, {\bf Robinson PN}
+year: 2024
+title: Association of post-COVID phenotypic manifestations with new-onset psychiatric disease
+journal: Transl Psychiatry
+volume: 14(1)
+pages: 246
+top: false
+
 -pmid: 38242839
 authors: Duyzend MH, Cacheiro P, Jacobsen JOB, Giordano J, Brand H, Wapner RJ, Talkowski ME, {\bf Robinson PN}, Smedley D
 year: 2024
 title: Improving prenatal diagnosis through standards and aggregation
 journal: Prenat Diagn
-volume: doi: 10.1002/pd.6522
-pages: Epub ahead of print
+volume: 44(4):
+pages: 454-464
 top: false
 
 -pmid: 38297371
@@ -27,6 +115,15 @@ title: Term-BLAST-Like Alignment Tool for Concept Recognition in Noisy Clinical 
 journal: Bioinformatics
 volume: 39
 pages: btad716
+top: false
+
+-pmid: 38076030
+authors: Valentini G, Malchiodi D, Gliozzo J, Mesiti M, Soto-Gomez M, Cabri A, Reese J, Casiraghi E,, {\bf Robinson PN}
+year: 2023
+title: The promises of large language models for protein design and modeling
+journal: Front Bioinform
+volume: 3
+pages: 1304099
 top: false
 
 -pmid: 38000386
