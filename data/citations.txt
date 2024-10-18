@@ -1,6 +1,78 @@
 -- # Publications
 
 
+
+-pmid: 
+authors: Beckwith MA, Danis D, Bridges Y, Jacobsen JOB, Smedley D, Robinson PN
+year: 2024
+title: Leveraging Clinical Intuition to Improve Accuracy of Phenotype-Driven Prioritization
+journal: Genet Med
+volume: 101292. doi: 10.1016/j.gim.2024.101292. 
+pages: Epub ahead of print.
+top: false
+
+
+-pmid: 39394689
+authors: Danis D, Bamshad MJ, Bridges Y, Caballero-Oteyza A, Cacheiro P, Carmody LC, Chimirri L, Chong JX, Coleman B, Dalgleish R, Freeman PJ, Graefe ASL, Groza T, Hansen P, Jacobsen JOB, Klocperk A, Kusters M, Ladewig MS, Marcello AJ, Mattina T, Mungall CJ, Munoz-Torres MC, Reese JT, Rehburg F, Reis BCS, Schuetz C, Smedley D, Strauss T, Chandrabose Sundaramurthi J, Thun S, Wissink K, Wagstaff JF, Zocche D, Haendel MA, Robinson PN. 
+year: 2024
+title: A corpus of GA4GH phenopackets: case-level phenotyping for genomic diagnostics and discovery
+journal: HGG Adv.
+volume: 100371. doi: 10.1016/j.xhgg.2024.100371. 
+pages: Epub ahead of print
+top: false
+
+
+
+-pmid: 39334316
+authors: van Karnebeek CDM, O'Donnell-Luria A, Baynam G, Baudot A, Groza T, Jans JJM, Lassmann T, Letinturier MCV, Montgomery SB, Robinson PN, Sansen S, Mehrian-Shai R, Steward C, Kosaki K, Durao P, Sadikovic B. 
+year: 2024
+title: Leaving no patient behind! Expert recommendation in the use of innovative technologies for diagnosing rare diseases. 
+journal: Orphanet J Rare Dis
+volume: 19(1)
+pages: 357
+top: false
+
+
+
+-pmid:
+authors: Matentzoglu N, Bello SM, Stefancsik R, Alghamdi SM, Anagnostopoulos AV, Balhoff JP, Balk MA, Bradford YM, Bridges Y, Callahan TJ, Caufield H, Cuzick A, Carmody LC, Caron AR, de Souza V, Engel SR, Fey P, Fisher M, Gehrke S, Grove C, Hansen P, Harris NL, Harris MA, Harris L, Ibrahim A, Jacobsen JOB, Köhler S, McMurry JA, Munoz-Fuentes V, Munoz-Torres MC, Parkinson H, Pendlington ZM, Pilgrim C, Robb SM, Robinson PN, Seager J, Segerdell E, Smedley D, Sollis E, Toro S, Vasilevsky N, Wood V, Haendel MA, Mungall CJ, McLaughlin JA, Osumi-Sutherland D
+year: 2024
+title: The Unified Phenotype Ontology (uPheno): A framework for cross-species integrative phenomics. 
+journal: bioRxiv [Preprint]
+volume: 2024.09.18.613276.
+pages: .
+top: false
+
+
+-pmid: 39174566
+authors: Cavalleri E, Cabri A, Soto-Gomez M, Bonfitto S, Perlasca P, Gliozzo J, Callahan TJ, Reese J, Robinson PN, Casiraghi E, Valentini G, Mesiti M
+year: 2024
+title: An ontology-based knowledge graph for representing interactions involving RNA molecules. 
+journal: Sci Data
+volume: 11(1)
+pages: 906
+top: false
+
+
+-pmid: 39082680
+authors: White BS, Woo XY, Koc S, Sheridan T, Neuhauser SB, Wang S, Evrard YA, Chen L, Foroughi Pour A, Landua JD, Mashl RJ, Davies SR, Fang B, Raso MG, Evans KW, Bailey MH, Chen Y, Xiao M, Rubinstein JC, Sanderson BJ, Lloyd MW, Domanskyi S, Dobrolecki LE, Fujita M, Fujimoto J, Xiao G, Fields RC, Mudd JL, Xu X, Hollingshead MG, Jiwani S, Acevedo S; PDXNet Consortium; Davis-Dusenbery BN, Robinson PN, Moscow JA, Doroshow JH, Mitsiades N, Kaochar S, Pan CX, Carvajal-Carmona LG, Welm AL, Welm BE, Govindan R, Li S, Davies MA, Roth JA, Meric-Bernstam F, Xie Y, Herlyn M, Ding L, Lewis MT, Bult CJ, Dean DA 2nd, Chuang JH. 
+year: 2024
+title: A Pan-Cancer Patient-Derived Xenograft Histology Image Repository with Genomic and Pathologic Annotations Enables Deep Learning Analysis
+journal: Cancer Res
+volume: 84(13)
+pages: 2060-2072
+top: false
+
+
+-pmid: 39261914
+authors: Wang CM, Whiting AH, Rath A, Anido R, Ardigò D, Baynam G, Dawkins H, Hamosh A, Le Cam Y, Malherbe H, Molster CM, Monaco L, Padilla CD, Pariser AR, Robinson PN, Rodwell C, Schaefer F, Weber S, Macchia F
+year: 2024
+title: Operational description of rare diseases: a reference to improve the recognition and visibility of rare diseases. 
+journal: Orphanet J Rare Dis
+volume: 19(1)
+pages: 334
+top: false
+
 -pmid: 38177435
 authors: Cappelletti L, Fontana T, Casiraghi E, Ravanmehr V, Callahan TJ, Cano C, Joachimiak MP, Mungall CJ,  {\bf Robinson PN},  Reese J, Valentini G
 year: 2023
@@ -75,8 +147,8 @@ authors: Groza T, Gration D, Baynam G, {\bf Robinson PN}
 year: 2024
 title: FastHPOCR: Pragmatic, fast and accurate concept recognition using the Human Phenotype Ontology
 journal: Bioinformatics
-volume: doi: 10.1093/bioinformatics/btae406
-pages: Epub ahead of print
+volume: 40(7)
+pages: btae406
 top: false
 
 -pmid: 38851761
