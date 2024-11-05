@@ -1,8 +1,16 @@
 -- # Publications
 
+-pmid: 39496626
+authors: Karlebach G, Steinhaus R, Danis D, Devoucoux M, Anczuków O, Sheynkman G, Seelow D, Robinson PN. 
+year: 2024
+title: Alternative splicing is coupled to gene expression in a subset of variably expressed genes. 
+journal:NPJ Genom Med 
+volume: 9(1)
+pages:54
+top: false
 
 
--pmid: 
+-pmid: 39396132
 authors: Beckwith MA, Danis D, Bridges Y, Jacobsen JOB, Smedley D, Robinson PN
 year: 2024
 title: Leveraging Clinical Intuition to Improve Accuracy of Phenotype-Driven Prioritization
