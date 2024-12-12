@@ -1,5 +1,22 @@
 -- # Publications
 
+-pmid: 39660256
+authors: Karlebach G, Hansen P, Köhler K, Robinson PN. 
+year: 2024
+title: IsopretGO-analysing and visualizing the functional consequences of differential splicing. 
+journal:NAR Genom Bioinform
+volume: 6(4)
+pages:lqae165
+top: false
+
+- pmid:39660253
+authors: Hansen P, Blau H, Hecht J, Karlebach G, Krannich A, Steinhaus R, Truss M, Robinson PN. 
+title: Using paired-end read orientations to assess technical biases in capture Hi-C. 
+journal: NAR Genom Bioinform
+volume: 6(4)
+pages:lqae156
+top: false
+
 -pmid: 39496626
 authors: Karlebach G, Steinhaus R, Danis D, Devoucoux M, Anczuków O, Sheynkman G, Seelow D, Robinson PN. 
 year: 2024

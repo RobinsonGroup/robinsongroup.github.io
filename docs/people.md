@@ -49,41 +49,6 @@ developing software for incorporating clinical intuition in phenotype-driven
 prioritization of rare diseases.
 
 
-### Hannah Blau, Ph.D.
-
-<figure markdown>
-![Hannah Blau](img/people/hannah-blau.jpg){ width="200" }
-<figcaption>Hannah Blau
-</figcaption>
-</figure>
-
-Hannah Blau joined the Robinson Lab as Research
-Software Engineer in May, 2017. She completed her Ph.D. in Computer
-Science at the University of Massachusetts Amherst. She earned the
-B.A. in French from Yale University and the M.S.E. in Computer and
-Information Science from the University of Pennsylvania. Hannah gained
-international experience at the Artificial Intelligence Center of
-the Bull Corporation (Louveciennes, France), and in the Machine
-Learning Group of the Daimler-Benz Research Centre (Ulm, Germany). She
-worked as a Research Scientist in the Automated Reasoning Group of
-the Honeywell Technology Center (Minneapolis, Minnesota). While in
-grad school she served as data scientist in the lab of Professor
-M. Darby Dyar, Chair of Astronomy at Mount Holyoke College and
-member of the science team for the Mars Science Laboratory
-(Curiosity rover).
-            
-
-
-### Leigh Carmody, Ph.D.
-
-<figure markdown>
-![Leigh Carmody](img/people/leigh-carmody.jpg){ width="200" }
-<figcaption>Leigh Carmody
-</figcaption>
-</figure>
-
-Leigh Carmody, Ph.D., obtained her doctorate of philosophy in Molecular Physiology &#38; Biophysics from Vanderbilt University in Spring 2007 where she studied targeting of signaling molecules to F-actin cytoskeleton/dendritic spines. Dr. Carmody continued her studies as a postdoctoral fellow at Massachusetts Institute of Technology where she investigated the role of Rac1 in dendritic spine motility. Late 2008, she joined the Broad Institute of MIT &#38; Harvard as a Scientist where she aided in early-stage drug discovery efforts to identify chemical leads directed at cancer targets and neglected parasitic infections.  Dr. Carmody joined Jackson Laboratory in 2015 as a Project Manager, and is currently a Scientific Curator annotating phenotyping and genomics data for the human phenotype ontology (HPO) database.
-
 ### Ben Coleman
 <figure markdown>
 ![Leigh Carmody](img/people/ben-coleman.png){ width="200" }
@@ -163,19 +128,16 @@ and challenges in biomedical knowledge graph representation.
 More recently, he has been working on ontologizing experimental mouse data from the Mouse Phenome Database at JAX and
 representing it as Phenopakets.
 
-### Guy Karlebach, Ph.D.
 
 
+### Kristin Köhler
 <figure markdown>
-![Guy Karlebach](img/people/guy-karlebach.jpg){ width="200" }
-<figcaption>Guy Karlebach
+![Kristin Köhler](img/people/KristinKoehler.jpg){ width="200" }
+<figcaption>Kristin Köhler
 </figcaption>
 </figure>
 
-Guy earned his B.Sc. in Computer Science from the Technion, Israel Institute of Technology, his Masters in Computer Science from Ben Gurion University, and his Ph.D. in Computer Science from Tel-Aviv University. During his Masters he worked on computational protein structure prediction, developing methods for refining approximate 3D structures. During his Ph.D. he developed algorithms for modeling gene regulatory networks using DNA binding and gene expression data.  He has acquired research experience in academia at the Max Planck Institute and in industry working for IBM’s medical informatics group.  He is now a Postdoctoral Associate in the Robinson lab developing methods that integrate high-throughput genomic data for a better quantification of variation in gene expression under different conditions.  The ultimate goal is to use different technologies in a complementary way that compensates for each individual technology’s shortcomings.</p>
-
-
-
+Kristin earned her B.Sc. and M.Sc. in Bioinformatics from Free Universität Berlin. After completing her bachelor’s studies, she joined the Kircher lab at the Berlin Institute of Health (BIH), where she developed methods to analyze cfDNA from liquid biopsies and built predictive models for cancer diagnosis. During her master’s studies, she joined the Conrad lab at BIH, where she developed data processing pipelines for single-cell transcriptomics using nanopore technologies. This work enabled detailed analysis of transcript expression and splicing at the single-cell level. In May 2024, Kristin began her PhD at BIH, working jointly in the groups of Peter N. Robinson and Christian Conrad. Bridging the gap between wet and dry lab research, she focuses on developing software to analyze large-scale transcriptomic data, leveraging cutting-edge single-cell and spatial technologies.
 
 ### Enock Niyonkuru
 
@@ -197,29 +159,32 @@ various other bioinformatics initiatives.
 
 
 ### Alumni
-| Almunus/a                                            | Name                                                                                                                                          |
-|:-----------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](img/people/aaron-zhang.jpg){ align=left width="60" }    | Xingmin “Aaron” Zhang, Ph.D.                                                                                                                  |
-| ![](img/people/vida-ravanmehr.jpg){ align=left width="60" } | Vida Ravanmehr, Ph.D                                                                                                                          |
-| :material-head-outline:                              | Sebastian Köhler, Dr. rer. nat. (<a href="http://drseb.github.io" target="_blank">Homepage</a>)                                               |
-| :material-head-outline:                              | Peter Krawitz, PhD. (<a href="https://www.igsb.uni-bonn.de/en">Uni Bonn</a>)                                                                  |
-| :material-head-outline:                              | Marten Jäger, PhD (<a href="https://genomics.charite.de/metas/person/person/address_detail/dr_marten_jaeger/">BIH Core Facility Genomik </a>) |
-| :material-head-outline:                              | Max Schubach, PhD (<a href="https://kircherlab.github.io/people/max.html">Computational Genome Biology, BIH</a>)                              |
-| :material-head-outline:                              | Leon Kuchenbecker, PhD (<a href="https://www.ghga.de/about-us/team-members/kuchenbecker-leon">GHGA</a>)                                       |
-| :material-head-outline:                              | Robin Steinhaus, MSc (BIH)                                                                                                                    |
-| :material-head-outline:                              | Layal Abo-Kayal. PhD                                                                                                                          |
-| :material-head-outline:                              | Na Zhu. PhD                                                                                                                                   |
-| :material-head-outline:                              | Christian Rödelsperger.PhD                                                                                                                    |
-| :material-head-outline:                              | Martin-Atta Mensah, Dr. med.                                                                                                                  |
-| :material-head-outline:                              | Patrick Booms, Ph.D.                                                                                                                          |
-| :material-head-outline:                              | Marcel H Schulz, Ph.D. (<a href="https://schulzlab.github.io/MS.html">Uni Frankfurt</a>)                                                      |
-| :material-head-outline:                              | Miriam Sandya Bauer, Dr. med.                                                                                                                 |
-| :material-head-outline:                              | Begoña Muñoz-Garcia, PhD                                                                                                                      |
-| :material-head-outline:                              | Dmitri Parkhomchuk, PhD                                                                                                                       |
-| :material-head-outline:                              | Dr. Sebastian Bauer, PhD. (<a href="https://www.htw-berlin.de/hochschule/personen/person/?eid=8385">HTW Berlin</a>)                           |
-| :material-head-outline:                              | Oliver Stolpe (BIH)                                                                                                                           |
-| :material-head-outline:                              | Manuel Holgrewe, Ph.D. (<a href="https://www.cubi.bihealth.org/team/manuel-holtgrewe/">CUBI/BIH</a>)                                          |
-| :material-head-outline:                              | Verena Heinrich, Ph.D. (<a href="https://pure.mpg.de/cone/persons/resource/persons179829">MPG</a>)                                            |
+| Almunus/a                                                  | Name                                                                                                                                          |
+|:-----------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](img/people/head-icon.png){ align=left width="30" }     | Layal Abo-Kayal. PhD                                                                                                                          |
+|  ![](img/people/head-icon.png){ align=left width="30" }    | Miriam Sandya Bauer, Dr. med.                                                                                                                 |
+| ![](img/people/head-icon.png){ align=left width="30" }     | Dr. Sebastian Bauer, PhD. (<a href="https://www.htw-berlin.de/hochschule/personen/person/?eid=8385">HTW Berlin</a>)                           |
+| ![](img/people/hannah-blau.jpg){ align=left width="60" }   | Hannah Blau, Ph.D                                                                                                                             |
+|  ![](img/people/head-icon.png){ align=left width="30" }    | Patrick Booms, Ph.D.                                                                                                                          |
+|  ![](img/people/leigh-carmody.jpg){ align=left width="30" }| Leigh Carmody, Ph.D.                                                                                                                          |
+|  ![](img/people/head-icon.png){ align=left width="30" }    | Manuel Holgrewe, Ph.D. (<a href="https://www.cubi.bihealth.org/team/manuel-holtgrewe/">CUBI/BIH</a>)                                          |
+|  ![](img/people/head-icon.png){ align=left width="30" }    | Verena Heinrich, Ph.D. (<a href="https://pure.mpg.de/cone/persons/resource/persons179829">MPG</a>)                                            |
+|  ![](img/people/head-icon.png){ align=left width="30" }    | Marten Jäger, PhD (<a href="https://genomics.charite.de/metas/person/person/address_detail/dr_marten_jaeger/">BIH Core Facility Genomik </a>) |
+| ![](img/people/guy-karlebach.jpg){ align=left width="30" } | Guy Karlebach, Ph.D.                                                                                                                          |
+| ![](img/people/head-icon.png){ align=left width="30" }     | Sebastian Köhler, Dr. rer. nat. (<a href="http://drseb.github.io" target="_blank">Homepage</a>)                                               |
+|  ![](img/people/head-icon.png){ align=left width="30" }    | Peter Krawitz, PhD. (<a href="https://www.igsb.uni-bonn.de/en">Uni Bonn</a>)                                                                  |
+|  ![](img/people/head-icon.png){ align=left width="30" }    | Leon Kuchenbecker, PhD (<a href="https://www.ghga.de/about-us/team-members/kuchenbecker-leon">GHGA</a>)                                       |
+|  ![](img/people/head-icon.png){ align=left width="30" }    | Martin-Atta Mensah, Dr. med.                                                                                                                  |
+| ![](img/people/head-icon.png){ align=left width="30" }     | Begoña Muñoz-Garcia, PhD                                                                                                                      |
+|  ![](img/people/head-icon.png){ align=left width="30" }    | Dmitri Parkhomchuk, PhD                                                                                                                       |
+| ![](img/people/vida-ravanmehr.jpg){ align=left width="60" }| Vida Ravanmehr, Ph.D                                                                                                                          |
+|  ![](img/people/head-icon.png){ align=left width="30" }    | Christian Rödelsperger.PhD                                                                                                                    |
+|  ![](img/people/head-icon.png){ align=left width="30" }    | Max Schubach, PhD (<a href="https://kircherlab.github.io/people/max.html">Computational Genome Biology, BIH</a>)                              |
+|  ![](img/people/head-icon.png){ align=left width="30" }    | Marcel H Schulz, Ph.D. (<a href="https://schulzlab.github.io/MS.html">Uni Frankfurt</a>)                                                      |
+|  ![](img/people/head-icon.png){ align=left width="30" }    | Robin Steinhaus, MSc (BIH)                                                                                                                    |
+|  ![](img/people/head-icon.png){ align=left width="30" }    | Oliver Stolpe (BIH)                                                                                                                           |
+| ![](img/people/aaron-zhang.jpg){ align=left width="60" }   | Xingmin “Aaron” Zhang, Ph.D.                                                                                                                  |
+|  ![](img/people/head-icon.png){ align=left width="30" }    | Na Zhu. PhD                                                                                                                                   |
 
             
 
