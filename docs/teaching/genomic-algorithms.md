@@ -33,5 +33,5 @@ A German language course on Genetics was taught in the Bachelor's program (see b
 
 ### Additional Material
 
-* [Practical exercise: G/C content and Read Depth in WGS CNV analysis](assets/teaching/Genomics/CNV-Exercise.pdf).
+* [Practical exercise: G/C content and Read Depth in WGS CNV analysis](../assets/teaching/Genomics/CNV-exercise.pdf).
 
