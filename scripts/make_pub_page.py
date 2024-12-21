@@ -128,10 +128,7 @@ class Publication:
         return mdown
 
 
-
-
-
-
+# This is the file we use to keep track of publications
 publication_file = "../data/citations.txt"
 
 def get_item(line):
@@ -142,8 +139,8 @@ def get_item(line):
     return item
 
 
-
 pub_d = defaultdict(list)
+previously_seen_pmids = set()
 
 inEntry = False
 with open(publication_file, 'r') as fh:
@@ -152,6 +149,11 @@ with open(publication_file, 'r') as fh:
         if line.startswith("-pmid:"):
             pmid, authors, year, title, journal, volume, pages, top = None, None, None, None, None, None, None, None
             pmid = get_item(line)
+            if pmid in previously_seen_pmids and not "n/a" in pmid:
+                next_line = next(fh)
+                raise ValueError(f"Duplication: '{line}': {next_line}")
+            else:
+                previously_seen_pmids.add(pmid)
             inEntry = True
         elif line.startswith("authors:"):
             authors = get_item(line)
@@ -190,7 +192,7 @@ def write_top_publications_table(pub_d, years, fh):
                 top_pubs.append(pub)
     print(f"We got {len(top_pubs)} top publications")
     fh.write("## Highlights\n\n")
-    fh.write("| Author | Year   | Title  | Journal | PMID |\n")
+    fh.write("| Author | Year   | Title  | Journal | PMID   |\n")
     fh.write("|:------ |:------ |:------ |:------- |:------ |\n")
     for pub in top_pubs:
         fa = "**" + pub.get_first_author() + "**"

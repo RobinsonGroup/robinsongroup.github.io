@@ -1,5 +1,26 @@
 -- # Publications
 
+
+-pmid: 39695184
+authors: Vestito L, Jacobsen JOB, Walker S, Cipriani V, Harris NL, Haendel MA, Mungall CJ, Robinson P, Smedley D. 
+year: 2024
+title: Efficient reinterpretation of rare disease cases using Exomiser
+journal: NPJ Genom Med. 2024 Dec 18;
+volume: 9(1)
+pages:65
+top: false
+
+
+-pmid: 39673960
+authors: Gliozzo J, Soto-Gomez M, Guarino V, Bonometti A, Cabri A, Cavalleri E, Reese J, Robinson PN, Mesiti M, Valentini G, Casiraghi E. 
+year: 2024
+title: Intrinsic-dimension analysis for guiding dimensionality reduction and data fusion in multi-omics data processing. 
+journal: Artif Intell Med 
+volume: 160
+pages:103049
+top: false
+
+
 -pmid: 39660256
 authors: Karlebach G, Hansen P, Köhler K, Robinson PN. 
 year: 2024
@@ -9,7 +30,7 @@ volume: 6(4)
 pages:lqae165
 top: false
 
-- pmid:39660253
+- pmid: 39660253
 authors: Hansen P, Blau H, Hecht J, Karlebach G, Krannich A, Steinhaus R, Truss M, Robinson PN. 
 title: Using paired-end read orientations to assess technical biases in capture Hi-C. 
 journal: NAR Genom Bioinform
@@ -328,15 +349,6 @@ volume: 6
 pages: 89
 top: false
 
--pmid: 37684057
-authors: Sundaramurthi JC, Bagley AM, Blau H, Carmody L, Crandall A, Danis D, Gargano M, Gustafson AG, Raney EM, Shingle M, Davids JR, Robinson PN
-year: 2023
-title: De novo TRPM3 missense variant associated with neurodevelopmental delay and manifestations of cerebral palsy
-journal: Cold Spring Harb Mol Case Stud
-volume:
-pages: Epub ahead of print
-top: false
-
 -pmid: 37389415
 authors: Caufield JH, Putman T, Schaper K, Unni DR, Hegde H, Callahan TJ, Cappelletti L, Moxon SAT, Ravanmehr V, Carbon S, Chan LE, Cortes K, Shefchek KA, Elsarboukh G, Balhoff J, Fontana T, Matentzoglu N, Bruskiewich RM, Thessen AE, Harris NL, Munoz-Torres MC, Haendel MA, Robinson PN, Joachimiak MP, Mungall CJ, Reese JT
 year: 2023
@@ -346,16 +358,8 @@ volume: 39
 pages: btad418
 top: false
 
--pmid: 37076585
-authors: Stefancsik R, Balhoff JP, Balk MA, Ball RL, Bello SM, Caron AR, Chesler EJ, de Souza V, Gehrke S, Haendel M, Harris LW, Harris NL, Ibrahim A, Koehler S, Matentzoglu N, McMurry JA, Mungall CJ, Munoz-Torres MC, Putman T, Robinson P, Smedley D, Sollis E, Thessen AE, Vasilevsky N, Walton DO, Osumi-Sutherland D
-year: 2023
-title: The Ontology of Biological Attributes (OBA)-computational traits for the life sciences
-journal:  Mamm Genome
-volume: Epub ahead of print
-pages: doi: 10.1007/s00335-023-09992-1
-top: false
 
--pmid:
+-pmid: https://dl.acm.org/doi/10.1007/978-3-031-34960-7_26
 authors: Cappelletti L, Taverni, S, Fontana T, Joachimiak MP, Reese J,   Robinson N, Casiraghi E,  Valentini G
 year: 2023
 title: Degree-Normalization Improves Random-Walk-Based Embedding Accuracy in PPI Graphs
@@ -452,7 +456,7 @@ volume: 194
 pages: 110157
 top: false
 
--pmid:
+-pmid: 35931051
 authors: Tummala H, Walne A, Buccafusca R,Alnajar J, Szabo A, Robinson P, McConkie-Rosell A, Wilson M,
   Crowley A, Kinsler V, Ewins AM,Madapura PM, Patel M, Pontikos N, Codd V,Vulliamy T, Dokal I
 year: 2022
@@ -462,7 +466,7 @@ volume: 109
 pages: 1472-1483
 top: false
 
--pmid:
+-pmid: 35872606
 authors: Dhombres F, Morgan P,  Chaudhari BP, Filges I, Sparks TN, Lapunzina P,  Roscioli T, Agarwal U, Aggarwal S, Beneteau C, Cacheiro P, Carmody LC, Collardeau-Frachon S, Dempsey EA, Dufke A, Duyzend MH, El Ghosh M, Giordano JL, Glad R, Grinfelde I, Iliescu DG, Ladewig MS, Munoz-Torres MC, Pollazzon M, Radio FC,  Rodo C,  Gouveia Silva R, Smedley D, Sundaramurthi JC, Toro S, Valenzuela I, Vasilevsky NA, Wapner RJ, Zemet R, Haendel MA, Robinson PN
 year: 2022
 title: Prenatal phenotyping: a community effort to enhance the Human Phenotype Ontology
@@ -480,7 +484,7 @@ volume: 4
 pages: 2200016
 top: false
 
--pmid:
+-pmid: 36149471
 authors: Robinson PN, Graessner H
 year: 2022
 title: Datenstandards für Seltene Erkrankungen
@@ -489,9 +493,8 @@ volume: 65(11)
 pages: 1126-1132
 top: false
 
--pmid:
-authors: Petrini A, Notaro M, Gliozzo J, Castrignan{\`o} T,
-  Robinson PN, Casiraghi E, Valentini G
+-pmid: https://air.unimi.it/handle/2434/948209
+authors: Petrini A, Notaro M, Gliozzo J, Castrignan{\`o} T, Robinson PN, Casiraghi E, Valentini G
 year: 2022
 title: ParSMURF-NG: A Machine Learning High Performance Computing System for the Analysis of Imbalanced Big Omics Data
 journal: Artificial Intelligence Applications and Innovations. AIAI 2022 IFIP WG 12.5 International Workshops
@@ -581,9 +584,7 @@ pages: 817-820
 top: true
 
 -pmid:  35570298
-authors: Reese JT, Coleman B, Chan L, Blau H, Callahan TJ, Cappelletti L, Fontana T,
-    Bradwell KR, Harris NL, Casiraghi E, Valentini G, Karlebach G, Deer R, McMurry JA, Haendel MA,
-    Chute CG, Pfaff E, Moffitt R, Spratt H, Singh J, Mungall CJ, Williams AE, Robinson PN,
+authors: Reese JT, Coleman B, Chan L, Blau H, Callahan TJ, Cappelletti L, Fontana T, Bradwell KR, Harris NL, Casiraghi E, Valentini G, Karlebach G, Deer R, McMurry JA, Haendel MA, Chute CG, Pfaff E, Moffitt R, Spratt H, Singh J, Mungall CJ, Williams AE, Robinson PN,
 year: 2022
 title: NSAID use and clinical outcomes in COVID-19 patients: A 38-center retrospective cohort study
 journal: Virol J
@@ -592,8 +593,7 @@ pages: 84
 top: false
 
 -pmid: 35484572
-authors: Danis D, Jacobsen JOB, Balachandran P, Zhu Q, Yilmaz F, Reese J, Haimel M, Lyon GJ, Helbig I, Mungall CJ, Beck C, Lee C,
-    Smedley D, Robinson PN,
+authors: Danis D, Jacobsen JOB, Balachandran P, Zhu Q, Yilmaz F, Reese J, Haimel M, Lyon GJ, Helbig I, Mungall CJ, Beck C, Lee C, Smedley D, Robinson PN,
 year: 2022
 title: SvAnna: efficient and accurate pathogenicity prediction for coding and regulatory structural variants in long-read genome sequencing
 journal: Genome Med
@@ -744,14 +744,6 @@ volume: Online ahead of print.
 pages: S0091-6749(21)00732-6
 top: false
 
--pmid: 34117224
-authors: Dahlet T, Truss M, Frede U, Al Adhami H, Bardet AF, Dumas M, Vallet J, Chicher J, Hammann P, Kottnik S, Hansen P, Luz U, Alvarez G, Auclair G, Hecht J, Robinson PN, Hagemeier C, Weber M
-year: 2021
-title: E2F6 initiates stable epigenetic silencing of germline genes during embryonic development
-journal: Nat Commun
-volume: 12
-pages: 3582
-top: false
 
 -pmid: 33949685
 authors: Lewis-Smith D, Galer PD, Balagura G, Kearney H, Ganesan S, Cosico M, O'Brien M, Vaidiswaran P, Krause R, Ellis CA, Thomas RH,  Robinson PN, Helbig I
@@ -1206,15 +1198,6 @@ volume: 1031
 pages: 55-94
 top: false
 
--pmid: 29193559
-authors: Kernohan KD, Hartley T, Alirezaie N; Care4Rare Canada Consortium, Robinson PN, Dyment DA, Boycott KM
-year: 2018
-title: Evaluation of exome filtering techniques for the analysis of clinically relevant genes
-journal: Hum Mutat
-volume: 39
-pages: 197-201
-top: false
-
 -pmid: 29025394
 authors: Notaro M, Schubach M, Robinson PN, Valentini G
 year: 2017
@@ -1399,19 +1382,6 @@ volume: 17
 pages: 873
 top: false
 
--pmid: 29310717
-authors: Knaus A, Pantel JT, Pendziwiat M, Hajjir N, Zhao M, Hsieh TC, Schubach M,
-	Gurovich Y, Fleischer N, Jäger M, Köhler S, Muhle H, Korff C, Møller RS, Bayat A,
-	Calvas P, Chassaing N, Warren H, Skinner S, Louie R, Evers C, Bohn M, Christen
-	HJ, van den Born M, Obersztyn E, Charzewska A, Endziniene M, Kortüm F, Brown N,
-	Robinson PN, Schelhaas HJ, Weber Y, Helbig I, Mundlos S, Horn D, Krawitz PM.
-year: 2018
-title: Characterization of glycosylphosphatidylinositol biosynthesis defects by clinical features, flow cytometry, and automated image analysis
-journal: Genome Med
-volume: 10
-pages: 3
-top: false
-
 -pmid: 28103242
 authors: Jerkovic I, Ibrahim DM, Andrey G, Haas S, Hansen P, Janetzki C, González, Navarrete I, Robinson PN, Hecht J, Mundlos S
 year: 2017
@@ -1500,15 +1470,6 @@ title: Analysis of Strengths, Weaknesses, Opportunities, and Threats as a Tool f
 journal: Aorta (Stamford)
 volume: 3
 pages: 98-107
-top: false
-
--pmid: 28249667
-authors: Girdauskas E, Robinson PN, von Kodolitsch Y
-year: 2017
-title: Interpreting Phenotypic Features of Bicuspid Aortic Valve Disease: From Simplification to Complexity to Simplicity?
-journal: Am J Med
-volume: 130(7)
-pages: e315-e31
 top: false
 
 -pmid: 27604469
@@ -1935,7 +1896,7 @@ volume: 164A
 pages: 3170-5
 top: false
 
--pmid:     25280750
+-pmid: 25280750
 authors: Köhler S, Schoeneberg U, Czeschik JC, Doelken SC, Hehir-Kwa JY, Ibn-Salem J, Mungall CJ, Smedley D, Haendel MA, Robinson PN
 year: 2014
 title: Clinical interpretation of CNVs with cross-species phenotype data
@@ -1953,7 +1914,7 @@ volume: 6
 pages: 78
 top: false
 
--pmid:
+-pmid: 25315429
 authors: Ibn-Salem J, Köhler S, Love MI, Chung HR, Huang N, Hurles ME, Haendel M,
 	  Washington NL, Smedley D, Mungall CJ, Lewis SE, Ott CE, Bauer S, Schofield PN, Mundlos S,
 	  Spielmann M, Robinson PN
@@ -2526,7 +2487,7 @@ top: false
 -pmid: n/a
 authors: Robinson PN, Arslan-Kirchner M, Gehle P, Schmidtke J, von Kodolitsch Y*
 year: 2011
-title: Das Marfan-Syndrom und verwandte monogene  Krankheiten der Aorta
+title: Das Marfan-Syndrom und verwandte monogene Krankheiten der Aorta
 journal: medizinische genetik
 volume: 23
 pages: 407-420
@@ -2583,7 +2544,7 @@ volume: 164
 pages: 301-305
 top: false
 
--pmid: n/a
+-pmid: 21647416
 authors: Guo G,  Gehle P,  Doelken S,  Martin-Ventura JL,  von Kodolitsch Y, Hetzer R, Robinson PN
 year: 2011
 title: Induction of Macrophage Chemotaxis by Aortic Extracts from Patients with Marfan Syndrome Is Related to Elastin Binding Protein
@@ -2836,7 +2797,7 @@ volume: 39
 pages: 17-32
 top: false
 
--pmid: n/a
+-pmid: 20172960
 authors:  Bauer S, Gagneur J, Robinson PN
 year: 2010
 title: GOing Bayesian: model-based gene set analysis of genome-scale data
@@ -3027,19 +2988,6 @@ volume: 146A
 pages: 3157-3166
 top: false
 
--pmid: 18310266
-authors: Faivre L, Collod-Beroud G, Child A, Callewaert B, Loeys BL, Binquet C, Gautier
-            E, Arbustini E, Mayer K, Arslan-Kirchner M, Stheneur C, Kiotsekoglou A, Comeglio
-            P, Marziliano N, Halliday D, Beroud C, Bonithon-Kopp C, Claustres M, Plauchu H,
-            Robinson PN, Adès L, De Backer J, Coucke P, Francke U, De Paepe A, Boileau C,
-            Jondeau G
-year: 2008
-title: Contribution of molecular analyses in diagnosing Marfan syndrome and type I fibrillinopathies: an international study of 1009 probands
-journal: J Med Genet
-volume: 45
-pages: 384-390
-top: false
-
 -pmid: 18079676
 authors:  Vanita V, Singh JR, Singh D, Varon R, Robinson PN, Sperling K
 year: 2007
@@ -3192,7 +3140,7 @@ volume: 114
 pages: 1855-1862
 top: true
 
--pmid: n/a
+-pmid: 16469097
 authors: Gille C, Robinson PN
 year: 2006
 title: HotSwap for Bioinformatics: A STRAP Tutorial
@@ -3201,7 +3149,7 @@ volume: 7
 pages: 64
 top: false
 
--pmid: 16442122
+-pmid: 16796554
 authors: Beattie BJ, Robinson PN
 year: 2006
 title: Binary State Pattern Clustering: A Digital Paradigm for Class and Biomarker Discovery
