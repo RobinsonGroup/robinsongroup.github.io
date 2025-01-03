@@ -139,6 +139,17 @@ representing it as Phenopakets.
 
 Kristin earned her B.Sc. and M.Sc. in Bioinformatics from Free Universität Berlin. After completing her bachelor’s studies, she joined the Kircher lab at the Berlin Institute of Health (BIH), where she developed methods to analyze cfDNA from liquid biopsies and built predictive models for cancer diagnosis. During her master’s studies, she joined the Conrad lab at BIH, where she developed data processing pipelines for single-cell transcriptomics using nanopore technologies. This work enabled detailed analysis of transcript expression and splicing at the single-cell level. In May 2024, Kristin began her PhD at BIH, working jointly in the groups of Peter N. Robinson and Christian Conrad. Bridging the gap between wet and dry lab research, she focuses on developing software to analyze large-scale transcriptomic data, leveraging cutting-edge single-cell and spatial technologies.
 
+
+### Leonardo Chimirri, Ph.D.
+<figure markdown>
+![Leonardo Chimirri](img/people/Chimirri_Leonardo_8x10.jpg){ width="200" }
+<figcaption>Leonardo Chimirri
+</figcaption>
+</figure>
+
+Leonardo received his B.Sc. in Physics and M.Sc. in Theoretical Physics (2013-2018) at University of Torino, Italy, before moving to Berlin where he earned his Ph.D. in Theoretical Particle Physics (2019-2023) at Humboldt University Berlin and DESY-Zeuthen. During his Master and then Ph.D. thesis he focused on lattice field theories, a highly computational approach tied to stochastic simulations and where he expanded his interest and experience in programming, mathematical modelling, data analysis and later in machine learning. Driven by his broad scientific interest, among which molecular genetics stands out, and by his deep desire to apply his skills to improve people's lives and health, he joined the Robinson Lab in April 2024 after discovering topics such as Knowledge Graphs and Ontologies working as a volunteer at MI4People gGmbH (German non-profit). He has been focusing on LLMs for differentials diagnostics of rare genetic diseases throughout his first months. Other topics he has started working on are bayesian networks for differential diagnostics and training of machine learning models with a transformer architecture (that of large language models) for prioritizing pathogenic variants of non-coding DNA regions.
+
+
 ### Enock Niyonkuru
 
 <figure markdown>
