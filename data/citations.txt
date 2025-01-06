@@ -1,6 +1,15 @@
 -- # Publications
 
 
+-pmid:39740319
+authors: Shear MA, Robinson PN, Sparks TN. 
+year: 2025
+title: Fetal imaging, phenotyping, and genomic testing in modern prenatal diagnosis. 
+journal: Best Pract Res Clin Obstet Gynaecol. 
+volume: 98
+pages: 102575
+top: false
+
 -pmid: 39695184
 authors: Vestito L, Jacobsen JOB, Walker S, Cipriani V, Harris NL, Haendel MA, Mungall CJ, Robinson P, Smedley D. 
 year: 2024
@@ -53,8 +62,8 @@ authors: Beckwith MA, Danis D, Bridges Y, Jacobsen JOB, Smedley D, Robinson PN
 year: 2024
 title: Leveraging Clinical Intuition to Improve Accuracy of Phenotype-Driven Prioritization
 journal: Genet Med
-volume: 101292. doi: 10.1016/j.gim.2024.101292. 
-pages: Epub ahead of print.
+volume: 27(1)
+pages: 101292
 top: false
 
 
@@ -63,10 +72,9 @@ authors: Danis D, Bamshad MJ, Bridges Y, Caballero-Oteyza A, Cacheiro P, Carmody
 year: 2024
 title: A corpus of GA4GH phenopackets: case-level phenotyping for genomic diagnostics and discovery
 journal: HGG Adv.
-volume: 100371. doi: 10.1016/j.xhgg.2024.100371. 
-pages: Epub ahead of print
+volume: 6(1)
+pages: 100371
 top: false
-
 
 
 -pmid: 39334316
@@ -80,7 +88,7 @@ top: false
 
 
 
--pmid:
+-pmid: 39345458
 authors: Matentzoglu N, Bello SM, Stefancsik R, Alghamdi SM, Anagnostopoulos AV, Balhoff JP, Balk MA, Bradford YM, Bridges Y, Callahan TJ, Caufield H, Cuzick A, Carmody LC, Caron AR, de Souza V, Engel SR, Fey P, Fisher M, Gehrke S, Grove C, Hansen P, Harris NL, Harris MA, Harris L, Ibrahim A, Jacobsen JOB, Köhler S, McMurry JA, Munoz-Fuentes V, Munoz-Torres MC, Parkinson H, Pendlington ZM, Pilgrim C, Robb SM, Robinson PN, Seager J, Segerdell E, Smedley D, Sollis E, Toro S, Vasilevsky N, Wood V, Haendel MA, Mungall CJ, McLaughlin JA, Osumi-Sutherland D
 year: 2024
 title: The Unified Phenotype Ontology (uPheno): A framework for cross-species integrative phenomics. 
@@ -184,8 +192,8 @@ authors: Morgan AT, Coleman B, Vogel AP, McNeill A, {\bf Robinson PN}
 year: 2024
 title: Speech and language classification in the human phenotype ontology
 journal: Eur J Hum Genet
-volume: doi: 10.1038/s41431-024-01635-6
-pages: Epub ahead of print
+volume: 32(12)
+pages: 1518-1521
 top: false
 
 -pmid: 38913850
@@ -285,8 +293,8 @@ authors: Lagorce D, Lebreton E, Matalonga L, Hongnat O, Chahdil M, Piscia D, Par
 year: 2023
 title: Phenotypic similarity-based approach for variant prioritization for unsolved rare disease: a preliminary methodological report
 journal: Eur J Hum Genet
-volume: 10.1038/s41431-023-01486-7
-pages: Epub ahead of print
+volume: 32(2)
+pages: 182-189
 top: false
 
 -pmid: 37889991
@@ -314,8 +322,8 @@ Di Angelantonio E, Gomez K, Laffan M, Ouwehand WH, Mumford AD, Freson K, Carss K
 year: 2023
 title: The effects of pathogenic variants for inherited hemostasis disorders in 140,214 UK Biobank participants
 journal: Blood
-volume: doi: 10.1182/blood.2023020118
-pages: Epub ahead of print
+volume: 142(24)
+pages: 2055-2068
 top: false
 
 -pmid: 37654076
@@ -324,8 +332,8 @@ authors: Forwood C, Ashton K, Zhu Y, Zhang F, Dias KR, Standen K, Evans CA, Care
 year: 2023
 title: Integration of EpiSign, facial phenotyping, and likelihood ratio interpretation of clinical abnormalities in the re-classification of an ARID1B missense variant
 journal: Am J Med Genet C Semin Med Genet
-volume:
-pages: Epub ahead of print
+volume: 193(3)
+pages: e32056
 top: false
 
 -pmid: 37672869
@@ -740,8 +748,8 @@ authors: Haimel M, Pazmandi J, Heredia RJ, Dmytrus J, Bal SK, Zoghi S, van Daele
 year: 2021
 title: Curation and expansion of Human Phenotype Ontology for defined groups of inborn errors of immunity
 journal: J Allergy Clin Immunol
-volume: Online ahead of print.
-pages: S0091-6749(21)00732-6
+volume: 149(1)
+pages: 369-378
 top: false
 
 
