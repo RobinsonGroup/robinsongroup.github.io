@@ -1,13 +1,58 @@
 -- # Publications
 
+-pmid: 39876536
+authors: Werren EA, Kalsner L, Ewald JM, Peracchio M, King C, Vats P, Audano PA, Robinson PN, Adams MD, Kelly MA, Matson AP. 
+year: 2025
+title: Phenotypic Expansion of Knobloch Syndrome Type 2 in an Individual With a De Novo PAK2 Variant. 
+journal: Am J Med Genet A
+volume:  Epub ahead of print
+pages: e64006
+top: false
 
--pmid:39740319
+-pmid: 39837110
+authors: Guillod P, Savvas A, Robinson PN, Nai D, Naresh KN, Ott G, Schuh A, Sewell WA, Anderson M, Matentzoglu N, Durgavarjhula D, Xu ML, Druzdzel MJ, Astle JM
+year: 2025
+title: A Systematic Approach to Prioritise Diagnostically Useful Findings for Inclusion in Electronic Health Records as Discrete Data to Improve Clinical Artificial Intelligence Tools and Genomic Research. 
+journal: Clin Oncol (R Coll Radiol). 
+volume: 39
+pages: 103737
+top: false
+
+-pmid: 39740319
 authors: Shear MA, Robinson PN, Sparks TN. 
 year: 2025
 title: Fetal imaging, phenotyping, and genomic testing in modern prenatal diagnosis. 
 journal: Best Pract Res Clin Obstet Gynaecol. 
 volume: 98
 pages: 102575
+top: false
+
+-pmid: 39396132
+authors: Beckwith MA, Danis D, Bridges Y, Jacobsen JOB, Smedley D, Robinson PN
+year: 2025
+title: Leveraging Clinical Intuition to Improve Accuracy of Phenotype-Driven Prioritization
+journal: Genet Med
+volume: 27(1)
+pages: 101292
+top: false
+
+
+-pmid: 39394689
+authors: Danis D, Bamshad MJ, Bridges Y, Caballero-Oteyza A, Cacheiro P, Carmody LC, Chimirri L, Chong JX, Coleman B, Dalgleish R, Freeman PJ, Graefe ASL, Groza T, Hansen P, Jacobsen JOB, Klocperk A, Kusters M, Ladewig MS, Marcello AJ, Mattina T, Mungall CJ, Munoz-Torres MC, Reese JT, Rehburg F, Reis BCS, Schuetz C, Smedley D, Strauss T, Chandrabose Sundaramurthi J, Thun S, Wissink K, Wagstaff JF, Zocche D, Haendel MA, Robinson PN. 
+year: 2025
+title: A corpus of GA4GH phenopackets: case-level phenotyping for genomic diagnostics and discovery
+journal: HGG Adv.
+volume: 6(1)
+pages: 100371
+top: false
+
+-pmid: 39673960
+authors: Gliozzo J, Soto-Gomez M, Guarino V, Bonometti A, Cabri A, Cavalleri E, Reese J, Robinson PN, Mesiti M, Valentini G, Casiraghi E. 
+year: 2025
+title: Intrinsic-dimension analysis for guiding dimensionality reduction and data fusion in multi-omics data processing. 
+journal: Artif Intell Med 
+volume: 160
+pages:103049
 top: false
 
 -pmid: 39695184
@@ -19,17 +64,6 @@ volume: 9(1)
 pages:65
 top: false
 
-
--pmid: 39673960
-authors: Gliozzo J, Soto-Gomez M, Guarino V, Bonometti A, Cabri A, Cavalleri E, Reese J, Robinson PN, Mesiti M, Valentini G, Casiraghi E. 
-year: 2024
-title: Intrinsic-dimension analysis for guiding dimensionality reduction and data fusion in multi-omics data processing. 
-journal: Artif Intell Med 
-volume: 160
-pages:103049
-top: false
-
-
 -pmid: 39660256
 authors: Karlebach G, Hansen P, Köhler K, Robinson PN. 
 year: 2024
@@ -39,9 +73,10 @@ volume: 6(4)
 pages:lqae165
 top: false
 
-- pmid: 39660253
+-pmid: 39660253
 authors: Hansen P, Blau H, Hecht J, Karlebach G, Krannich A, Steinhaus R, Truss M, Robinson PN. 
-title: Using paired-end read orientations to assess technical biases in capture Hi-C. 
+title: Using paired-end read orientations to assess technical biases in capture Hi-C
+year: 2024
 journal: NAR Genom Bioinform
 volume: 6(4)
 pages:lqae156
@@ -54,26 +89,6 @@ title: Alternative splicing is coupled to gene expression in a subset of variabl
 journal:NPJ Genom Med 
 volume: 9(1)
 pages:54
-top: false
-
-
--pmid: 39396132
-authors: Beckwith MA, Danis D, Bridges Y, Jacobsen JOB, Smedley D, Robinson PN
-year: 2024
-title: Leveraging Clinical Intuition to Improve Accuracy of Phenotype-Driven Prioritization
-journal: Genet Med
-volume: 27(1)
-pages: 101292
-top: false
-
-
--pmid: 39394689
-authors: Danis D, Bamshad MJ, Bridges Y, Caballero-Oteyza A, Cacheiro P, Carmody LC, Chimirri L, Chong JX, Coleman B, Dalgleish R, Freeman PJ, Graefe ASL, Groza T, Hansen P, Jacobsen JOB, Klocperk A, Kusters M, Ladewig MS, Marcello AJ, Mattina T, Mungall CJ, Munoz-Torres MC, Reese JT, Rehburg F, Reis BCS, Schuetz C, Smedley D, Strauss T, Chandrabose Sundaramurthi J, Thun S, Wissink K, Wagstaff JF, Zocche D, Haendel MA, Robinson PN. 
-year: 2024
-title: A corpus of GA4GH phenopackets: case-level phenotyping for genomic diagnostics and discovery
-journal: HGG Adv.
-volume: 6(1)
-pages: 100371
 top: false
 
 

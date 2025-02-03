@@ -2,3 +2,5 @@ mkd_venv
 .idea
 .project
 .cache/
+
+venv/
