@@ -139,6 +139,17 @@ representing it as Phenopakets.
 
 Kristin earned her B.Sc. and M.Sc. in Bioinformatics from Free Universität Berlin. After completing her bachelor’s studies, she joined the Kircher lab at the Berlin Institute of Health (BIH), where she developed methods to analyze cfDNA from liquid biopsies and built predictive models for cancer diagnosis. During her master’s studies, she joined the Conrad lab at BIH, where she developed data processing pipelines for single-cell transcriptomics using nanopore technologies. This work enabled detailed analysis of transcript expression and splicing at the single-cell level. In May 2024, Kristin began her PhD at BIH, working jointly in the groups of Peter N. Robinson and Christian Conrad. Bridging the gap between wet and dry lab research, she focuses on developing software to analyze large-scale transcriptomic data, leveraging cutting-edge single-cell and spatial technologies.
 
+
+### Leonardo Chimirri, Ph.D.
+<figure markdown>
+![Leonardo Chimirri](img/people/Chimirri_Leonardo_8x10.jpg){ width="200" }
+<figcaption>Leonardo Chimirri
+</figcaption>
+</figure>
+
+Leonardo received his B.Sc. in Physics and M.Sc. in Theoretical Physics (2013-2018) at University of Torino, Italy, before moving to Berlin where he earned his Ph.D. in Theoretical Particle Physics (2019-2023) at Humboldt University Berlin and DESY-Zeuthen. During his Master and then Ph.D. theses he focused on lattice field theories, a computationally intensive approach based on stochastic simulations. There he expanded his interest and experience in programming, mathematical modelling, data analysis and machine learning. Driven by his deep desire to apply his skills to improve people's lives and health and given his broad scientific interest, among which computational biology and genetics stand out, he decided to change career focus and joined the Robinson Lab in April 2024. This was facilitated by coming into contact with knowledge graphs, ontologies, and rare genetic diseases when working as a volunteer at MI4People gGmbH (German non-profit), which he still supports whenever possible. He has been focusing on LLMs for differentials diagnostics of rare diseases throughout his first period in the Lab. Other topics he is starting to explore are bayesian networks for differential diagnostics and training of machine learning models for prioritizing pathogenic variants of non-coding DNA regions. 
+[Google Scholar](https://scholar.google.com/citations?user=9ltLmKMAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0002-6912-8518)
+
 ### Enock Niyonkuru
 
 <figure markdown>
