@@ -4,10 +4,6 @@ We welcome lab members of any nationality, sex, or gender, expect dedication and
 academic research in bioinformatics including AI/ML, ontologies, algorithms, and software engineering.
 Lab meetings and presentations are typically conducted in English, day to day conversations are conducted in German, English, or other languages, according to circumstances.
 
-We are currently searching for motivated candidates for the following positions:
-
-- [PhD position](https://karriere.charite.de/stellenangebote/detail/3994). Deadline for application: 14.02.2025 (Feb. 14th, 2025)
-- [Postdoc positions (3)](https://karriere.charite.de/stellenangebote/detail/4190) Deadline for application: 14.02.2025 (Feb. 14th, 2025)
 
 
 

@@ -1,5 +1,13 @@
 -- # Publications
 
+-pmid: 39922817
+authors Graefe ASL, Hübner MR, Rehburg F, Sander S, Klopfenstein SAI, Alkarkoukly S, Grönke A, Weyersberg A, Danis D, Zschüntzsch J, Nyoungui EF, Wiegand S, Kühnen P, Robinson PN, Beyan O, Thun S. 
+year: 2025
+title: An ontology-based rare disease common data model harmonising international registries, FHIR, and Phenopackets. 
+journal: Sci Data
+volume: 12(1)
+pages: 234
+
 -pmid: 39876536
 authors: Werren EA, Kalsner L, Ewald JM, Peracchio M, King C, Vats P, Audano PA, Robinson PN, Adams MD, Kelly MA, Matson AP. 
 year: 2025
@@ -7,7 +15,6 @@ title: Phenotypic Expansion of Knobloch Syndrome Type 2 in an Individual With a 
 journal: Am J Med Genet A
 volume:  Epub ahead of print
 pages: e64006
-top: false
 
 -pmid: 39837110
 authors: Guillod P, Savvas A, Robinson PN, Nai D, Naresh KN, Ott G, Schuh A, Sewell WA, Anderson M, Matentzoglu N, Durgavarjhula D, Xu ML, Druzdzel MJ, Astle JM
@@ -16,7 +23,7 @@ title: A Systematic Approach to Prioritise Diagnostically Useful Findings for In
 journal: Clin Oncol (R Coll Radiol). 
 volume: 39
 pages: 103737
-top: false
+
 
 -pmid: 39740319
 authors: Shear MA, Robinson PN, Sparks TN. 
@@ -25,7 +32,7 @@ title: Fetal imaging, phenotyping, and genomic testing in modern prenatal diagno
 journal: Best Pract Res Clin Obstet Gynaecol. 
 volume: 98
 pages: 102575
-top: false
+
 
 -pmid: 39396132
 authors: Beckwith MA, Danis D, Bridges Y, Jacobsen JOB, Smedley D, Robinson PN
@@ -34,7 +41,7 @@ title: Leveraging Clinical Intuition to Improve Accuracy of Phenotype-Driven Pri
 journal: Genet Med
 volume: 27(1)
 pages: 101292
-top: false
+
 
 
 -pmid: 39394689
@@ -44,7 +51,7 @@ title: A corpus of GA4GH phenopackets: case-level phenotyping for genomic diagno
 journal: HGG Adv.
 volume: 6(1)
 pages: 100371
-top: false
+
 
 -pmid: 39673960
 authors: Gliozzo J, Soto-Gomez M, Guarino V, Bonometti A, Cabri A, Cavalleri E, Reese J, Robinson PN, Mesiti M, Valentini G, Casiraghi E. 
@@ -53,7 +60,7 @@ title: Intrinsic-dimension analysis for guiding dimensionality reduction and dat
 journal: Artif Intell Med 
 volume: 160
 pages:103049
-top: false
+
 
 -pmid: 39695184
 authors: Vestito L, Jacobsen JOB, Walker S, Cipriani V, Harris NL, Haendel MA, Mungall CJ, Robinson P, Smedley D. 
@@ -62,7 +69,7 @@ title: Efficient reinterpretation of rare disease cases using Exomiser
 journal: NPJ Genom Med. 2024 Dec 18;
 volume: 9(1)
 pages:65
-top: false
+
 
 -pmid: 39660256
 authors: Karlebach G, Hansen P, Köhler K, Robinson PN. 
@@ -71,7 +78,7 @@ title: IsopretGO-analysing and visualizing the functional consequences of differ
 journal:NAR Genom Bioinform
 volume: 6(4)
 pages:lqae165
-top: false
+
 
 -pmid: 39660253
 authors: Hansen P, Blau H, Hecht J, Karlebach G, Krannich A, Steinhaus R, Truss M, Robinson PN. 
@@ -80,7 +87,7 @@ year: 2024
 journal: NAR Genom Bioinform
 volume: 6(4)
 pages:lqae156
-top: false
+
 
 -pmid: 39496626
 authors: Karlebach G, Steinhaus R, Danis D, Devoucoux M, Anczuków O, Sheynkman G, Seelow D, Robinson PN. 
@@ -89,7 +96,7 @@ title: Alternative splicing is coupled to gene expression in a subset of variabl
 journal:NPJ Genom Med 
 volume: 9(1)
 pages:54
-top: false
+
 
 
 -pmid: 39334316
@@ -99,7 +106,7 @@ title: Leaving no patient behind! Expert recommendation in the use of innovative
 journal: Orphanet J Rare Dis
 volume: 19(1)
 pages: 357
-top: false
+
 
 
 
@@ -110,7 +117,7 @@ title: The Unified Phenotype Ontology (uPheno): A framework for cross-species in
 journal: bioRxiv [Preprint]
 volume: 2024.09.18.613276.
 pages: .
-top: false
+
 
 
 -pmid: 39174566
@@ -120,7 +127,7 @@ title: An ontology-based knowledge graph for representing interactions involving
 journal: Sci Data
 volume: 11(1)
 pages: 906
-top: false
+
 
 
 -pmid: 39082680
@@ -130,7 +137,7 @@ title: A Pan-Cancer Patient-Derived Xenograft Histology Image Repository with Ge
 journal: Cancer Res
 volume: 84(13)
 pages: 2060-2072
-top: false
+
 
 
 -pmid: 39261914
@@ -140,7 +147,7 @@ title: Operational description of rare diseases: a reference to improve the reco
 journal: Orphanet J Rare Dis
 volume: 19(1)
 pages: 334
-top: false
+
 
 -pmid: 38177435
 authors: Cappelletti L, Fontana T, Casiraghi E, Ravanmehr V, Callahan TJ, Cano C, Joachimiak MP, Mungall CJ,  {\bf Robinson PN},  Reese J, Valentini G
@@ -149,7 +156,7 @@ title: GRAPE for fast and scalable graph processing and random-walk-based embedd
 journal: Nat Comput Sci
 volume: 3(6)
 pages: 552-568
-top: false
+
 
 
 -pmid: 38383067
@@ -159,7 +166,7 @@ title: Structured Prompt Interrogation and Recursive Extraction of Semantics (SP
 journal: Bioinformatics
 volume: 40(3)
 pages: btae104
-top: false
+
 
 -pmid: 38577542
 authors: Cappelletti L, Rekerle L, Fontana T, Hansen P, Casiraghi E, Ravanmehr V, Mungall CJ, Yang JJ, Spranger L, Karlebach G, Caufield JH, Carmody L, 
@@ -169,7 +176,7 @@ title: Node-degree aware edge sampling mitigates inflated classification perform
 journal: Bioinform Adv
 volume: 4(1)
 pages: vbae036
-top: false
+
 
 -pmid: 38605048
 authors: Callahan TJ, Tripodi IJ, Stefanski AL, Cappelletti L, Taneja SB, Wyrwa JM, Casiraghi E, Matentzoglu NA, Reese J, Silverstein JC, 
@@ -180,7 +187,7 @@ title: An open source knowledge graph ecosystem for the life sciences
 journal: Sci Data
 volume: 11(1)
 pages: 363
-top: false
+
 
 -pmid: 38629401
 authors: Cacheiro P, Lawson S, Van den Veyver IB, Marengo G, Zocche D, Murray SA, Duyzend M, {\bf Robinson PN}, Smedley D
@@ -189,7 +196,7 @@ title: Lethal phenotypes in Mendelian disorders
 journal: Genet Med
 volume: 26(7)
 pages: 101141
-top: false
+
 
 -pmid: 38643701
 authors: Chan LE, Casiraghi E, Reese J, Harmon QE, Schaper K, Hegde H, Valentini G, Schmitt C, Motsinger-Reif A, Hall JE, 
@@ -199,7 +206,7 @@ title: Predicting nutrition and environmental factors associated with female rep
 journal: Int J Med Inform
 volume: 187
 pages: 105461
-top: false
+
 
 
 -pmid: 38951652
@@ -209,7 +216,7 @@ title: Speech and language classification in the human phenotype ontology
 journal: Eur J Hum Genet
 volume: 32(12)
 pages: 1518-1521
-top: false
+
 
 -pmid: 38913850
 authors: Groza T, Gration D, Baynam G, {\bf Robinson PN}
@@ -218,7 +225,7 @@ title: FastHPOCR: Pragmatic, fast and accurate concept recognition using the Hum
 journal: Bioinformatics
 volume: 40(7)
 pages: btae406
-top: false
+
 
 -pmid: 38851761
 authors: Coleman B, Casiraghi E, Callahan TJ, Blau H, Chan LE, Laraway B, Clark KB, Re'em Y, Gersing KR, 
@@ -228,7 +235,7 @@ title: Association of post-COVID phenotypic manifestations with new-onset psychi
 journal: Transl Psychiatry
 volume: 14(1)
 pages: 246
-top: false
+
 
 -pmid: 38242839
 authors: Duyzend MH, Cacheiro P, Jacobsen JOB, Giordano J, Brand H, Wapner RJ, Talkowski ME, {\bf Robinson PN}, Smedley D
@@ -237,7 +244,7 @@ title: Improving prenatal diagnosis through standards and aggregation
 journal: Prenat Diagn
 volume: 44(4):
 pages: 454-464
-top: false
+
 
 -pmid: 38297371
 authors: Groza T, Caufield H, Gration D, Baynam G, Haendel MA, {\bf Robinson PN}, Mungall CJ, Reese JT
@@ -246,7 +253,7 @@ title: An evaluation of GPT models for phenotype concept recognition
 journal: BMC Med Inform Decis Mak
 volume: 24
 pages: 30
-top: false
+
 
 
 -pmid: 38001031
@@ -256,7 +263,7 @@ title: Term-BLAST-Like Alignment Tool for Concept Recognition in Noisy Clinical 
 journal: Bioinformatics
 volume: 39
 pages: btad716
-top: false
+
 
 -pmid: 38076030
 authors: Valentini G, Malchiodi D, Gliozzo J, Mesiti M, Soto-Gomez M, Cabri A, Reese J, Casiraghi E,, {\bf Robinson PN}
@@ -265,7 +272,7 @@ title: The promises of large language models for protein design and modeling
 journal: Front Bioinform
 volume: 3
 pages: 1304099
-top: false
+
 
 -pmid: 38000386
 authors: Putman TE, Schaper K, Matentzoglu N, Rubinetti VP, Alquaddoomi FS, Cox C, Caufield JH, Elsarboukh G, Gehrke S, Hegde H, Reese JT, Braun I, Bruskiewich RM, Cappelletti L, Carbon S, Caron AR, Chan LE, Chute CG, Cortes KG, De Souza V, Fontana T, Harris NL, Hartley EL, Hurwitz E, Jacobsen JOB, Krishnamurthy M, Laraway BJ, McLaughlin JA, McMurry JA, Moxon SAT, Mullen KR, O'Neil ST, Shefchek KA, Stefancsik R, Toro S, Vasilevsky NA, Walls RL, Whetzel PL, Osumi-Sutherland D, Smedley D, {\bf Robinson PN}, Mungall CJ, Haendel MA, Munoz-Torres MC
@@ -274,7 +281,7 @@ title: The Monarch Initiative in 2024: an analytic platform integrating phenotyp
 journal: Nucleic Acids Res
 volume: 52(D1)
 pages: D938-D949
-top: false
+
 
 -pmid: 37982373
 authors: Roberts AM, DiStefano MT, Riggs ER, Josephs KS, Alkuraya FS, Amberger J, Amin M, Berg JS, Cunningham F, Eilbeck K, Firth HV, Foreman J, Hamosh A, Hay E, Leigh S, Martin CL, McDonagh EM, Perrett D, Ramos EM,  {\bf Robinson PN}, Rath A, Sant DW, Stark Z, Whiffin N, Rehm HL, Ware JS
@@ -283,7 +290,7 @@ title: Towards robust clinical genome interpretation: developing a consistent te
 journal: Genet Med
 volume: 26(2)
 pages: 101029
-top: false
+
 
 -pmid: 37953324
 authors: Gargano MA, Matentzoglu N, Coleman B, Addo-Lartey EB, Anagnostopoulos AV, Anderton J, Avillach P, Bagley AM, Bakštein E, Balhoff JP, Baynam G, Bello SM, Berk M, Bertram H, Bishop S, Blau H, Bodenstein DF, Botas P, Boztug K, Čady J, Callahan TJ, Cameron R, Carbon SJ, Castellanos F, Caufield JH, Chan LE, Chute CG, Cruz-Rojo J, Dahan-Oliel N, Davids JR, de Dieuleveult M, de Souza V, de Vries BBA, de Vries E, DePaulo JR, Derfalvi B, Dhombres F, Diaz-Byrd C, Dingemans AJM, Donadille B, Duyzend M, Elfeky R, Essaid S, Fabrizzi C, Fico G, Firth HV, Freudenberg-Hua Y, Fullerton JM, Gabriel DL, Gilmour K, Giordano J, Goes FS, Moses RG, Green I, Griese M, Groza T, Gu W, Guthrie J, Gyori B, Hamosh A, Hanauer M, Hanušová K, He YO, Hegde H, Helbig I, Holasová K, Hoyt CT, Huang S, Hurwitz E, Jacobsen JOB, Jiang X, Joseph L, Keramatian K, King B, Knoflach K, Koolen DA, Kraus ML, Kroll C, Kusters M, Ladewig MS, Lagorce D, Lai MC, Lapunzina P, Laraway B, Lewis-Smith D, Li X, Lucano C, Majd M, Marazita ML, Martinez-Glez V, McHenry TH, McInnis MG, McMurry JA, Mihulová M, Millett CE, Mitchell PB, Moslerová V, Narutomi K, Nematollahi S, Nevado J, Nierenberg AA, Čajbiková NN, Nurnberger JI Jr, Ogishima S, Olson D, Ortiz A, Pachajoa H, Perez de Nanclares G, Peters A, Putman T, Rapp CK, Rath A, Reese J, Rekerle L, Roberts AM, Roy S, Sanders SJ, Schuetz C, Schulte EC, Schulze TG, Schwarz M, Scott K, Seelow D, Seitz B, Shen Y, Similuk MN, Simon ES, Singh B, Smedley D, Smith CL, Smolinsky JT, Sperry S, Stafford E, Stefancsik R, Steinhaus R, Strawbridge R, Sundaramurthi JC, Talapova P, Tenorio Castano JA, Tesner P, Thomas RH, Thurm A, Turnovec M, van Gijn ME, Vasilevsky NA, Vlčková M, Walden A, Wang K, Wapner R, Ware JS, Wiafe AA, Wiafe SA, Wiggins LD, Williams AE, Wu C, Wyrwoll MJ, Xiong H, Yalin N, Yamamoto Y, Yatham LN, Yocum AK, Young AH, Yüksel Z, Zandi PP, Zankl A, Zarante I, Zvolský M, Toro S, Carmody LC, Harris NL, Munoz-Torres MC, Danis D, Mungall CJ, Köhler S, Haendel MA, {\bf Robinson PN}
@@ -310,7 +317,7 @@ title: Phenotypic similarity-based approach for variant prioritization for unsol
 journal: Eur J Hum Genet
 volume: 32(2)
 pages: 182-189
-top: false
+
 
 -pmid: 37889991
 authors: Karlebach G, Robinson PN
@@ -319,7 +326,7 @@ title: Computing Minimal Boolean Models of Gene Regulatory Networks
 journal: J Comput Biol
 volume: 31(2)
 pages: 117-127
-top: false
+
 
 -pmid: 37684057
 authors: Sundaramurthi JC, Bagley AM, Blau H, Carmody L, Crandall A, Danis D, Gargano M, Gustafson AG, Raney EM, Shingle M, Davids JR,  Robinson PN
@@ -328,7 +335,7 @@ title: De novo TRPM3 missense variant associated with neurodevelopmental delay a
 journal: Cold Spring Harb Mol Case Stud
 volume: 8
 pages: mcs.a006293
-top: false
+
 
 -pmid: 37647632
 authors: Stefanucci L, Collins JH, Sims MC, Barrio-Hernandez I, Sun L, Burren O, Perfetto L, Bender I, Callahan TJ, Fleming K, Guerrero JA, Hermjakob H,
@@ -339,7 +346,7 @@ title: The effects of pathogenic variants for inherited hemostasis disorders in 
 journal: Blood
 volume: 142(24)
 pages: 2055-2068
-top: false
+
 
 -pmid: 37654076
 authors: Forwood C, Ashton K, Zhu Y, Zhang F, Dias KR, Standen K, Evans CA, Carey L, Cardamone M, Shalhoub C, Katf H, Riveros C, Hsieh TC, Krawitz P, Robinson PN,
@@ -349,7 +356,7 @@ title: Integration of EpiSign, facial phenotyping, and likelihood ratio interpre
 journal: Am J Med Genet C Semin Med Genet
 volume: 193(3)
 pages: e32056
-top: false
+
 
 -pmid: 37672869
 authors: Antony B, Blau H, Casiraghi E, Loomba JJ, Callahan TJ, Laraway BJ, Wilkins KJ, Antonescu CC, Valentini G, Williams AE, Robinson PN, Reese JT, Murali TM;
@@ -359,7 +366,7 @@ title: Predictive models of long COVID
 journal: EBioMedicine
 volume: 96
 pages: 104777
-top: false
+
 
 -pmid: 37208468
 authors: Callahan TJ, Stefanski AL, Wyrwa JM, Zeng C, Ostropolets A, Banda JM, Baumgartner WA Jr, Boyce RD, Casiraghi E, Coleman BD, Collins JH, Deakyne Davies SJ,
@@ -370,7 +377,7 @@ title: Ontologizing health systems data at scale: making translational discovery
 journal: NPJ Digit Med
 volume: 6
 pages: 89
-top: false
+
 
 -pmid: 37389415
 authors: Caufield JH, Putman T, Schaper K, Unni DR, Hegde H, Callahan TJ, Cappelletti L, Moxon SAT, Ravanmehr V, Carbon S, Chan LE, Cortes K, Shefchek KA, Elsarboukh G, Balhoff J, Fontana T, Matentzoglu N, Bruskiewich RM, Thessen AE, Harris NL, Munoz-Torres MC, Haendel MA, Robinson PN, Joachimiak MP, Mungall CJ, Reese JT
@@ -379,7 +386,7 @@ title: KG-Hub - Building and Exchanging Biological Knowledge Graphs
 journal: Bioinformatics
 volume: 39
 pages: btad418
-top: false
+
 
 
 -pmid: https://dl.acm.org/doi/10.1007/978-3-031-34960-7_26
@@ -389,7 +396,7 @@ title: Degree-Normalization Improves Random-Walk-Based Embedding Accuracy in PPI
 journal: in Bioinformatics and Biomedical Engineering, editors Rojas I, Valenzuela O, Rojas Ruiz F, Herrera LJ,  Ortuño F
 volume:
 pages: 372-383
-top: false
+
 
 -pmid: 37076585
 authors: Stefancsik R, Balhoff JP, Balk MA, Ball RL, Bello SM, Caron AR, Chesler EJ, de Souza V, Gehrke S, Haendel M, Harris LW, Harris NL, Ibrahim A, Koehler S, Matentzoglu N, McMurry JA, Mungall CJ, Munoz-Torres MC, Putman T, Robinson P, Smedley D, Sollis E, Thessen AE, Vasilevsky N, Walton DO, Osumi-Sutherland D
@@ -398,7 +405,7 @@ title: The Ontology of Biological Attributes (OBA)-computational traits for the 
 journal: Mamm Genome
 volume: 34(3):
 pages: 364-378
-top: false
+
 
 -pmid: 36929917
 authors: Karlebach G, Carmody L, Sundaramurthi JC, Casiraghi E, Hansen P, Reese J, Mungall CJ, Valentini G,  Robinson PN
@@ -407,7 +414,7 @@ title:  An expectation-maximization framework for comprehensive prediction of is
 journal: Bioinformatics
 volume: 39(4)
 pages: btad132
-top: false
+
 
 -pmid: 37196000
 authors: Danis D, Jacobsen JOB, Wagner AH, Groza T, Beckwith MA, Rekerle L, Carmody LC, Reese J, Hegde H, Ladewig MS, Seitz B, Munoz-Torres M, Harris NL, Rambla J, Baudis M, Mungall CJ, Haendel MA, Robinson PN
@@ -416,7 +423,7 @@ title: Phenopacket-tools: Building and validating GA4GH Phenopackets
 journal: PLoS One
 volume: 18(5)
 pages: e0285433
-top: false
+
 
 -pmid: 36823605
 authors: Chan LE, Thessen AE, Duncan WD, Matentzoglu N, Schmitt C, Grondin CJ, Vasilevsky N, McMurry JA,  Robinson PN, Mungall CJ, Haendel MA
@@ -425,7 +432,7 @@ title: The Environmental Conditions, Treatments, and Exposures Ontology (ECTO): 
 journal: J Biomed Semantics
 volume: 14
 pages: 3
-top: false
+
 
 -pmid: 36691971
 authors: Ajami N, Kerachian MA, Toosi MB, Ashrafzadeh F, Hosseini S, Robinson PN, Abbaszadegan MR
@@ -434,7 +441,7 @@ title: Inherited deletion of 9p22.3-p24.3 and duplication of 18p11.31-p11.32 ass
 journal: J Cell Mol Med
 volume: 27
 pages: 496-505
-top: false
+
 
 -pmid: 36716983
 authors: Casiraghi E, Wong R, Hall M, Coleman B, Notaro M, Evans MD, Tronieri JS, Blau H, Laraway B, Callahan TJ,
@@ -445,7 +452,7 @@ title:  A method for comparing multiple imputation techniques: A case study on t
 journal: J Biomed Inform
 volume: 139
 pages: 104295
-top: false
+
 
 -pmid: 36588100
 authors: Knoflach K, Rapp CK, Schwerk N, Carlens J, Wetzke M, Emiralioğlu N, Kiper N, Ring AM,
@@ -456,7 +463,7 @@ title: Diffuse alveolar hemorrhage in children with interstitial lung disease: D
 journal: Pediatr Pulmonol
 volume: 58(4)
 pages: 1106-1121
-top: false
+
 
 -pmid: 36563487
 authors: Reese JT, Blau H, Casiraghi E, Bergquist T, Loomba JJ, Callahan TJ, Laraway B, Antonescu C,
@@ -477,7 +484,7 @@ title: Metformin is associated with reduced COVID-19 severity in patients with p
 journal: Diabetes Res Clin Pract
 volume: 194
 pages: 110157
-top: false
+
 
 -pmid: 35931051
 authors: Tummala H, Walne A, Buccafusca R,Alnajar J, Szabo A, Robinson P, McConkie-Rosell A, Wilson M,
@@ -487,7 +494,7 @@ title: Germline thymidylate synthase deficiency impacts nucleotide metabolism an
 journal: Am J Hum Genet
 volume: 109
 pages: 1472-1483
-top: false
+
 
 -pmid: 35872606
 authors: Dhombres F, Morgan P,  Chaudhari BP, Filges I, Sparks TN, Lapunzina P,  Roscioli T, Agarwal U, Aggarwal S, Beneteau C, Cacheiro P, Carmody LC, Collardeau-Frachon S, Dempsey EA, Dufke A, Duyzend MH, El Ghosh M, Giordano JL, Glad R, Grinfelde I, Iliescu DG, Ladewig MS, Munoz-Torres MC, Pollazzon M, Radio FC,  Rodo C,  Gouveia Silva R, Smedley D, Sundaramurthi JC, Toro S, Valenzuela I, Vasilevsky NA, Wapner RJ, Zemet R, Haendel MA, Robinson PN
@@ -496,7 +503,7 @@ title: Prenatal phenotyping: a community effort to enhance the Human Phenotype O
 journal: Am J Med Genet C
 volume: 190(2)
 pages: 231-242
-top: false
+
 
 -pmid: 36910590
 authors: Ladewig MS,  Jacobsen JOB, Wagner AH, Danis D, El Kassaby B, Gargano M, Groza T, Baudis M, Steinhaus R, Seelow D, Bechrakis NE, Mungall CJ, Schofield PN, Elemento O, Smith L, McMurry JA, Munoz-Torres M, Haendel MA,  Robinson PN
@@ -505,7 +512,7 @@ title: GA4GH Phenopackets: A practical introduction
 journal: Adv Genet (Hoboken)
 volume: 4
 pages: 2200016
-top: false
+
 
 -pmid: 36149471
 authors: Robinson PN, Graessner H
@@ -514,7 +521,7 @@ title: Datenstandards für Seltene Erkrankungen
 journal: Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz
 volume: 65(11)
 pages: 1126-1132
-top: false
+
 
 -pmid: https://air.unimi.it/handle/2434/948209
 authors: Petrini A, Notaro M, Gliozzo J, Castrignan{\`o} T, Robinson PN, Casiraghi E, Valentini G
@@ -523,7 +530,7 @@ title: ParSMURF-NG: A Machine Learning High Performance Computing System for th
 journal: Artificial Intelligence Applications and Innovations. AIAI 2022 IFIP WG 12.5 International Workshops
 volume:
 pages: 424-435
-top: false
+
 
 -pmid: 35639768
 authors: Steinhaus R, Robinson PN, Seelow D
@@ -532,7 +539,7 @@ title: FABIAN-variant: predicting the effects of DNA variants on transcription f
 journal: Nucleic Acids Res
 volume: 50(W1)
 pages: W322-W329
-top: false
+
 
 -pmid: 35595299
 authors: Jacobsen JOB, Kelly C, Cipriani V, Robinson PN, Smedley D
@@ -541,7 +548,7 @@ title: Evaluation of phenotype-driven gene prioritization methods for Mendelian 
 journal: Brief Bioinform
 volume: 38(12)
 pages: 1271-1283
-top: false
+
 
 -pmid: 35524573
 authors: Steinhaus R, Proft S, Seelow E, Schalau T, Robinson PN, Seelow D
@@ -550,7 +557,7 @@ title: Deep phenotyping: symptom annotation made simple with SAMS
 journal: Nucleic Acids Res
 volume: 50(W1)
 pages: W677-W681
-top: false
+
 
 -pmid: 35475145
 authors: Koc S, Lloyd MW, Grover JW, Xiao N, Seepo S, Subramanian SL, Ray M, Frech C, DiGiovanna J, Webster P, Neuhauser S, Srivastava A, Woo XY, Sanderson BJ, White B, Lott P, Dobrolecki LE, Dowst H; PDXNet Consortium, Evrard YA, Wallace TA, Moscow JA, Doroshow JH, Mitsiades N, Kaochar S, Pan CX, Chen MS, Carvajal-Carmona L, Welm AL, Welm BE, Lewis MT, Govindan R, Ding L, Li S, Herlyn M, Davies MA, Roth J, Meric-Bernstam F, Robinson PN, Bult CJ, Davis-Dusenbery B, Dean DA 2nd, Chuang JH
@@ -559,7 +566,7 @@ title: PDXNet portal: patient-derived Xenograft model, data, workflow and tool d
 journal: NAR Cancer
 volume: 4
 pages: zcac014
-top: false
+
 
 -pmid: 35442193
 authors: Chin HL, Gazzaz N, Huynh S, Handra I, Warnock L, Moller-Hansen A, Boerkoel P, Jacobsen JOB, du Souich C, Zhang N, Shefchek K, Prentice LM, Washington N, Haendel M, Armstrong L, Clarke L, Li WL, Smedley D, Robinson PN, Boerkoel CF
@@ -568,7 +575,7 @@ title:  The Clinical Variant Analysis Tool: Analyzing the evidence supporting re
 journal: Genet Med
 volume: 24(7)
 pages: 1512-1522
-top: false
+
 
 -pmid: 34940725
 authors: Scarabelli A, Zilocchi M, Casiraghi E, Fasani P, Plensich GG, Esposito AA, Stellato E, Petrini A, Reese J, Robinson P, Valentini G, Carrafiello G
@@ -577,7 +584,7 @@ title: Abdominal Computed Tomography Imaging Findings in Hospitalized COVID-19 P
 journal: J Imaging
 volume: 7(12)
 pages: 258
-top: false
+
 
 -pmid: 35524622
 authors: Coleman B, Casiraghi E, Blau H, Chan L, Haendel M, Laraway B, Callahan TJ, Deer RR, Wilkins K, Reese J, Robinson PN,
@@ -595,7 +602,7 @@ title: PhenoRerank: A re-ranking model for phenotypic concept recognition pre-tr
 journal:  J Biomed Inform
 volume: 129
 pages: 104059
-top: false
+
 
 -pmid: 35705716
 authors: Jacobsen JOB, Baudis M, Baynam GS, Beckmann JS, Beltran S, Buske OJ, Callahan TJ, Chute CG, Courtot M, Danis D, Elemento O, Essenwanger A, Freimuth RR, Gargano MA, Groza T, Hamosh A, Harris NL, Kaliyaperumal R, Lloyd KCK, Khalifa A, Krawitz PM, Köhler S, Laraway BJ, Lehväslaiho H, Matalonga L, McMurry JA, Metke-Jimenez A, Mungall CJ, Munoz-Torres MC, Ogishima S, Papakonstantinou A, Piscia D, Pontikos N, Queralt-Rosinach N, Roos M, Sass J, Schofield PN, Seelow D, Siapos A, Smedley D, Smith LD, Steinhaus R, Sundaramurthi JC, Swietlik EM, Thun S, Vasilevsky NA, Wagner AH, Warner JL, Weiland C; GAGH Phenopacket Modeling Consortium, Haendel MA, Robinson PN
@@ -613,7 +620,7 @@ title: NSAID use and clinical outcomes in COVID-19 patients: A 38-center retrosp
 journal: Virol J
 volume: 19
 pages: 84
-top: false
+
 
 -pmid: 35484572
 authors: Danis D, Jacobsen JOB, Balachandran P, Zhu Q, Yilmaz F, Reese J, Haimel M, Lyon GJ, Helbig I, Mungall CJ, Beck C, Lee C, Smedley D, Robinson PN,
@@ -633,7 +640,7 @@ title: The GA4GH Variation Representation Specification: A computational framewo
 journal: Cell Genom
 volume: 1(2)
 pages: 100027
-top: false
+
 
 -pmid: 35178824
 authors: Laurie S, Piscia D, Matalonga L, Corvo A, Garcia C, Fernandez-Callejo M, Hernandez C, Luengo C, Ntalis AP, Protassio J, Martinez I,
@@ -646,7 +653,7 @@ title: The RD-Connect Genome-Phenome Analysis Platform: Accelerating diagnosis, 
 journal: Hum Mutat
 volume: 43(6)
 pages: 717-733
-top: false
+
 
 -pmid: 35074468
 authors: Karlebach G, Aronow B, Baylin SB, Butler D, Foox J, Levy S, Meydan C, Mozsary C,
@@ -656,7 +663,7 @@ title: Betacoronavirus-specific alternate splicing
 journal: Genomics
 volume: 114
 pages: 110270
-top: false
+
 
 -pmid: 34812365
 authors: Casiraghi E, Malchiodi D, Trucco G, Frasca M, Cappelletti L, Fontana T, Esposito AA, Avola E, Jachetti A, Reese J, Rizzi A, Robinson PN, Valentini G
@@ -665,7 +672,7 @@ title: Explainable Machine Learning for Early Assessment of COVID-19 Risk Predic
 journal: IEEE Access
 volume: 8
 pages: 196299-196325
-top: false
+
 
 -pmid: 34839263
 authors: Deer RR, Rock MA, Vasilevsky N, Carmody L, Rando H, Anzalone AJ, Basson MD, Bennett TD, Bergquist T, Boudreau EA, Bramante CT, Byrd JB, Callahan TJ, Chan LE, Chu H, Chute CG, Coleman BD, Davis HE, Gagnier J, Greene CS, Hillegass WB, Kavuluru R, Kimble WD, Koraishy FM, Köhler S, Liang C, Liu F, Liu H, Madhira V, Madlock-Brown CR, Matentzoglu N, Mazzotti DR, McMurry JA, McNair DS, Moffitt RA, Monteith TS, Parker AM, Perry MA, Pfaff E, Reese JT, Saltz J, Schuff RA, Solomonides AE, Solway J, Spratt H, Stein GS, Sule AA, Topaloglu U, Vavougios GD, Wang L, Haendel MA, Robinson PN
@@ -674,7 +681,7 @@ title: Characterizing Long COVID: Deep Phenotype of a Complex Condition
 journal: EBioMedicine
 volume: 74
 pages: 103722
-top: false
+
 
 -pmid: 34888523
 authors: Ravanmehr V, Blau H, Cappelletti L, Fontana T, Carmody L, Coleman B, George J, Reese J, Joachimiak M, Bocci G, Hansen P, Bult C, Rueter J, Casiraghi E, Valentini G, Mungall C, Oprea TI, Robinson PN
@@ -683,7 +690,7 @@ title: Supervised learning with word embeddings derived from PubMed captures lat
 journal: NAR Genom Bioinform
 volume: 3
 pages: lqab113
-top: false
+
 
 -pmid: 35072136
 authors: Rehm HL, Page AJH, Smith L, Adams JB, Alterovitz G, Babb LJ, Barkley MP, Baudis M, Beauvais MJS, Beck T, Beckmann JS, Beltran S, Bernick D, Bernier A, Bonfield JK, Boughtwood TF, Bourque G, Bowers SR, Brookes AJ, Brudno M, Brush MH, Bujold D, Burdett T, Buske OJ, Cabili MN, Cameron DL, Carroll RJ, Casas-Silva E, Chakravarty D, Chaudhari BP, Chen SH, Cherry JM, Chung J, Cline M, Clissold HL, Cook-Deegan RM, Courtot M, Cunningham F, Cupak M, Davies RM, Denisko D, Doerr MJ, Dolman LI, Dove ES, Dursi LJ, Dyke SOM, Eddy JA, Eilbeck K, Ellrott KP, Fairley S, Fakhro KA, Firth HV, Fitzsimons MS, Fiume M, Flicek P, Fore IM, Freeberg MA, Freimuth RR, Fromont LA, Fuerth J, Gaff CL, Gan W, Ghanaim EM, Glazer D, Green RC, Griffith M, Griffith OL, Grossman RL, Groza T, Auvil JMG, Guigó R, Gupta D, Haendel MA, Hamosh A, Hansen DP, Hart RK, Hartley DM, Haussler D, Hendricks-Sturrup RM, Ho CWL, Hobb AE, Hoffman MM, Hofmann OM, Holub P, Hsu JS, Hubaux JP, Hunt SE, Husami A, Jacobsen JO, Jamuar SS, Janes EL, Jeanson F, Jené A, Johns AL, Joly Y, Jones SJM, Kanitz A, Kato K, Keane TM, Kekesi-Lafrance K, Kelleher J, Kerry G, Khor SS, Knoppers BM, Konopko MA, Kosaki K, Kuba M, Lawson J, Leinonen R, Li S, Lin MF, Linden M, Liu X, Udara Liyanage I, Lopez J, Lucassen AM, Lukowski M, Mann AL, Marshall J, Mattioni M, Metke-Jimenez A, Middleton A, Milne RJ, Molnár-Gábor F, Mulder N, Munoz-Torres MC, Nag R, Nakagawa H, Nasir J, Navarro A, Nelson TH, Niewielska A, Nisselle A, Niu J, Nyrönen TH, O'Connor BD, Oesterle S, Ogishima S, Wang VO, Paglione LAD, Palumbo E, Parkinson HE, Philippakis AA, Pizarro AD, Prlic A, Rambla J, Rendon A, Rider RA, Robinson PN, Rodarmer KW, Rodriguez LL, Rubin AF, Rueda M, Rushton GA, Ryan RS, Saunders GI, Schuilenburg H, Schwede T, Scollen S, Senf A, Sheffield NC, Skantharajah N, Smith AV, Sofia HJ, Spalding D, Spurdle AB, Stark Z, Stein LD, Suematsu M, Tan P, Tedds JA, Thomson AA, Thorogood A, Tickle TL, Tokunaga K, Törnroos J, Torrents D, Upchurch S, Valencia A, Guimera RV, Vamathevan J, Varma S, Vears DF, Viner C, Voisin C, Wagner AH, Wallace SE, Walsh BP, Williams MS, Winkler EC, Wold BJ, Wood GM, Woolley JP, Yamasaki C, Yates AD, Yung CK, Zass LJ, Zaytseva K, Zhang J, Goodhand P, North K, Birney E
@@ -692,7 +699,7 @@ title: GA4GH: International policies and standards for data sharing across genom
 journal: Cell Genom
 volume: 1
 pages: 100029
-top: false
+
 
 -pmid: 34758253
 authors: 100,000 Genomes Project Pilot Investigators, Smedley D, Smith KR, Martin A, Thomas EA, McDonagh EM, Cipriani V, Ellingford JM, Arno G,
@@ -718,7 +725,7 @@ title: 100,000 Genomes Pilot on Rare-Disease Diagnosis in Health Care - Prelimin
 journal: N Engl J Med
 volume: 385(20)
 pages: 1868-1880
-top: false
+
 
 -pmid: 34478655
 authors: Hamosh A, Amberger JS, Bocchini CA, Bodurtha J, Bult CJ, Chute CG, Cutting GR, Dietz HC, Firth HV, Gibbs RA,
@@ -729,7 +736,7 @@ title: Response to Biesecker et al.
 journal: Am J Hum Genet
 volume: 108(9)
 pages: 1807-1808
-top: false
+
 
 -pmid: 34289339
 authors: Danis D,  Jacobsen JOB, Carmody LC, Gargano MA, McMurry JA, Hegde A, Haendel MA, Valentini G, Smedley D, Robinson PN
@@ -747,7 +754,7 @@ title: HEMDAG: a family of modular and scalable hierarchical ensemble methods to
 journal: Bioinformatics
 volume: 37
 pages: 4526-4533
-top: false
+
 
 -pmid: 34117224
 authors: Dahlet T, Truss M, Frede U, Al Adhami H, Bardet AF, Dumas M, Vallet J, Chicher J, Hammann P, Kottnik S, Hansen P, Luz U, Alvarez G, Auclair G, Hecht J, Robinson PN, Hagemeier C, Weber M
@@ -756,7 +763,7 @@ title: E2F6 initiates stable epigenetic silencing of germline genes during embry
 journal: Nat Commun
 volume: 12
 pages: 3582
-top: false
+
 
 -pmid: 33991581
 authors: Haimel M, Pazmandi J, Heredia RJ, Dmytrus J, Bal SK, Zoghi S, van Daele P, Briggs TA, Wouters C, Bader-Meunier B, Aeschlimann FA, Caorsi R, Eleftheriou D, Hoppenreijs E, Salzer E, Bakhtiar S, Derfalvi B, Saettini F, Kusters MAA, Elfeky R, Trück J, Rivière JG, van der Burg M, Gattorno M, Seidel MG, Burns S, Warnatz K, Hauck F, Brogan P, Gilmour KC, Schuetz C, Simon A, Bock C, Hambleton S, de Vries E, Robinson PN, van Gijn M, Boztug K
@@ -765,7 +772,7 @@ title: Curation and expansion of Human Phenotype Ontology for defined groups of 
 journal: J Allergy Clin Immunol
 volume: 149(1)
 pages: 369-378
-top: false
+
 
 
 -pmid: 33949685
@@ -775,7 +782,7 @@ title: Modeling seizures in the Human Phenotype Ontology according to contempora
 journal: Epilepsia
 volume: 62
 pages: 1293-1305
-top: false
+
 
 -pmid: 33962988
 authors: Kulchak Rahm A, Walton NA, Feldman LK, Jenkins C, Jenkins T, Person TN, Peterson J, Reynolds JC, Robinson PN, Woltz MA, Williams MS, Segal MM.,
@@ -784,7 +791,7 @@ title: User testing of a diagnostic decision support system with machine-assiste
 journal: BMJ Health Care Inform
 volume: 28
 pages: e100331
-top: false
+
 
 -pmid: 33471061
 authors: Luo L, Yan S, Lai PT, Veltri D, Oler A, Xirasagar S, Ghosh R, Similuk M,, Robinson PN, Lu Z
@@ -793,7 +800,7 @@ title: PhenoTagger: A Hybrid Method for Phenotype Concept Recognition using Huma
 journal: Bioinformatics
 volume: Jan 20
 pages: btab019
-top: false
+
 
 -pmid: 33426479
 authors: Rubinstein YR, Robinson PN, Gahl WA, Avillach P, Baynam G, Cederroth H,
@@ -805,7 +812,7 @@ title: The case for open science: rare diseases
 journal: JAMIA Open
 volume: 3(3)
 pages: 472-486
-top: false
+
 
 -pmid: 33402532
 authors: Rodríguez de Los Santos M, Rivalan M, David FS, Stumpf A, Pitsch J, Tsortouktzidis D, Velasquez LM, Voigt A, Schilling K, Mattei D, Long M, Vogt G, Knaus A, Fischer-Zirnsak B, Wittler L, Timmermann B, Robinson PN, Horn D, Mundlos S, Kornak U, Becker AJ, Schmitz D, Winter Y, Krawitz PM
@@ -814,7 +821,7 @@ title: A CRISPR-Cas9-engineered mouse model for GPI-anchor deficiency mirrors hu
 journal: Proc Natl Acad Sci U S A
 volume: 118
 pages: e2014481118
-top: false
+
 
 -pmid: 33264411
 authors: Köhler S, Gargano M, Matentzoglu N, Carmody LC, Lewis-Smith D, Vasilevsky NA,
@@ -830,7 +837,7 @@ title: The Human Phenotype Ontology in 2021
 journal: Nucleic Acids Res
 volume: 49(D1)
 pages: D1207-D1217
-top: false
+
 
 -pmid: 33196056
 authors: Reese JT, Unni D, Callahan TJ, Cappelletti L, Ravanmehr V, Carbon S, Shefchek
@@ -841,7 +848,7 @@ title: KG-COVID-19: A Framework to Produce Customized Knowledge Graphs for COVID
 journal: Patterns (N Y)
 volume: 2(1)
 pages: 100155
-top: false
+
 
 -pmid: 32939051
 authors: Ong E, Wang LL, Schaub J, O'Toole JF, Steck B, Rosenberg AZ, Dowd F, Hansen
@@ -854,7 +861,7 @@ title: Modelling kidney disease using ontology: insights from the Kidney Precisi
 journal: Nat Rev Nephrol
 volume: 16
 pages: 686-696
-top: false
+
 
 -pmid: 32787960
 authors: Atalaia A, Thompson R, Corvo A, Carmody L, Piscia D, Matalonga L, Macaya A, Lochmuller A, Fontaine B, Zurek B, Hernandez-Ferrer C, Rheinard C, Gómez-Andrés D, Desaphy JF, Schon K, Lohmann K, Jennings MJ, Synofzik M, Riess O, Yaou RB, Evangelista T, Ratnaike T, Bros-Facer V, Gumus G, Horvath R, Chinnery P, Laurie S, Graessner H, Robinson P, Lochmuller H, Beltran S, Bonne G
@@ -863,7 +870,7 @@ title: A guide to writing systematic reviews of rare disease treatments to gener
 journal: Orphanet J Rare Dis
 volume: 15
 pages: 206
-top: false
+
 
 -pmid: 32823310
 authors: Robinson PN, Haendel MA
@@ -872,7 +879,7 @@ title: Ontologies, Knowledge Representation, and Machine Learning for Translatio
 journal: Yearb Med Inform
 volume: 29
 pages: 159-162
-top: false
+
 
 -pmid: 32755546
 authors: Robinson PN, Ravanmehr V, Jacobsen JOB, Danis D, Zhang XA, Carmody LC, Gargano MA, Thaxton CL; UNC Biocuration Core, Karlebach G, Reese J, Holtgrewe M, Köhler S, McMurry JA, Haendel MA, Smedley D
@@ -899,7 +906,7 @@ title: parSMURF, a high-performance computing tool for the genome-wide detection
 journal: Gigascience
 volume: 9
 pages: giaa052
-top: false
+
 
 -pmid: 32389282
 authors: Gasteiger LM, , Robinson PN, Pazmandi J, Boztug K, Seppänen MRJ, Seidel MG; Registry Working Party of the European Society for Immunodeficiencies (ESID)
@@ -908,7 +915,7 @@ title: Supplementation of the ESID registry working definitions for the clinical
 journal: J Allergy Clin Immunol Pract
 volume:
 pages:
-top: false
+
 
 -pmid: 32366968
 authors: Chang WH, Mashouri P, Lozano AX, Johnstone B, Husic M, Olry A, Maiella S, Balci TB, Sawyer SL, Robinson PN, Rath A, Brudno M
@@ -917,7 +924,7 @@ title: Phenotate: crowdsourcing phenotype annotations as exercises in undergradu
 journal: Genet Med
 volume: 22
 pages: 1391-1400
-top: false
+
 
 -pmid: 32340307
 authors: Cipriani V, Pontikos N, Arno G, Sergouniotis PI, Lenassi E, Thawong P, Danis D, Michaelides M, Webster AR, Moore AT, Robinson PN, Jacobsen JOB, Smedley D
@@ -926,7 +933,7 @@ title: An Improved Phenotype-Driven Tool for Rare Mendelian Variant Prioritizati
 journal: Genes (Basel)
 volume: 11
 pages: 460
-top: false
+
 
 -pmid: 32338759
 authors: Steinhaus R, Gonzalez T, Seelow D, Robinson PN
@@ -944,7 +951,7 @@ title: How many rare diseases are there?
 journal: Nat Rev Drug Discov
 volume: 19
 pages: 77-78
-top: false
+
 
 -pmid: 32019583
 authors: Carmody LC, Blau H, Danis D, Zhang XA, Gourdine JP, Vasilevsky N, Krawitz P, Thompson MD, Robinson PN
@@ -953,7 +960,7 @@ title: Significantly different clinical phenotypes associated with mutations in 
 journal: Orphanet J Rare Dis
 volume: 15
 pages: 40
-top: false
+
 
 -pmid: 31805661
 authors: Altinbas L, Bormann N, Lehmann D, Jeuthe S, Wulsten D, Kornak U, Robinson PN, Wildemann B, Kararigas G
@@ -962,7 +969,7 @@ title: Assessment of Bones Deficient in Fibrillin-1 Microfibrils Reveals Pronoun
 journal:  Int J Mol Sci
 volume: 20
 pages:  pii: E6059
-top: false
+
 
 -pmid: 31796735
 authors: Jia G, Li Y, Zhang H, Chattopadhyay I, Boeck Jensen A, Blair DR, Davis L, Robinson PN, Dahl{\"{e}}n T, Brunak S, Benson M, Edgren G, Cox NJ, Gao X, Rzhetsky A
@@ -971,7 +978,7 @@ title: Estimating heritability and genetic correlations from large health datase
 journal: Nat Commun
 volume: 10
 pages: 5508
-top: false
+
 
 -pmid: 31735951
 authors: Gourdine JF, Brush MH, Vasilevsky NA, Shefchek K, Köhler S, Matentzoglu N, Munoz-Torres MC, McMurry JA, Zhang XA, Robinson PN, Haendel MA
@@ -980,7 +987,7 @@ title: Representing glycophenotypes: semantic unification of glycobiology resour
 journal: Database (Oxford)
 volume: 2019
 pages: pii: baz114
-top: false
+
 
 -pmid: 31701156
 authors: Shefchek KA, Harris NL, Gargano M, Matentzoglu N, Unni D, Brush M, Keith D,
@@ -997,7 +1004,7 @@ title: The Monarch Initiative in 2019: an integrative data and analytic platform
 journal: Nucleic Acids Res
 volume: 48(D1)
 pages: D704-D715
-top: false
+
 
 -pmid: 31479590
 authors: Köhler S,  Øien NC, Buske OJ, Groza T, Jacobsen JOB, McNamara C, Vasilevsky N, Carmody LC, Gourdine JP, Gargano M, McMurry JA, Danis D, Mungall CJ, Smedley D,
@@ -1007,7 +1014,7 @@ title: Encoding Clinical Data with the Human Phenotype Ontology for Computationa
 journal: Curr Protoc Hum Genet
 volume: 103
 pages: e92
-top: false
+
 
 -pmid: 31417602
 authors: Nellåker C, Alkuraya FS, Baynam G, Bernier RA, Bernier FPJ, Boulanger V,
@@ -1023,7 +1030,7 @@ title: Minerva Consortium. Enabling Global Clinical Collaborations on Identifiab
 journal:  Front Genet
 volume: 10
 pages: 611
-top: false
+
 
 -pmid: 31323892
 authors: Hansen P, Gargano M, Hecht J, Ibn-Salem J, Karlebach G, Roehr JT, Robinson PN
@@ -1032,7 +1039,7 @@ title: Computational Processing and Quality Control of Hi-C, Capture Hi-C and Ca
 journal: Genes (Basel)
 volume: 10
 pages: pii: E548
-top: false
+
 
 -pmid: 31164752
 authors: Hsieh TC, Mensah MA, Pantel JT, Aguilar D, Bar O, Bayat A, Becerra-Solano L,
@@ -1053,7 +1060,7 @@ title: PEDIA: prioritization of exome data by image analysis
 journal:  Genet Med
 volume: 21
 pages: 2807-2814
-top: false
+
 
 -pmid: 31119199
 authors: Zhang XA, Yates A, Vasilevsky N, Gourdine JP, Callahan TJ, Carmody LC, Danis D, Joachimiak MP, Ravanmehr V, Pfaff ER, Champion J, Robasky K, Xu H, Fecho K,
@@ -1064,7 +1071,7 @@ title: Semantic integration of clinical laboratory tests from electronic health 
 journal: NPJ Digit Med
 volume: 2
 pages:  pii: 32
-top: false
+
 
 -pmid: 31074176
 authors: Ahalt SC, Chute CG, Fecho K, Glusman G, Hadlock J, Taylor CO, Pfaff ER, Robinson PN, Solbrig H, Ta C, Tatonetti N, Weng C
@@ -1073,7 +1080,7 @@ title: Biomedical Data Translator Consortium. Clinical Data: Sources and Types, 
 journal: Clin Transl Sci
 volume: 12
 pages: 329-333
-top: false
+
 
 -pmid: 30642251
 authors: Hansen P, Ali S, Blau H, Danis D, Hecht J, Kornak U, Lupiáñez DG, Mundlos S, Steinhaus R, Robinson PN
@@ -1082,7 +1089,7 @@ title: GOPHER: Generator Of Probes for capture Hi-C Experiments at high Resoluti
 journal: BMC Genomics
 volume: 20
 pages: 40
-top: false
+
 
 -pmid: 30677223
 authors: Bhushan R, Altinbas L, Jäger M, Zaradzki M, Lehmann D, Timmermann B, Clayton NP, Zhu Y, Kallenbach K, Kararigas G, Robinson PN
@@ -1091,7 +1098,7 @@ title: An integrative systems approach identifies novel candidates in Marfan syn
 journal: J Cell Mol Med
 volume: 23
 pages: 2526-2535
-top: false
+
 
 -pmid: 30626441
 authors: Sergouniotis PI, Maxime E, Leroux D, Olry A, Thompson R, Rath A, Robinson PN, Dollfus H; ERN-EYE Ontology Study Group
@@ -1100,7 +1107,7 @@ title: An ontological foundation for ocular phenotypes and rare eye diseases
 journal: Orphanet J Rare Dis
 volume: 14
 pages: 8
-top: false
+
 
 -pmid: 30389745
 authors: Mai K, Li L, Wiegand S, Brachs M, Leupelt V, Ernert A, Kühnen P, Hübner N, Robinson P, Chen W, Krude H, Spranger J
@@ -1110,7 +1117,7 @@ title: An Integrated Understanding of the Molecular Mechanisms of How Adipose Ti
 journal: Diabetes
 volume: 68
 pages: 57-65
-top: false
+
 
 -pmid: 30476213
 authors: Köhler S, Carmody L, Vasilevsky N, Jacobsen JOB, Danis D, Gourdine JP, Gargano
@@ -1129,7 +1136,7 @@ title: Expansion of the Human Phenotype Ontology (HPO) knowledge base and resour
 journal: Nucleic Acids Res
 volume: 47
 pages: D1018–D1027
-top: false
+
 
 -pmid: 30304648
 authors: Haendel MA, Chute CG, Robinson PN
@@ -1147,7 +1154,7 @@ title: Transcriptional profiling of murine osteoblast differentiation based on R
 journal: Bone
 volume: 113
 pages: 29-40
-top: false
+
 
 -pmid: 29632381
 authors: Vasilevsky NA, Foster ED, Engelstad ME, Carmody L, Might M, Chambers C,
@@ -1160,7 +1167,7 @@ title: Plain-language medical vocabulary for precision diagnosis
 journal: Nat Genet
 volume: 50
 pages: 474-476
-top: false
+
 
 -pmid: 29425702
 authors: Maiella S, Olry A, Hanauer M, Lanneau V, Lourghi H, Donadille B, Rodwell C,
@@ -1171,7 +1178,7 @@ title: Harmonising phenomics information for a better interoperability in the ra
 journal: Eur J Med Genet
 volume: 61
 pages: 706-714
-top: false
+
 
 -pmid: 29310717
 authors: Knaus A, Pantel JT, Pendziwiat M, Hajjir N, Zhao M, Hsieh TC, Schubach M,
@@ -1184,7 +1191,7 @@ title: Characterization of glycosylphosphatidylinositol biosynthesis defects by 
 journal: Genome Med
 volume: 10
 pages: 3
-top: false
+
 
 -pmid: 29193559
 authors: Kernohan KD, Hartley T, Alirezaie N; Care4Rare Canada Consortium, Robinson PN, Dyment DA, Boycott KM
@@ -1193,7 +1200,7 @@ title:  Evaluation of exome filtering techniques for the analysis of clinically 
 journal: Hum Mutat
 volume: 39
 pages: 197-201
-top: false
+
 
 -pmid: 29246325
 authors: Arif R, Zaradzki M, Remes A, Seppelt P, Kunze R, Schröder H, Schwill S, Ensminger SM, Robinson PN, Karck M, Müller OJ, Hecker M, Wagner AH, Kallenbach K
@@ -1202,7 +1209,7 @@ title: AP-1 Oligodeoxynucleotides Reduce Aortic Elastolysis in a Murine Model of
 journal: Mol Ther Nucleic Acids
 volume: 9
 pages: 69-79
-top: false
+
 
 -pmid: 29214566
 authors:  Baynam G, Bowman F, Lister K, Walker CE, Pachter N, Goldblatt J, Boycott KM,
@@ -1219,7 +1226,7 @@ title: Improved Diagnosis and Care for Rare Diseases through Implementation of P
 journal: Adv Exp Med Biol
 volume: 1031
 pages: 55-94
-top: false
+
 
 -pmid: 29025394
 authors: Notaro M, Schubach M, Robinson PN, Valentini G
@@ -1228,7 +1235,7 @@ title: Prediction of Human Phenotype Ontology terms by means of hierarchical ens
 journal: BMC Bioinformatics
 volume: 18
 pages: 449
-top: false
+
 
 -pmid: 28931008
 authors: Gehle P, Goergen B, Pilger D, Ruokonen P, Robinson PN, Salchow DJ
@@ -1237,7 +1244,7 @@ title: Biometric and structural ocular manifestations of Marfan syndrome
 journal: PLoS One
 volume: 12
 pages: e0183370
-top: false
+
 
 -pmid: 28735859
 authors:  Zepeda-Mendoza CJ, Ibn-Salem J, Kammin T, Harris DJ, Rita D, Gripp KW,
@@ -1249,7 +1256,7 @@ title: Computational Prediction of Position Effects of Apparently Balanced Human
 journal: Am J Hum Genet
 volume: 101
 pages: 206-217
-top: false
+
 
 -pmid: 28616536
 authors:  Gehle P, Robinson PN, Heinzel F, Edelmann F, Yigitbasi M, Berger F, Falk V, Pieske B, Wellnhofer E
@@ -1258,7 +1265,7 @@ title: NT-proBNP and diastolic left ventricular function in patients with Marfan
 journal: Int J Cardiol Heart Vasc
 volume: 12
 pages: 15-20
-top: false
+
 
 -pmid: 28603714
 authors: Gall T, Valkanas E, Bello C, Markello T, Adams C, Bone WP, Brandt AJ, Brazill
@@ -1273,7 +1280,7 @@ title: Defining Disease, Diagnosis, and Translational Medicine within a Homeosta
 journal: Front Med (Lausanne)
 volume: 4
 pages: 62
-top: false
+
 
 -pmid: 28592878
 authors: Schubach M, Re M, Robinson PN, Valentini G
@@ -1282,7 +1289,7 @@ title: Imbalance-Aware Machine Learning for Predicting Rare and Common Disease-A
 journal: Sci Rep
 volume: 7
 pages: 2959
-top: false
+
 
 -pmid: 28475856
 authors: Boycott KM, Rath A, Chong JX, Hartley T, Alkuraya FS, Baynam G, Brookes AJ,
@@ -1296,7 +1303,7 @@ title: International Cooperation to Enable the Diagnosis of All Rare Genetic Dis
 journal:  Am J Hum Genet
 volume: 100
 pages: 695-705
-top: false
+
 
 -pmid: 28425197
 authors: Robinson PN,
@@ -1305,7 +1312,7 @@ title: Once doesn't count: Phenotype-driven gene hunting in cohorts
 journal: Hum Mutat
 volume: 38
 pages: 469
-top: false
+
 
 -pmid: 28340351
 authors: Manolio TA, Fowler DM, Starita LM, Haendel MA, MacArthur DG, Biesecker LG,
@@ -1318,7 +1325,7 @@ title: Bedside Back to Bench: Building Bridges between Basic and Clinical Genomi
 journal: Cell
 volume: 169
 pages: 6-12
-top: false
+
 
 -pmid: 28293716
 authors: Köhler S, Robinson PN
@@ -1327,7 +1334,7 @@ title: Genetische Diagnostik seltener Erkrankungen. Integration von Phänotyp- u
 journal: Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz
 volume: 60
 pages: 542-549
-top: false
+
 
 -pmid: 28249667
 authors: Girdauskas E, Robinson PN, von Kodolitsch Y
@@ -1336,7 +1343,7 @@ title: Interpreting Phenotypic Features of Bicuspid Aortic Valve Disease: From S
 journal: Am J Med
 volume: 130
 pages: e315-e316
-top: false
+
 
 -pmid: 27899602
 authors: Köhler S, Vasilevsky NA, Engelstad M, Foster E, McMurry J, Aymé S, Baynam G,
@@ -1353,7 +1360,7 @@ title: The Human Phenotype Ontology in 2017
 journal: Nucleic Acids Res
 volume: 45
 pages: D865-D876
-top: false
+
 
 -pmid: 27899636
 authors: Mungall CJ, McMurry JA, Köhler S, Balhoff JP, Borromeo C, Brush M, Carbon S,
@@ -1374,7 +1381,7 @@ title: Nomenclature and definition in asymmetric regional body overgrowth
 journal: Am J Med Genet A
 volume: 173
 pages: 1735-1738
-top: false
+
 
 -pmid: 27924012
 authors: Penzkofer T, Jäger M, Figlerowicz M, Badge R, Mundlos S, Robinson PN, Zemojtel T
@@ -1383,7 +1390,7 @@ title: L1Base 2: more retrotransposition-active LINE-1s, more mammalian genomes.
 journal: Nucleic Acids Res
 volume: 45
 pages: D68-D73
-top: false
+
 
 -pmid: 27569544
 authors: Smedley D, Schubach M, Jacobsen JO, Köhler S, Zemojtel T, Spielmann M, Jäger
@@ -1403,7 +1410,7 @@ title: Q-nexus: a comprehensive and efficient analysis pipeline designed for ChI
 journal: BMC Genomics
 volume: 17
 pages: 873
-top: false
+
 
 -pmid: 28103242
 authors: Jerkovic I, Ibrahim DM, Andrey G, Haas S, Hansen P, Janetzki C, González, Navarrete I, Robinson PN, Hecht J, Mundlos S
@@ -1413,7 +1420,7 @@ title: Genome-Wide Binding of Posterior
 journal: PLoS Genet
 volume: 13
 pages: e1006567
-top: false
+
 
 -pmid: 27964746
 authors: Jäger M, Schubach M, Zemojtel T, Reinert K, Church DM, Robinson PN
@@ -1431,7 +1438,7 @@ title: A likelihood	ratio-based method to predict exact pedigrees for complex fa
 journal: Bioinformatics
 volume: 33
 pages: 72-78
-top: false
+
 
 -pmid: 27535618
 authors: Lloyd KC, Robinson PN, MacRae CA
@@ -1440,7 +1447,7 @@ title: Animal-based studies will be essential for precision medicine
 journal: Sci Transl Med
 volume: 8
 pages: 352ed12
-top: false
+
 
 -pmid: 27516611
 authors: McMurry JA, Köhler S, Washington NL, Balhoff JP, Borromeo C, Brush M, Carbon
@@ -1453,7 +1460,7 @@ Frontier: The Monarch Initiative.
 journal: Genetics
 volume: 203
 pages: 1491-1495
-top: false
+
 
 -pmid: 27120253
 authors: Knaus A, Awaya T, Helbig I, Afawi Z, Pendziwiat M, Abu-Rachma J, Thompson MD,
@@ -1473,7 +1480,7 @@ title: A systematic, large-scale comparison of transcription factor binding site
 journal: BMC Genomics
 volume: 17
 pages: 388
-top: false
+
 
 -pmid: 27179278
 authors: Olech EM, Zemojtel T, Sowi\'{n}ska-Seidler A, Mundlos S, Robinson PN, Karczewski M, Jamsheer A
@@ -1483,7 +1490,7 @@ title: Identification of a molecular defect in a stillborn fetus with perinatal 
 journal: Pol J Pathol
 volume: 67
 pages: 78-83
-top: false
+
 
 -pmid: 27069939
 authors: von Kodolitsch Y, Bernhardt AM, Robinson PN, Kölbel T, Reichenspurner H, Debus
@@ -1493,7 +1500,7 @@ title: Analysis of Strengths, Weaknesses, Opportunities, and Threats as a Tool f
 journal: Aorta (Stamford)
 volume: 3
 pages: 98-107
-top: false
+
 
 -pmid: 27604469
 authors: Jiang Y, Oron TR, Clark WT, Bankapur AR, D'Andrea D, Lepore R, Funk CS,
@@ -1523,7 +1530,7 @@ title: An expanded evaluation of protein function prediction methods shows an im
 journal: Genome Biol
 volume: 17
 pages: 184
-top: false
+
 
 -pmid: 26594346
 authors: Rajab A, Hamza N, Al Harasi S, Al Lawati F, Gibbons U, Al Alawi I, Kobus K, Hassan S, Mahir G, Al Salmi Q, Mons B, Robinson P
@@ -1532,7 +1539,7 @@ title: Repository of mutations from Oman: The entry point to a national mutation
 journal: F1000Res
 volume: 4
 pages: 891
-top: false
+
 
 -pmid: 26860060
 authors: Passarge E, Robinson PN, Graul-Neumann LM
@@ -1541,7 +1548,7 @@ title: Marfanoid-progeroid-lipodystrophy syndrome: a newly recognized fibrillino
 journal: Eur J Hum Genet
 volume: 24
 pages: 1244-1247
-top: false
+
 
 -pmid: 26840980
 authors: Seppelt PC, Schwill S, Weymann A, Arif R, Weber A, Zaradzki M, Richter K, Ensminger S, Robinson PN, Wagner AH, Karck M, Kallenbach K
@@ -1551,7 +1558,7 @@ title: Loss of Endothelial Barrier in Marfan Mice (mgR/mgR) Results in Severe In
 journal: PLoS One
 volume: 11
 pages: e0148012
-top: false
+
 
 -pmid: 26562225
 authors: Bone WP, Washington NL, Buske OJ, Adams DR, Davis J, Draper D, Flynn ED,
@@ -1565,7 +1572,7 @@ title: Computational evaluation of exome sequence data using human and model org
 journal: Genet Med
 volume: 18
 pages: 608-617
-top: false
+
 
 -pmid: 26553330
 authors: Brookes AJ, Robinson PN
@@ -1588,7 +1595,7 @@ title: Recurrent De Novo Mutations Affecting Residue Arg138 of Pyrroline-5-Carbo
 journal: Am J Hum Genet
 volume: 97
 pages: 483-492
-top: false
+
 
 -pmid: 26547235
 authors: Corpas M, Valdivia-Granda W, Torres N, Greshake B, Coletta A, Knaus A,
@@ -1599,7 +1606,7 @@ title: Crowdsourced direct-to-consumer genomic analysis of a family quartet
 journal: BMC Genomics
 volume: 16
 pages: 910
-top: false
+
 
 -pmid: 26508578
 authors: Arslan-Kirchner M, Arbustini E, Boileau C, Charron P, Child AH, Collod-Beroud G, De Backer J, De Paepe A, Dierking A, Faivre L, Hoffjan S, Jondeau G, Keyser B, Loeys B, Mayer K, Robinson PN, Schmidtke J
@@ -1608,7 +1615,7 @@ title: Clinical utility gene card for:  Hereditary thoracic aortic aneurysm and 
 journal: Eur J Hum Genet
 volume: 24
 pages: 146-150
-top: false
+
 
 -pmid: 26507285
 authors: Collier N, Groza T, Smedley D, Robinson PN, Oellrich A, Rebholz-Schuhmann D
@@ -1617,7 +1624,7 @@ title: PhenoMiner: from text to a database of phenotypes associated with OMIM di
 journal: Database (Oxford)
 volume: 2015
 pages: pii: bav104
-top: false
+
 
 -pmid: 26420780
 authors: Oellrich A, Collier N, Groza T, Rebholz-Schuhmann D, Shah N, Bodenreider O, Boland MR, Georgiev I, Liu H, Livingston K, Luna A, Mallon AM, Manda P, Robinson PN, Rustici G, Simon M, Wang L, Winnenburg R, Dumontier M
@@ -1626,7 +1633,7 @@ title: The digital revolution in phenotyping
 journal: Brief Bioinform
 volume: 17
 pages: 819-830
-top: false
+
 
 -pmid: 26269093
 authors: Mungall CJ, Washington NL, Nguyen-Xuan J, Condit C, Smedley D, Köhler S, Groza T, Shefchek K, Hochheiser H, Robinson PN, Lewis SE, Haendel MA
@@ -1635,7 +1642,7 @@ title: Use of Model Organism and Disease Databases to Support Matchmaking for Hu
 journal: Hum Mutat
 volume: 36
 pages: 979-984
-top: false
+
 
 -pmid: 26295439
 authors: Philippakis AA, Azzariti DR, Beltran S, Brookes AJ, Brownstein CA, Brudno M,
@@ -1649,7 +1656,7 @@ title: The Matchmaker Exchange: A Platform for Rare Disease Gene Discovery
 journal: Hum Mutat
 volume: 36
 pages: 915-921
-top: false
+
 
 -pmid: 26195043
 authors: Goyal S, Jäger M, Robinson PN*, Vanita V*
@@ -1658,7 +1665,7 @@ title: Confirmation of TTC8 as a Disease Gene for Nonsyndromic Autosomal Recessi
 journal: Clin Genet
 volume: 89
 pages: 454-460
-top: false
+
 
 -pmid: 26251998
 authors: Buske OJ, Girdea M, Dumitriu S, Gallinger B, Hartley T,
@@ -1670,7 +1677,7 @@ title: PhenomeCentral: A Portal for Phenotypic and Genotypic Matchmaking of Pati
 journal: Hum Mutat
 volume: 36
 pages: 931-940
-top: false
+
 
 -pmid: 26249812
 authors: Zhu N, Heinrich V, Dickhaus T, Hecht J, Robinson PN, Mundlos S, Kamphans T, Krawitz PM
@@ -1679,7 +1686,7 @@ title: Strategies to improve the performance of rare variant association studies
 journal: Bioinformatics
 volume: 31
 pages: 3577-83
-top: false
+
 
 -pmid: 26239817
 authors: Krawitz P, Buske O, Zhu N, Brudno M,Robinson PN
@@ -1688,7 +1695,7 @@ title: The Genomic Birthday Paradox: How Much is Enough?
 journal: Hum Mutat
 volume: 36
 pages: 989-997
-top: false
+
 
 -pmid: 26163319
 authors: Hansen P, Hecht J, Ibrahim D, Krannich A, Truss M, Robinson PN
@@ -1708,7 +1715,7 @@ title: Perspectives on the revised Ghent criteria for the diagnosis of Marfan sy
 journal: Appl Clin Genet
 volume: 8
 pages: 137-155
-top: false
+
 
 -pmid: 26562621
 authors: Smedley D, Jacobsen JOB, Jäger M, Köhler S, Holtgrewe M, Schubach M, Siragusa E, Zemojtel T,  Buske O, Bone WP, Haendel MA, Robinson PN
@@ -1726,7 +1733,7 @@ title: Phenotype-Driven Strategies for Exome Prioritization of Human Mendelian D
 journal: Genome Medicine
 volume: 7
 pages: 81
-top: false
+
 
 -pmid: 26192085
 authors: Yang H, Robinson PN, Wang K
@@ -1735,7 +1742,7 @@ title: Phenolyzer: phenotype-based prioritization of candidate genes for human d
 journal: Nat Methods
 volume: 12
 pages: 841-843
-top: false
+
 
 -pmid: n/a
 authors: Robinson PN, Mungall CJ, Haendel MA
@@ -1744,7 +1751,7 @@ title: Capturing Phenotypes for Precision Medicine
 journal: Cold Spring Harbor Molecular Case Studies
 volume: 1
 pages: a000372
-top: false
+
 
 -pmid: 26092691
 authors: Haendel MA, Vasilevsky N, Brush M, Hochheiser HS, Jacobsen J, Oellrich A, Mungall CJ, Washington N, Köhler S, Lewis SE, Robinson PN, Smedley D
@@ -1753,7 +1760,7 @@ title: Disease insights through cross-species phenotype comparisons
 journal: Mamm Genome
 volume: 26
 pages: 548-555
-top: false
+
 
 -pmid: 26096994
 authors: Flöttmann R, Knaus A, Zemojtel T, Robinson PN, Mundlos S, Horn D, Spielmann M
@@ -1762,7 +1769,7 @@ title: FGFR2 mutation in a patient without typical features of Pfeiffer syndrome
 journal: Eur J Med Genet
 volume: 58
 pages: 376-380
-top: false
+
 
 -pmid: 26119816
 authors: Groza T, Köhler S, Moldenhauer D, Vasilevsky N, Baynam G, Zemojtel T, Schriml LM, Kibbe W,
@@ -1782,7 +1789,7 @@ title: IMSEQ - a fast and error aware approach to immunogenetic sequence analysi
 journal: Bioinformatics
 volume: 31
 pages: 2963-2971
-top: false
+
 
 -pmid: 26036857
 authors: Hehir-Kwa JY, Claustres M, Hastings RJ, van Ravenswaaij-Arts C, Christenhusz
@@ -1793,7 +1800,7 @@ title: Towards a European consensus for reporting incidental findings during cli
 journal: Eur J Hum Genet
 volume: 23
 pages: 1601-6
-top: false
+
 
 -pmid: 25949529
 authors: Westbury SK, Turro E, Greene D, Lentaigne C, Kelly AM, Bariana TK, Simeoni I,
@@ -1807,7 +1814,7 @@ title: Human phenotype ontology annotation and cluster analysis to unravel genet
 journal: Genome Med
 volume: 7
 pages: 36
-top: false
+
 
 -pmid: 25725061
 authors: Groza T, Köhler S, Doelken S, Collier N, Oellrich A, Smedley D, Couto FM,
@@ -1817,7 +1824,7 @@ title: Automatic concept recognition using the Human Phenotype Ontology referenc
 journal: Database (Oxford)
 volume: bav005
 pages: 1-13
-top: false
+
 
 -pmid: 25562316
 authors: Deans AR, Lewis SE, Huala E, Anzaldo SS, Ashburner M, Balhoff JP, Blackburn
@@ -1836,7 +1843,7 @@ title: Finding Our Way through Phenotypes
 journal: PLoS Biol
 volume: 13
 pages: e1002033
-top: false
+
 
 -pmid: 25546334
 authors: Kagawa T, Oka A, Kobayashi Y, Hiasa Y, Kitamura T, Sakugawa H, Adachi Y, Anzai
@@ -1847,7 +1854,7 @@ title: Recessive inheritance of population-specific intronic LINE-1 insertion ca
 journal: Hum Mutat
 volume: 36
 pages: 327-332
-top: false
+
 
 -pmid: 25446311
 authors: von Kodolitsch Y, Blankart CR, Vogler M, Kallenbach K, Robinson PN
@@ -1856,7 +1863,7 @@ title: Genetik und Prävention am Beispiel genetischer Aortensyndrome (GAS) und 
 journal: Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz
 volume: 58
 pages: 146-53
-top: false
+
 
 -pmid: 25491897
 authors: Sheikhzadeh S, De Backer J, Gorgan N, Rybczynski M, Hillebrand M, Schüler H,
@@ -1867,7 +1874,7 @@ title: The main pulmonary artery in adults: a controlled multicenter study with 
 journal: Orphanet J Rare Dis
 volume: 9
 pages: 203
-top: false
+
 
 -pmid: 25407900
 authors: Grünhagen J, Bhushan R, Degenkolbe E, Jäger M, Knaus P, Mundlos S, Robinson PN, Ott CE
@@ -1876,7 +1883,7 @@ title: MiR-497~195 cluster microRNAs regulate osteoblast differentiation by targ
 journal: J Bone Miner Res
 volume: 30
 pages: N796-808
-top: false
+
 
 -pmid: 25375121
 authors: Mensah MA, Hestand MS, Larmuseau MH, Isrie M, Vanderheyden N, Declercq M,
@@ -1887,7 +1894,7 @@ title: Pseudoautosomal region 1 length polymorphism in the human population
 journal: PLoS Genet
 volume: 10
 pages: e1004578
-top: false
+
 
 -pmid: 25333064
 authors: Krawitz PM, Schiska D, Krüger U, Appelt S, Heinrich V, Parkhomchuk D,
@@ -1897,7 +1904,7 @@ title: Screening for single nucleotide variants, small indels and exon deletions
 journal: Mol Genet Genomic Med
 volume: 2
 pages: 393-401
-top: false
+
 
 -pmid: 25293717
 authors: Emmerich D, Zemojtel T, Hecht J, Krawitz P, Spielmann M, Kühnisch J, Kobus K,
@@ -1908,7 +1915,7 @@ title: Somatic neurofibromatosis type 1 (NF1) inactivation events in cutaneous n
 journal: Eur J Hum Genet
 volume: 23
 pages: 870-873
-top: false
+
 
 -pmid: 25331754
 authors: Ehmke N, Parvaneh N, Krawitz P, Ashrafi MR, Karimi P, Mehdizadeh M, Krüger U, Hecht J, Mundlos S, Robinson PN
@@ -1917,7 +1924,7 @@ title: First description of a patient with Vici syndrome due to a mutation affec
 journal: Am J Med Genet
 volume: 164A
 pages: 3170-5
-top: false
+
 
 -pmid: 25280750
 authors: Köhler S, Schoeneberg U, Czeschik JC, Doelken SC, Hehir-Kwa JY, Ibn-Salem J, Mungall CJ, Smedley D, Haendel MA, Robinson PN
@@ -1926,7 +1933,7 @@ title: Clinical interpretation of CNVs with cross-species phenotype data
 journal: J Med Genet
 volume: 51
 pages: 766-772
-top: false
+
 
 -pmid: 25473437
 authors: Robinson PN
@@ -1935,7 +1942,7 @@ title: Genomic data sharing for translational research and diagnostics
 journal: Genome Medicine
 volume: 6
 pages: 78
-top: false
+
 
 -pmid: 25315429
 authors: Ibn-Salem J, Köhler S, Love MI, Chung HR, Huang N, Hurles ME, Haendel M,
@@ -1956,7 +1963,7 @@ title: Phenotyping: Targeting genotype's rich cousin for diagnosis
 journal: J Paediatr Child Health
 volume: 51
 pages: 381-386
-top: false
+
 
 -pmid: 25186178
 authors: Zemojtel T, Köhler S, Mackenroth L, Jäger M, Hecht J, Krawitz P, Graul-Neumann
@@ -1979,7 +1986,7 @@ title: Total Serum Transforming Growth Factor-$\beta$1 Is Elevated in the Entire
 journal: Clin Cardiol
 volume: 37
 pages: 672-679
-top: false
+
 
 -pmid: 25093073
 authors: Oellrich A, Koehler S, Washington N; Sanger Mouse Genetic Project, Mungall C,
@@ -1989,7 +1996,7 @@ title: The influence of disease categories on gene candidate predictions from mo
 journal: J Biomed Semantics
 volume: 5(Suppl 1 Proceedings of the Bio-Ontologies Spec Interest G)
 pages: S4
-top: false
+
 
 -pmid: 25078397
 authors: Smedley D, Köhler S, Czeschik JC, Amberger J,
@@ -1999,7 +2006,7 @@ title: Walking the interactome for candidate prioritization in exome sequencing 
 journal: Bioinformatics
 volume: 30
 pages: 3215-3222
-top: false
+
 
 -pmid: 25064449
 authors: Vanita V, Guo G, Singh D, Ott CE, Robinson PN
@@ -2008,7 +2015,7 @@ title: Differential effect of cataract-associated mutations in MAF on transactiv
 journal: Mol Cell Biochem
 volume: 396
 pages: 137-145
-top: false
+
 
 -pmid: 25047600
 authors: Masino AJ, Dechene ET, Dulik MC, Wilkens A, Spinner NB, Krantz ID, Pennington
@@ -2018,7 +2025,7 @@ title: Clinical phenotype-based gene prioritization: an initial study using sema
 journal: BMC Bioinformatics
 volume: 15
 pages: 248
-top: false
+
 
 -pmid: 25029978
 authors: Thompson R, Johnston L, Taruscio D, Monaco L,
@@ -2029,7 +2036,7 @@ title: RD-Connect: An Integrated Platform Connecting Databases, Registries, Biob
 journal: J Gen Intern Med
 volume: 29 Suppl 3
 pages: 780-789
-top: false
+
 
 -pmid: 24916641
 authors: Kolanczyk M, Krawitz P, Hecht J, Hupalowska A, Miaczynska M, Marschner K,
@@ -2040,7 +2047,7 @@ title: Missense variant in CCDC22 causes X-linked recessive intellectual disabil
 journal: Eur J Med Genet
 volume: 23
 pages: 720
-top: false
+
 
 -pmid: 24613577
 authors: Jacquinet A, Verloes A, Callewaert B, Coremans C, Coucke P, de Paepe A, Kornak
@@ -2051,7 +2058,7 @@ title:  Neonatal progeroid variant of Marfan syndrome with congenital lipodystro
 journal: Eur J Med Genet
 volume: 57
 pages: 230-234
-top: false
+
 
 -pmid: 24677618
 authors: Jäger M, Wang K, Bauer S, Smedley D, Krawitz P, Robinson PN
@@ -2060,7 +2067,7 @@ title: Jannovar: A Java Library for Exome Annotation.
 journal: Hum Mutat
 volume: 35
 pages: 548-555
-top: false
+
 
 -pmid: 24699242
 authors: Robinson PN, Webber C
@@ -2069,7 +2076,7 @@ title: Phenotype Ontologies and Cross-Species Analysis for Translational Researc
 journal: PLoS Genet
 volume: 10
 pages: e1004268
-top: false
+
 
 -pmid: 24706454
 authors: Jamsheer A, Smigiel R, Jakubiak A, Zemojtel T, Socha M, Robinson PN, Mundlos S
@@ -2078,7 +2085,7 @@ title: Further evidence for FGF16 truncating mutations as the cause of X-linked 
 journal: Birth Defects Res A Clin Mol Teratol
 volume: 100
 pages: 314-318
-top: false
+
 
 -pmid: 24439110
 authors: Howard MF, Murakami Y, Pagnamenta AT, Daumer-Haas C, Fischer B, Hecht J, Keays
@@ -2089,7 +2096,7 @@ title: Mutations in PGAP3 Impair GPI-Anchor Maturation, Causing a Subtype of Hyp
 journal: Am J Hum Genet
 volume: 94
 pages: 278-287
-top: false
+
 
 -pmid: 24349050
 authors: Aydin A, Adsay BA, Sheikhzadeh S, Keyser B, Rybczynski M, Sondermann C, Detter
@@ -2100,7 +2107,7 @@ title: Observational Cohort Study of Ventricular Arrhythmia in Adults with Marfa
 journal: PLoS One
 volume: 8
 pages: e81281
-top: false
+
 
 -pmid: 23660285
 authors: Smedley D, Oellrich A, Köhler S, Ruef B; Sanger Mouse Genetics Project,
@@ -2110,7 +2117,7 @@ title: PhenoDigm: analyzing curated annotations to associate animal models with 
 journal: Database (Oxford)
 volume: bat025
 pages: doi:10.1093/database/bat025
-top: false
+
 
 -pmid: 24358873
 authors: Köhler S, Doelken SC, Ruef BJ, Bauer S, Washington N, Westerfield M, Gkoutos
@@ -2120,7 +2127,7 @@ title: Construction and accessibility of a cross-species phenotype ontology alon
 journal: F1000Res
 volume: 2
 pages: 30
-top: false
+
 
 -pmid: 26798667
 authors: Guo G, Ott CE, Grünhagen J, Muñoz-Garc\'{i}a B, Pletschacher A, Kallenbach K, von Kodolitsch Y, Robinson PN
@@ -2129,7 +2136,7 @@ title: Indomethacin Prevents the Progression of Thoracic Aortic Aneurysm in Marf
 journal: Aorta (Stamford)
 volume: 1
 pages: 5-12
-top: false
+
 
 -pmid: 24227377
 authors: Robinson PN
@@ -2138,7 +2145,7 @@ title: A Systematic Large-scale Phenotypic Analysis of de novo and Inherited Cop
 journal: Hum Mutat
 volume: 34
 pages: 12
-top: false
+
 
 -pmid: 24217912
 authors: Köhler S*, Doelken SC, Mungall CJ, Bauer S, Firth HV,  Bailleul-Forestier I, Black GCM,
@@ -2152,7 +2159,7 @@ title: The Human Phenotype Ontology project: linking molecular biology and disea
 journal: Nucleic Acids Res
 volume: 42
 pages: D966-74
-top: false
+
 
 -pmid: 24162188
 authors: Robinson PN, Köhler S, Oellrich A, Sanger Mouse Genetics Project, Wang K, Mungall C, Lewis SE, Washington N,
@@ -2173,7 +2180,7 @@ title: Comprehensive analysis of dural ectasia in 150 patients with a causative 
 journal: Clin Genet
 volume: 86
 pages: 238-245
-top: false
+
 
 -pmid: 23995701
 authors: Ibrahim DM, Hansen P, Rödelsperger C, Stiege AC, Doelken SC, Horn D, Jäger M,
@@ -2184,7 +2191,7 @@ title: Distinct global shifts in genomic binding profiles of limb malformation-a
 journal: Genome Res
 volume: 23
 pages: 2091-102
-top: false
+
 
 -pmid: 24020931
 authors: Dziubianau M, Hecht J, Kuchenbecker L, Sattler A, Stervbo U, Rödelsperger C,
@@ -2194,7 +2201,7 @@ title: TCR Repertoire Analysis by Next Generation Sequencing Allows Complex Diff
 journal: Am J Transplant
 volume: 13
 pages: 2842-2854
-top: false
+
 
 -pmid: 24129430
 authors: Horn D, Wieczorek D, Metcalfe K, Bari\'{c} I, Pale\v{z}ac L, Cuk M, Petkovi\'{c} Ramad\v{z}a
@@ -2204,7 +2211,7 @@ title: Delineation of PIGV mutation spectrum and associated phenotypes in hyperp
 journal: Eur J Hum Genet
 volume: 22
 pages: 762-767
-top: false
+
 
 -pmid: 23940540
 authors:  Kamphans T, Sabri P, Zhu N, Heinrich V, Mundlos S, Robinson PN,  Parkhomchuk D, Krawitz PM
@@ -2213,7 +2220,7 @@ title: Filtering for compound heterozygous sequence variants in non-consanguineo
 journal: PLoS One
 volume: 8
 pages: e70151
-top: false
+
 
 -pmid: 23920735
 authors: Grosjean J, Merabti T, Soualmia LF, Letord C, Charlet J, Robinson PN, Darmoni SJ
@@ -2222,7 +2229,7 @@ title: Integrating the Human Phenotype Ontology into HeTOP Terminology-Ontology 
 journal: Stud Health Technol Inform
 volume: 192
 pages: 961
-top: false
+
 
 -pmid: 23902830
 authors: Heinrich V, Kamphans T, Stange J, Parkhomchuk D, Dickhaus T, Hecht J, Robinson PN, PN, Krawitz PM
@@ -2231,7 +2238,7 @@ title: Estimating Exome Genotyping Accuracy by Comparing to Data from Large Scal
 journal: Genome Med
 volume: 5
 pages: 69
-top: false
+
 
 -pmid: 23860323
 authors: Guo G, Rödelsperger C, Digweed M,, Robinson PN
@@ -2240,7 +2247,7 @@ title: Regulation of fibrillin-1 gene expression by Sp1
 journal: Gene
 volume: 527
 pages: 448-455
-top: false
+
 
 -pmid: 23733340
 authors: Krawitz PM, Höchsmann B, Murakami Y, Teubner B, Krüger U, Klopocki E, Neitzel
@@ -2251,7 +2258,7 @@ title: A case of paroxysmal nocturnal hemoglobinuria caused by a germline mutati
 journal: Blood
 volume: 122
 pages: 1312-1215
-top: false
+
 
 -pmid: 23561847
 authors: Krawitz PM, Murakami Y, Rie\ss{} A, Hietala M, Krüger U, Zhu N, Kinoshita T,
@@ -2261,7 +2268,7 @@ title: PGAP2 mutations, affecting the GPI-anchor-synthesis pathway, cause hyperp
 journal: Am J Hum Genet
 volume: 92
 pages: 584-589
-top: false
+
 
 -pmid: 23463027
 authors: Roncarati R, Viviani Anselmi C, Krawitz P, Lattanzi G, von Kodolitsch Y,
@@ -2272,7 +2279,7 @@ title: Doubly heterozygous LMNA and TTN mutations revealed by exome sequencing i
 journal: Eur J Hum Genet
 volume: 21
 pages: 1105-1111
-top: false
+
 
 -pmid: 23440042
 authors: Kotlarz D, Zietara N, Uzel G, Weidemann T, Braun CJ, Diestelhorst J, Krawitz
@@ -2284,7 +2291,7 @@ title: Loss-of-function mutations in the IL-21 receptor gene cause a primary imm
 journal: J Exp Med
 volume: 210
 pages: 433-443
-top: false
+
 
 -pmid: 23401191
 authors: Oetting WS, Robinson PN, Greenblatt MS, Cotton RG, Beck T, Carey JC, Doelken
@@ -2296,7 +2303,7 @@ title: Getting ready for the Human Phenome Project: the 2012 forum of the Human 
 journal: Hum Mutat
 volume: 34
 pages: 661-666
-top: false
+
 
 -pmid: 23294503
 authors: Schwill S, Seppelt P, Grünhagen J, Ott CE, Jugold M,
@@ -2306,7 +2313,7 @@ title: The fibrillin-1 hypomorphic mgR/mgR murine model of Marfan syndrome shows
 journal: J Vasc Surg
 volume: 57
 pages: 1628-1636
-top: false
+
 
 -pmid: 23262291
 authors: Bhushan R, Grünhagen J, Becker J, Robinson PN, Ott CE, Knaus P
@@ -2315,7 +2322,7 @@ title: miR-181a promotes osteoblastic differentiation through repression of TGF-
 journal: Int J Biochem Cell Biol
 volume: 45
 pages: 696-705
-top: false
+
 
 -pmid: 23176764
 authors:  Kühne K, Keyser B, Groene EF, Sheikhzadeh S, Detter C, Lorenzen V, Hillebrand
@@ -2326,7 +2333,7 @@ title: FBN1 gene mutation characteristics and clinical features for the predicti
 journal: Int J Cardiol
 volume: 168
 pages: 953-959
-top: false
+
 
 -pmid: 23104991
 authors: Doelken SC, Köhler S, Mungall CJ, Gkoutos GV, Ruef BJ, Smith C, Smedley D,
@@ -2336,7 +2343,7 @@ title: Phenotypic overlap in the contribution of individual genes to CNV pathoge
 journal: Dis Model Mech
 volume: 6
 pages: 358-372
-top: false
+
 
 -pmid: 23103230
 authors: Carmignac V, Thevenon J, Adès L, Callewaert B, Julia S, Thauvin-Robinet C,
@@ -2350,7 +2357,7 @@ title: In-frame mutations in exon 1 of SKI cause dominant Shprintzen-Goldberg sy
 journal: Am J Human Genet
 volume: 91
 pages: 950-957
-top: false
+
 
 -pmid: 23100322
 authors: Guo G, Muñoz-Garc\'{i}a B, Ott CE, Grünhagen J, Mousa SA, Pletschacher A, von
@@ -2369,7 +2376,7 @@ title: A novel 7 bp deletion in PRPF31 associated with autosomal dominant retini
 journal: Exp Eye Res
 volume: 104
 pages: 82-88
-top: false
+
 
 -pmid: 23022097
 authors: Spielmann M, Brancati F, Krawitz PM, Robinson PN, Ibrahim DM, Franke M, Hecht
@@ -2380,7 +2387,7 @@ title: Homeotic arm-to-leg transformation associated with genomic rearrangements
 journal: Am J Hum Genet
 volume: 91
 pages: 629-635
-top: false
+
 
 -pmid: 22843981
 authors: Bauer S, Köhler S, Schulz MH, Robinson PN
@@ -2389,7 +2396,7 @@ title: Bayesian Ontology Querying for Accurate and Noise-Tolerant Semantic Searc
 journal: Bioinformatics
 volume: 28
 pages: 2502-2508
-top: false
+
 
 -pmid: 22849591
 authors: Taboada M, Mart\'{i}nez D, Pilo B, Jiménez-Escrig A, Robinson PN, Sobrido MJ
@@ -2398,7 +2405,7 @@ title: Querying phenotype-genotype relationships on patient datasets using seman
 journal: BMC Med Inform Decis
 volume: 12
 pages: 78
-top: false
+
 
 -pmid: 22855649
 authors: Ghani-Kakhki M, Robinson PN, Morlot S, Mitter D, Trimborn M, Albrecht B, Varon R, Sperling K, Neitzel H
@@ -2407,7 +2414,7 @@ title: Two Missense Mutations in the Primary Autosomal Recessive Microcephaly Ge
 journal: Mol Syndromol
 volume: 3
 pages: 6-13
-top: false
+
 
 -pmid: 22734312
 authors:  Kiliç E, Alanay Y, Utine E, Ozgen-Mocan B, Robinson PN, Boduro\v{g}lu K
@@ -2416,7 +2423,7 @@ title: Arterial  tortuosity and aneurysm in a case of Loeys-Dietz syndrome type 
 journal: Turk J Pediatr
 volume: 54
 pages: 198-202
-top: false
+
 
 -pmid: 22683086
 authors: Krawitz PM, Murakami Y, Hecht J, Krüger U, Holder SE, Mortier GR, Delle Chiaie
@@ -2427,7 +2434,7 @@ title: Mutations in PIGO, a Member of the GPI-Anchor-Synthesis Pathway, Cause Hy
 journal: Am J Hum Genet
 volume: 91
 pages: 146-151
-top: false
+
 
 -pmid: 22573485
 authors: Köhler S, Doelken SC, Rath A, Aymé S, Robinson PN
@@ -2436,7 +2443,7 @@ title: Ontological phenotype standards for neurogenetics
 journal: Hum Mutat
 volume: 33
 pages: 1333-1339
-top: false
+
 
 -pmid: 22504886
 authors: Robinson PN
@@ -2445,7 +2452,7 @@ title: Deep phenotyping for precision medicine
 journal:
 volume: 33
 pages: 777-780
-top: false
+
 
 -pmid: 22331800
 authors: Chen CK, Mungall CJ, Gkoutos GV, Doelken SC, Köhler S, Ruef BJ, Smith C,
@@ -2455,7 +2462,7 @@ title: MouseFinder: candidate disease genes from mouse phenotype data
 journal: Hum Mutat
 volume: 33
 pages: 858-866
-top: false
+
 
 -pmid: 22315194
 authors: Thompson MD, Roscioli T, Marcelis C, Nezarati MM, Stolte-Dijkstra I, Sharom
@@ -2466,7 +2473,7 @@ title: Phenotypic variability in hyperphosphatasia with seizures and neurologic 
 journal: Am J Med Genet A.
 volume: 158A
 pages: 553-558
-top: false
+
 
 -pmid: 22301820
 authors: Sheikhzadeh S, Kusch ML, Rybczynski M, Kade C, Keyser B, Bernhardt AM,
@@ -2477,7 +2484,7 @@ title: A simple clinical model to estimate the probability of Marfan syndrome
 journal: QJM
 volume: 105
 pages: 527-535
-top: false
+
 
 -pmid: 22228761
 authors: Murakami Y, Kanzawa N, Saito K, Krawitz PM, Mundlos S, Robinson PN, Karadimitris A, Maeda Y, Kinoshita T
@@ -2486,7 +2493,7 @@ title: Mechanism for release of alkaline phosphatase caused by glycosylphosphati
 journal: J Biol Chem
 volume: 287
 pages: 6318-6325
-top: false
+
 
 -pmid: 22180825
 authors: Huang J, Mirel D, Pugh E, Xing C, Robinson PN, Pertsemlidis A, Ding L,
@@ -2496,7 +2503,7 @@ title: Minimum  Information about a Genotyping Experiment (MIGEN)
 journal: Stand Genomic Sci
 volume: 5
 pages: 224-229
-top: false
+
 
 -pmid: 22127862
 authors: Heinrich V, Stange J, Dickhaus T, Imkeller P, Krüger U, Bauer S, Mundlos S, Robinson PN, Hecht J, Krawitz PM
@@ -2505,7 +2512,7 @@ title: The allele distribution in next-generation sequencing data sets is accura
 journal: Nucleic Acids Res
 volume: 40
 pages: 2426-2431
-top: false
+
 
 -pmid: n/a
 authors: Robinson PN, Arslan-Kirchner M, Gehle P, Schmidtke J, von Kodolitsch Y*
@@ -2514,7 +2521,7 @@ title: Das Marfan-Syndrom und verwandte monogene Krankheiten der Aorta
 journal: medizinische genetik
 volume: 23
 pages: 407-420
-top: false
+
 
 -pmid: 21857152
 authors: Marchal JA, Ghani M, Schindler D, Gavvovidis I, Winkler T, Esquitino V,
@@ -2525,7 +2532,7 @@ title: Misregulation of mitotic chromosome segregation in a new type of autosoma
 journal: Cell Cycle
 volume: 10
 pages: 2967-2677
-top: false
+
 
 -pmid: 22078312
 authors: Schulz MH, Köhler S, Bauer S, Robinson PN
@@ -2534,7 +2541,7 @@ title: Exact Score Distribution Computation for Ontological Similarity Searches
 journal: BMC Bioinformatics
 volume: 12
 pages: 441
-top: false
+
 
 -pmid: 22032770
 authors: Köhler S, Bauer S, Mungall CJ, Carletti G, Smith CL, Schofield P, Gkoutos GV, Robinson PN
@@ -2543,7 +2550,7 @@ title: Improving ontologies by automatic reasoning and evaluation of logical def
 journal: BMC Bioinformatics
 volume: 12
 pages: 418
-top: false
+
 
 -pmid: 21883168
 authors: Sheikhzadeh S, Kade C, Keyser B, Stuhrmann M, Arslan-Kirchner M, Rybczynski M,
@@ -2554,7 +2561,7 @@ title: Analysis of phenotype and genotype information for the diagnosis of Marfa
 journal: Clin Genet
 volume: 82
 pages: 240-247
-top: false
+
 
 -pmid: 21802748
 authors: Aydin A, Desai N, Bernhardt AM, Treede H, Detter C, Sheikhzadeh S, Rybczynski
@@ -2565,7 +2572,7 @@ title: Ascending aortic aneurysm and aortic  valve dysfunction in bicuspid aorti
 journal: Int J Cardiol
 volume: 164
 pages: 301-305
-top: false
+
 
 -pmid: 21647416
 authors: Guo G,  Gehle P,  Doelken S,  Martin-Ventura JL,  von Kodolitsch Y, Hetzer R, Robinson PN
@@ -2574,7 +2581,7 @@ title: Induction of Macrophage Chemotaxis by Aortic Extracts from Patients with 
 journal: PLoS ONE
 volume: 6
 pages: e20138
-top: false
+
 
 -pmid: 21615730
 authors: Robinson PN, Krawitz P, Mundlos S
@@ -2583,7 +2590,7 @@ title: Strategies for Exome and Genome Sequence Data Analysis in Disease Gene Di
 journal: Clin Genet
 volume: 80
 pages: 127-132
-top: false
+
 
 -pmid: 21630033
 authors:  Haworth A, Bertram L, Carrera P, Elson JL, Braastad CD, Cox DW, Cruts M, den
@@ -2595,7 +2602,7 @@ title: Call for participation in the neurogenetics consortium within the Human V
 journal: Neurogenetics
 volume: 12
 pages: 169-173
-top: false
+
 
 -pmid: 21561920
 authors: Bauer S, Robinson PN, Gagneur J*
@@ -2604,7 +2611,7 @@ title: Model-based Gene Set Analysis for Bioconductor
 journal: Bioinformatics
 volume: 27
 pages: 1882-3
-top: false
+
 
 -pmid: 21478499
 authors:  Kossler N, Stricker S, Rödelsperger C, Robinson PN, Kim J, Dietrich C, Osswald M, Kühnisch J, Stevenson DA, Braun T, Mundlos S, Kolanczyk M
@@ -2613,7 +2620,7 @@ title: Neurofibromin (Nf1) is required for skeletal muscle development
 journal: Hum Mol Genet
 volume: 20
 pages: 2697-709
-top: false
+
 
 -pmid: 21211604
 authors: Rybczynski M, Treede H, Sheikhzadeh S, Groene EF, Bernhardt AM, Hillebrand M,
@@ -2624,7 +2631,7 @@ title: Predictors of outcome of mitral valve prolapse in patients with the Marfa
 journal: Am J Cardiol
 volume: 107
 pages: 268-274
-top: false
+
 
 -pmid: 21594993
 authors: Horn D, Robinson PN
@@ -2633,7 +2640,7 @@ title: Progeroid facial features and lipodystrophy associated with a novel splic
 journal: Am J Med Genet A
 volume: 155
 pages: 721-724
-top: false
+
 
 -pmid: 21435219
 authors: Jäger M, Ott CE, Grunhagen J, Hecht J, Schell H, Mundlos S, Duda GN, Robinson PN, Lienau J
@@ -2642,7 +2649,7 @@ title: Composite Transcriptome Assembly of RNA-seq data in a Sheep Model for Del
 journal: BMC Genomics
 volume: 12
 pages: 158
-top: false
+
 
 -pmid: 21295359
 authors: Aydin A, Mortensen K, Rybczynski M, Sheikhzadeh S, Willmann S, Bernhardt AM,
@@ -2653,7 +2660,7 @@ title: Central pulse pressure and augmentation index in asymptomatic bicuspid ao
 journal: Int J Cardiol
 volume: 147
 pages: 466-468
-top: false
+
 
 -pmid: 21278187
 authors: Rödelsperger C, Krawitz P, Bauer S,  Hecht J,   Bigham AW,  Bamshad M, Jonske de Condor B,
@@ -2663,7 +2670,7 @@ title: Identity-By-Descent Filtering of Exome Sequence data for Disease-Gene Ide
 journal: Bioinformatics
 volume: 27
 pages: 829-836
-top: false
+
 
 -pmid: 21305018
 authors: Ott CE, Grünhagen J, Jäger M, Horbelt D, Schwill S, Kallenbach K, Guo G, Manke T, Knaus P, Mundlos S, Robinson PN
@@ -2672,7 +2679,7 @@ title: MicroRNAs Differentially Expressed in Postnatal Aortic Development Downre
 journal: PLoS ONE
 volume: 6
 pages: e16250
-top: false
+
 
 -pmid: 20979188
 authors: Graul-Neumann LM, Kienitz T, Robinson PN, Baasanjav S, Karow B,
@@ -2682,7 +2689,7 @@ title: Marfan syndrome with neonatal progeroid syndrome-like lipodystrophy assoc
 journal: Am J Med Genet A
 volume: 152A
 pages: 2749-2755
-top: false
+
 
 -pmid: 20052753
 authors: Howard HJ, Horaitis O, Cotton RG, Vihinen M, Dalgleish R, Robinson P, Brookes AJ, Axton M, Hoffmann R, Tuffery-Giraud S
@@ -2691,7 +2698,7 @@ title: The Human Variome Project (HVP) 2009 Forum "Towards Establishing Standard
 journal: Hum Mutat
 volume: 31
 pages: 366-367
-top: false
+
 
 -pmid: 21520331
 authors: Lindblom A, Robinson PN
@@ -2700,7 +2707,7 @@ title: Bioinformatics for Human Genetics: Promises and Challenges
 journal: Hum Mutat
 volume: 32
 pages: 495-500
-top: false
+
 
 -pmid: 21172032
 authors: Robinson PN
@@ -2709,7 +2716,7 @@ title: Whole-exome sequencing for finding de novo mutations in sporadic mental r
 journal: Genome Biol
 volume: 11
 pages: 144
-top: false
+
 
 -pmid: 20854973
 authors: Rybczynski M, Mir TS, Sheikhzadeh S, Bernhardt AM, Schad C, Treede H, Veldhoen
@@ -2720,7 +2727,7 @@ title: Frequency and age-related course of mitral valve dysfunction in the Marfa
 journal: Am J Cardiol
 volume: 106
 pages: 1048-1053
-top: false
+
 
 -pmid: 21109530
 authors: Rödelsperger C, Guo G, Kolanzyk M, Pletschacher A, Köhler S, Bauer S, Schulz MH, Robinson PN
@@ -2729,7 +2736,7 @@ title: Integrative analysis of genomic, functional, and protein-interaction data
 journal: Nucleic Acids Res
 volume: 39
 pages: 2492-2502
-top: false
+
 
 -pmid: 21098638
 authors: Horbelt D, Guo G,  Robinson PN, Knaus P
@@ -2738,7 +2745,7 @@ title: Quantitative Analysis of TGFBR2 Mutations in Marfan Syndrome Related Diso
 journal: J Cell Sci
 volume: 123
 pages: 4340-4350
-top: false
+
 
 -pmid: 20709720
 authors:  Détaint D, Faivre L, Collod-Beroud G, Child AH, Loeys BL, Binquet C, Gautier
@@ -2750,7 +2757,7 @@ title: Cardiovascular manifestations in men and women carrying a FBN1 mutation
 journal: Eur Heart J
 volume: 31
 pages: 2223-2229
-top: false
+
 
 -pmid: 20662850
 authors: Sheikhzadeh S, Rybczynski M, Habermann CR, Bernhardt AM, Arslan-Kirchner M, Keyser B, Kaemmerer H, Mir TS, Staebler A, Oezdal N,  Robinson PN, Berger J, Meinertz T, von Kodolitsch Y
@@ -2759,7 +2766,7 @@ title: Dural ectasia in individuals with Marfan-like features but exclusion of m
 journal: Clin Genet
 volume: 79
 pages: 568-574
-top: false
+
 
 -pmid: 20802478
 authors: Krawitz PM, Schweiger MR, Rödelsperger C,  Marcelis C, Kölsch U, Meisel C, Stephani F, Kinoshita T, Murakami Y,
@@ -2780,7 +2787,7 @@ title: The Human Phenotype Ontology
 journal: Clin Genet
 volume: 77
 pages: 525-534
-top: false
+
 
 -pmid: n/a
 authors: Doelken SC, Köhler S, Bauer S, Krawitz P, Horn D, Mundlos S, Robinson PN
@@ -2789,7 +2796,7 @@ title: Neue Wege in der bioinformatischen Phänotypanalyse: Die Human Phenotype 
 journal: medizinische genetik
 volume: 22
 pages: 221-228
-top: false
+
 
 -pmid: 20538140
 authors: Rybczynski M, Koschyk D, Karmeier A, Gessler N, Sheikhzadeh S, Bernhardt AM, Habermann CR, Treede H, Berger J, Robinson PN, Meinertz T, von Kodolitsch Y
@@ -2798,7 +2805,7 @@ title: Frequency of sleep apnea in adults with the Marfan syndrome
 journal: Am J Cardiol
 volume: 105
 pages: 1836-1841
-top: false
+
 
 -pmid: 20395939
 authors: Mortensen K, Baulmann J, Rybczynski M, Sheikhzadeh S, Aydin MA, Treede H,
@@ -2809,7 +2816,7 @@ title: Augmentation index and the evolution of aortic disease in Marfan-like syn
 journal: Am J Hypertens
 volume: 23
 pages: 716-724
-top: false
+
 
 -pmid: 20186673
 authors: von Kodolitsch Y, Rybczynski M, Bernhardt A, Mir TS, Treede H, Dodge-Khatami A, Robinson PN, Sheikhzadeh S, Reichenspurner H, Meinertz T
@@ -2818,7 +2825,7 @@ title: Marfan syndrome and the evolving spectrum of heritable thoracic aortic di
 journal: VASA
 volume: 39
 pages: 17-32
-top: false
+
 
 -pmid: 20172960
 authors:  Bauer S, Gagneur J, Robinson PN
@@ -2836,7 +2843,7 @@ title: Microindel detection in short-read sequence data
 journal: Bioinformatics
 volume: 26
 pages: 722-729
-top: false
+
 
 -pmid: 19800049
 authors: Köhler S, Schulz MH, Krawitz P,  Bauer S, Dölken S,  Ott CE, Mundlos C, Horn D, Mundlos S, Robinson PN
@@ -2854,7 +2861,7 @@ title: Short ultraconserved promoter regions delineate a class of preferentially
 journal: Genomics
 volume: 94
 pages: 308-316
-top: false
+
 
 -pmid: n/a
 authors: Schulz MH, Köhler S, Bauer S, Vingron M, Robinson PN
@@ -2863,7 +2870,7 @@ title: Exact Score Distribution Computation for Similarity Searches in Ontologie
 journal: Springer Lecture Notes in Computer Science (Proceedings of the Workshop of Algorithmic Bioinformatics; WABI09)
 volume: 5724
 pages: 298-309
-top: false
+
 
 -pmid: 19964203
 authors: Gkoutos GV,  Mungall C,  Dölken S,  Ashburner M,  Lewis S,  Köhler S,  Robinson PN
@@ -2872,7 +2879,7 @@ title: Entity/Quality-Based Logical Definitions for the Human Skeletal Phenome u
 journal: IEEE Xplore (Proceedings of the 31st Engineering in Medicine and Biology IEEE conference)
 volume: 1
 pages: 7069-7072
-top: false
+
 
 -pmid: 19574960
 authors: Mortensen K, Aydin MA, Rybczynski M, Baulmann J, Abdul Schahidi N, Kean G,
@@ -2883,7 +2890,7 @@ title: Augmentation Index Relates to Progression of Aortic Disease in Adults Wit
 journal: Am J Hypertens
 volume: 22
 pages: 971-979
-top: false
+
 
 -pmid: 19353630
 authors: Faivre L, Collod-Beroud G, Callewaert B, Child A, Loeys BL, Binquet C, Gautier
@@ -2895,7 +2902,7 @@ title: Pathogenic FBN1 mutations in 146 adults not meeting clinical diagnostic c
 journal: Am J Med Genet A
 volume: 149A
 pages: 854-860
-top: false
+
 
 -pmid: 19461874
 authors: Türkmen S, Guo G, Garshasbi M, Hoffmann K, Alshalah A, Kuss A, Humphrey N, Mundlos S, Robinson PN
@@ -2904,7 +2911,7 @@ title: A CA8 mutation causes a novel syndrome characterized by ataxia and mild m
 journal: PLoS Genet
 volume: 5
 pages: e1000487
-top: false
+
 
 -pmid: 19257815
 authors: Ott CE, Bauer S, Manke T, Ahrens S, Rödelsperger C, Grünhagen J, Kornak U, Duda G, Mundlos S, Robinson PN
@@ -2913,7 +2920,7 @@ title: Promiscuous and Depolarization-Induced Immediate-Early Response Genes are
 journal: J Bone Miner Res
 volume: 24
 pages: 1247-1262
-top: false
+
 
 -pmid: 19002209
 authors: Faivre L, Collod-Béroud G, Callewaert B, Child A, Binquet C, Gautier E, Loeys
@@ -2926,7 +2933,7 @@ title: Clinical and mutation-type analysis from an international series of 198 p
 journal: Eur J Hum Genet
 volume: 17
 pages: 491-501
-top: false
+
 
 -pmid: 18950739
 authors: Robinson PN, Köhler S, Bauer S, Seelow D, Horn D, Mundlos S
@@ -2954,7 +2961,7 @@ title: The Generalized k-Truncated Suffix Tree for Time- and Space-Efficient Sea
 journal: Int J Bioinform Res Appl
 volume: 4
 pages: 81-95
-top: false
+
 
 -pmid: 18511468
 authors: Bauer S, Grossmann S, Vingron M,  Robinson PN
@@ -2963,7 +2970,7 @@ title: Ontologizer 2.0-a multifunctional tool for GO term enrichment analysis an
 journal: Bioinformatics
 volume: 24
 pages: 1650-1651
-top: false
+
 
 -pmid: 18310266
 authors: Faivre L, Collod-Béroud G, Loeys BL, Child A, Binquet C, Gautier E, Callewaert
@@ -2976,7 +2983,7 @@ title: Contribution of molecular analyses in diagnosing Marfan syndrome and type
 journal: J Med Genet
 volume: 45
 pages: 384-90
-top: false
+
 
 -pmid: 17996480
 authors: Guo G, Bauer S, Hecht J, Schulz MH, Busche A, Robinson PN
@@ -2985,7 +2992,7 @@ title: A short ultraconserved sequence drives transcription from an alternate FB
 journal: Int J Biochem Cell Biol
 volume: 40
 pages: 638-50
-top: false
+
 
 -pmid: 19117906
 authors:  Faivre L, Masurel-Paulet A, Collod-Béroud G, Callewaert BL, Child AH, Stheneur
@@ -2998,7 +3005,7 @@ title: Clinical and molecular study of 320 children with Marfan syndrome and rel
 journal: Pediatrics
 volume: 123
 pages: 391-398
-top: false
+
 
 -pmid: 19012347
 authors: Rybczynski M, Bernhardt AM, Rehder U, Fuisting B, Meiss L, Voss U, Habermann
@@ -3009,7 +3016,7 @@ title: The spectrum of syndromes and manifestations in individuals screened for 
 journal: Am J Med Genet A
 volume: 146A
 pages: 3157-3166
-top: false
+
 
 -pmid: 18079676
 authors:  Vanita V, Singh JR, Singh D, Varon R, Robinson PN, Sperling K
@@ -3018,7 +3025,7 @@ title: A recurrent FBN1 mutation in an autosomal dominant ectopia lentis family 
 journal: Mol Vis
 volume: 13
 pages: 2035-40
-top: false
+
 
 -pmid: 17701892
 authors: Faivre L, Collod-Beroud G, Loeys BL, Child A, Binquet C, Gautier E, Callewaert
@@ -3031,7 +3038,7 @@ title: Effect of mutation type and location on clinical outcome in 1,013 proband
 journal: Am J Hum Genet
 volume: 81
 pages: 454-466
-top: false
+
 
 -pmid: 17848398
 authors:  Grossmann S, Bauer S,  Robinson PN, Vingron M
@@ -3040,7 +3047,7 @@ title:  Improved detection of overrepresentation of Gene-Ontology annotations wi
 journal: Bioinformatics
 volume: 23
 pages: 3024-3031
-top: false
+
 
 -pmid: 17502658
 authors: von Kodolitsch Y, Robinson PN
@@ -3049,7 +3056,7 @@ title: Marfan syndrome: An update of Genetics, Medical and Surgical Management
 journal: Heart
 volume: 93
 pages: 755-760
-top: false
+
 
 -pmid: 17262773
 authors: Rybczynski M, Koschyk DH, Aydin MA,  Robinson PN, Brinken T, Franzen O, Berger J, Hofmann T, Meinertz T, von Kodolitsch Y
@@ -3058,7 +3065,7 @@ title: Tissue Doppler imaging identifies myocardial dysfunction in adults with M
 journal: Clin Cardiol
 volume: 30
 pages: 19-24
-top: false
+
 
 -pmid: 16829211
 authors:  Hecht J, Seitz V, Urban M, Wagner F,  Robinson PN,  Stiege A, Dieterich C, Kornak U, Wilkening U, Brieske N, Zwingman C, Kidess A, Stricker S, Mundlos S
@@ -3067,7 +3074,7 @@ title: Detection of novel skeletogenesis target genes by comprehensive analysis 
 journal: Gene Expr Patterns
 volume: 7
 pages: 102-112
-top: false
+
 
 -pmid: 16822315
 authors: Jochen Hecht, Heiner Kuhl, Stefan A Haas, Sebastian Bauer, Albert J Poustka, Jasmin Lienau, Hanna Schell, Asita C Stiege, Volkhard Seitz,
@@ -3077,7 +3084,7 @@ title: Gene identification and analysis of transcripts differentially regulated 
 journal: BMC Genomics
 volume: 7
 pages: 172
-top: false
+
 
 -pmid: 16826520
 authors:  Hoffmann K, Muller JS, Stricker S, Megarbane A, Rajab A, Lindner TH, Cohen M, Chouery E, Adaimy L, Ghanem I, Delague V, Boltshauser E, Talim B, Horvath R, Robinson PN, Lochmuller H, Hubner C, Mundlos S
@@ -3086,7 +3093,7 @@ title: Escobar Syndrome Is a Prenatal Myasthenia Caused by Disruption of the Ace
 journal: Am J Hum Genet
 volume: 79
 pages: 303-312
-top: false
+
 
 -pmid: 16819661
 authors: Ladewig MS, Robinson PN,  Neumann LM, Holz FG, Foerster MH
@@ -3095,7 +3102,7 @@ title: Okuläre Manifestationen und chirurgische Ergebnisse beim Marfan-Syndrom
 journal: Ophthalmologe
 volume: 103
 pages: 777-82
-top: false
+
 
 -pmid: 16571647
 authors:    Robinson PN,  Arteaga-Solis E, Baldock C, Collod-Beroud G, Booms P, De Paepe A,
@@ -3106,7 +3113,7 @@ title: The molecular genetics of Marfan syndrome and related disorders
 journal: J Med Genet
 volume: 43
 pages: 769-87
-top: false
+
 
 -pmid: 16705711
 authors: Wenzel K, Carl M, Perrot A, Zabojszcza J, Assadi M, Ebeling M, Geier C, Robinson PN,
@@ -3116,7 +3123,7 @@ title: Novel sequence variants in dysferlin-deficient muscular dystrophy leading
 journal: Hum Mutat
 volume: 27
 pages: 599-600
-top: false
+
 
 -pmid: 16528753
 authors: Klopocki E, Fiebig B,  Robinson P,  Tönnies H, Erdogan F, Ropers HH, Mundlos S, Ullmann R
@@ -3125,7 +3132,7 @@ title: A novel 8 Mb interstitial deletion of chromosome 8p12-p21.2
 journal: Am J Med Genet A
 volume: 140
 pages: 873-877
-top: false
+
 
 -pmid: 16470690
 authors: Vanita V, Singh D, Robinson PN, Sperling K, Singh JR
@@ -3134,7 +3141,7 @@ title: A novel mutation in the DNA-binding domain of MAF at 16q23.1 associated w
 journal: Am J Med Genet A
 volume: 140
 pages: 558-66
-top: false
+
 
 -pmid: n/a
 authors: Grossmann S, Bauer S,  Robinson PN, Vingron M
@@ -3143,7 +3150,7 @@ title: An Improved Statistic for Detecting Over-represented Gene Ontology Annota
 journal: Lecture Notes in Computer Science (Proceedings of RECOMB 2006)
 volume: 3909
 pages: 85-98
-top: false
+
 
 -pmid: 16442122
 authors:  Booms P, Ney A, Barthel F, Moroy G, Counsell D, Gille C, Guo G, Pregla R, Mundlos S, Alix AJP, Robinson PN
@@ -3152,7 +3159,7 @@ title: A Fibrillin-1-Fragment Containing the Elastin-Binding-Protein GxxPG Conse
 journal: J Mol Cell Cardiol
 volume: 40
 pages: 234-246
-top: false
+
 
 -pmid: 17030689
 authors: Guo G, Booms P, Halushka M, Dietz HC, Ney A, Stricker S, Hecht J, Mundlos S, Robinson PN
@@ -3170,7 +3177,7 @@ title: HotSwap for Bioinformatics: A STRAP Tutorial
 journal: BMC Bioinformatics
 volume: 7
 pages: 64
-top: false
+
 
 -pmid: 16796554
 authors: Beattie BJ, Robinson PN
@@ -3179,7 +3186,7 @@ title: Binary State Pattern Clustering: A Digital Paradigm for Class and Biomark
 journal: J Comput Biol
 volume: 13
 pages: 1114-1130
-top: false
+
 
 -pmid: 16159712
 authors: Andreas Ney, Patrick Booms, Guido Epple, Matthias Mörgelin,
@@ -3189,7 +3196,7 @@ title: Calcium-dependent self-association of the C-type lectin domain of versica
 journal: Int J Biochem Cell Biol
 volume: 38
 pages: 23-29
-top: false
+
 
 -pmid: n/a
 authors:  Robinson PN, Neumann LM, Tinschert S
@@ -3198,7 +3205,7 @@ title: Response to Kosaki et al. Molecular pathology of Shprintzen-Goldberg synd
 journal: Am J Med Genet A
 volume: 140A
 pages: 109-110
-top: false
+
 
 -pmid: 15884042
 authors: Robinson PN, Neumann LM, Demuth S, Enders H, Jung U, König R, Mitulla B, Müller D, Muschke P, Pfeiffer L, Prager B, Somer M, Tinschert S
@@ -3207,7 +3214,7 @@ title: Shprintzen-Goldberg syndrome: Fourteen new patients and a clinical analys
 journal: Am J Med Genet A
 volume: 135
 pages: 251-62
-top: false
+
 
 -pmid: 15517394
 authors: Booms P, Pregla R, Ney A, Barthel F, Reinhardt DP, Pletschacher A, Mundlos S, Robinson PN
@@ -3216,7 +3223,7 @@ title: RGD-containing fibrillin-1 fragments upregulate matrix metalloproteinase 
 journal: Hum Genet
 volume: 116
 pages: 51-61
-top: false
+
 
 -pmid: 15333588
 authors: Albrecht AN, Kornak U, Boddrich A, Suring K, Robinson PN, Stiege AC, Lurz R, Stricker S, Wanker EE, Mundlos S
@@ -3225,7 +3232,7 @@ title:  A molecular pathogenesis for transcription factor associated poly-alanin
 journal: Hum Mol Genet
 volume: 13
 pages: 2351-2359
-top: false
+
 
 -pmid: 15254011
 authors: Robinson PN, Böhme U, Lopez R, Mundlos S, Nürnberg P
@@ -3234,7 +3241,7 @@ title: Gene-Ontology analysis reveals association of tissue-specific 5' CpG-isla
 journal: Hum Mol Genet
 volume: 13
 pages: 1969-78
-top: false
+
 
 -pmid: 14764576
 authors: Robinson PN,  Wollstein A, Böhme U, Beattie B
@@ -3243,7 +3250,7 @@ title: Ontologizing gene-expression microarray data: characterizing clusters wit
 journal: Bioinformatics
 volume: 20
 pages: 979-81
-top: false
+
 
 -pmid: 12938084
 authors: Collod-Beroud G, Le Bourdelles S, Ades L, Ala-Kokko L, Booms P, Boxer M, Child A,
@@ -3255,7 +3262,7 @@ title: Update of the UMD-FBN1 mutation database and creation of an FBN1 polymorp
 journal: Hum Mutat
 volume: 22
 pages: 199-208
-top: false
+
 
 -pmid: 12203987
 authors: Robinson PN, Booms P, Katzke S, Ladewig M, Neumann L, Palz M, Pregla R, Tiecke F Tiecke F, Rosenberg T
@@ -3264,7 +3271,7 @@ title: FBN1 Mutations and Genotype-Phenotype Correlations in Marfan Syndrome and
 journal: Hum Mutat
 volume: 20
 pages: 153-161
-top: false
+
 
 -pmid: 12203992
 authors: Katzke S, Booms P, Tiecke F, Palz M, Pletschacher A, Türkmen S, Neumann L, Pregla R, Leitner C, Schramm C, Lorenz P, Hagemeier C, Fuchs J, Skovby F, Rosenberg T, Robinson PN
@@ -3273,7 +3280,7 @@ title: TGGE Screening of the Entire *FBN1*  Coding Sequence in 126 Individuals w
 journal: Hum Mutat
 volume: 20
 pages: 197-208
-top: false
+
 
 -pmid: 11706995
 authors: Robinson PN, Booms P
@@ -3282,7 +3289,7 @@ title: The molecular pathogenesis of Marfan syndrome
 journal: Cell Mol Life Sci
 volume: 8
 pages: 1698-1707
-top: false
+
 
 -pmid: 11175294
 authors: Tiecke F, Katzke S, Booms P, Robinson PN, Neumann L, Godfrey M, Mathews KR, Scheuner M, Hinkel GK, Brenner RE, Hövels-Gürich HH, Hagemeier C, Fuchs J, Skovby F, Rosenberg T
@@ -3291,7 +3298,7 @@ title: Classic, atypically severe and neonatal Marfan syndrome: 12 Novel Mutatio
 journal: Eur J Hum Genet
 volume: 9
 pages: 13-21
-top: false
+
 
 -pmid: 10633129
 authors: Robinson PN,Godfrey M
@@ -3300,7 +3307,7 @@ title: The Molecular Genetics of the Marfan Syndrome and Related Microfibrillopa
 journal: J Med Genet
 volume: 37
 pages: 7-25
-top: false
+
 
 -pmid: 11071382
 authors: Booms P, Tiecke F, Rosenberg T, Hagemeier C, Robinson PN
@@ -3309,7 +3316,7 @@ title: Differential effect of*FBN1* mutations on in  vitro proteolysis of recomb
 journal: Hum Genet
 volume: 107
 pages: 216-224
-top: false
+
 
 -pmid: 10756346
 authors: Palz M, Tiecke F, Booms P, Göldner B, Rosenberg T, Fuchs J, Skovby F, Schumacher H, Kaufmann UC, von Kodolitsch Y, Nienaber CA, Vetter B, Hagemeier C, Robinson PN
@@ -3318,7 +3325,7 @@ title: Clustering of Mutations Associated with Mild Marfan-like Phenotypes in th
 journal: Am J Med Genet
 volume: 91
 pages:  212-221
-top: false
+
 
 -pmid: 10189088
 authors: Booms P, Cisler J, Mathews KR, Godfrey M, Tiecke F, Kaufmann UC, Vetter U, Hagemeier C,  Robinson PN
@@ -3327,7 +3334,7 @@ title: Novel exon skipping mutation in the fibrillin-1 gene: two 'hot spots' for
 journal: Clin Genet
 volume: 55
 pages:  110-117
-top: false
+
 
 -pmid: 9694279
 authors:  Gille C, Gille A, Booms P, Robinson PN, Nürnberg P
@@ -3336,7 +3343,7 @@ title: Bipolar clamping improves the sensitivity of mutation detection by temper
 journal: Electrophoresis
 volume: 19
 pages: 1347-1350
-top: false
+
 
 -pmid: 9544853
 authors: Klose A, Robinson PN, Gewies A, Kluwe L, Kaufmann D, Buske A, Tinschert S, Peters H
@@ -3345,7 +3352,7 @@ title: Two novel mutations in exons 19a and 20 and a BsaL polymorphism in a newl
 journal: Hum Genet
 volume: 102
 pages: 367-371
-top: false
+
 
 -pmid: 9254848
 authors: Booms P, Withers AP, Boxer M, Kaufmann UC, Hagemeier C, Vetter U, Robinson PN
@@ -3354,7 +3361,7 @@ title:  A novel de novo mutation in exon 14 of the fibrillin-1 gene associated w
 journal: Hum Genet
 volume: 100
 pages: 195-200
-top: false
+
 
 -pmid: 9101303
 authors:  Boddrich A, Robinson PN, Schülke M, Buske A, Tinschert S, Nürnberg P
@@ -3363,7 +3370,7 @@ title: New evidence for a mutation hotspot in exon 37 of the NF1 gene
 journal: Hum Mutat
 volume: 9
 pages: 374-377
-top: false
+
 
 -pmid: 8957181
 authors:  Horn D, Robinson PN, Boddrich A, Buske A, Tinschert S, Nürnberg P
@@ -3372,7 +3379,7 @@ title: Three novel mutations of the NF1 gene detected by temperature gradient ge
 journal: Electrophoresis
 volume: 17
 pages: 1559-1563
-top: false
+
 
 -pmid: 8664912
 authors: Robinson PN, Buske A, Neumann R, Tinschert S, Nürnberg P
@@ -3381,7 +3388,7 @@ title: Recurrent 2-bp deletion in exon 10c of the NF1 gene in two cases of von R
 journal: Hum Mutat
 volume: 7
 pages: 85-88
-top: false
+
 
 -pmid: 7607663
 authors: Robinson PN, Boddrich A, Peters H, Tinschert S, Buske A, Kaufmann D, Nürnberg P
@@ -3390,7 +3397,7 @@ title: Two recurrent nonsense mutations and a 4 bp deletion in a quasi-symmetric
 journal: Hum Genet
 volume: 96
 pages: 95-98
-top: false
+
 
 -pmid: 8764471
 authors: Robinson PN, Heidrich B, Tiecke F, Fehrenbach FJ, Rolfs
@@ -3399,7 +3406,7 @@ title: A Species-specific detection of Legionella using polymerase chain reactio
 journal: FEMS Microbiol Lett
 volume: 140
 pages: 111-119
-top: false
+
 
 -pmid: n/a
 authors:  Tiecke F, Robinson PN, Steinhoff D, Fehrenbach FJ, Rolfs A
@@ -3408,7 +3415,7 @@ title: Automated direct sequencing of Legionella 5S rDNA
 journal: Med Microbiol Lett
 volume: 3
 pages: 279-290
-top: false
+
 
 -pmid: n/a
 authors:  Heidrich B, Robinson PN, Tiecke F, Steinhoff D, Fehrenbach FJ, Rolfs A
@@ -3417,5 +3424,5 @@ title: Genetische Verwandtschaft innerhalb des Genus Legionella. DNS Sequenzunte
 journal: Klinisches Labor
 volume: 40
 pages: 211-216
-top: false
+
 

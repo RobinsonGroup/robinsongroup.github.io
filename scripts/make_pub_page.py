@@ -53,7 +53,7 @@ our_team = [
 
 class Publication:
 
-    def __init__(self, pmid, authors, year, title, journal, volume, pages, top):
+    def __init__(self, pmid, authors, year, title, journal, volume, pages, top="false"):
         self._pmid = pmid
         self._authors = authors
         self._year = int(year)
@@ -89,7 +89,7 @@ class Publication:
         return self._top
 
 
-    def _prcess_authors(self, authors):
+    def _process_authors(self, authors):
         authors = re.sub("{\\\\\"{a}}", "ä", authors)
         authors = re.sub("{\\\\\"{o}}", "ö", authors)
         authors = re.sub("\\\\\"{o}", "ö", authors)
@@ -104,7 +104,7 @@ class Publication:
 
 
     def get_markdown(self):
-        authors = self._prcess_authors(self._authors)
+        authors = self._process_authors(self._authors)
         authors = authors.replace("{\\bf Robinson PN}", "Robinson PN")
         authors = authors.replace("{\\bf Robinson P}", "Robinson P")
         authors = authors.replace("{\\bf Robinson N}", "Robinson N")
@@ -144,10 +144,10 @@ previously_seen_pmids = set()
 
 inEntry = False
 with open(publication_file, 'r') as fh:
-    pmid, authors, year, title, journal, volume, pages,top = None, None, None, None, None, None, None, None
+    pmid, authors, year, title, journal, volume, pages,top = None, None, None, None, None, None, None, "false"
     for line in fh:
         if line.startswith("-pmid:"):
-            pmid, authors, year, title, journal, volume, pages, top = None, None, None, None, None, None, None, None
+            pmid, authors, year, title, journal, volume, pages, top = None, None, None, None, None, None, None, "false"
             pmid = get_item(line)
             if pmid in previously_seen_pmids and not "n/a" in pmid:
                 next_line = next(fh)
