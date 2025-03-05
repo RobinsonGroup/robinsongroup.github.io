@@ -1,5 +1,14 @@
 -- # Publications
 
+
+-pmid: 40011789
+authors: Cipriani V, Vestito L, Magavern EF, Jacobsen JOB, Arno G, Behr ER, Benson KA, Bertoli M, Bockenhauer D, Bowl MR, Burley K, Chan LF, Chinnery P, Conlon PJ, Costa MA, Davidson AE, Dawson SJ, Elhassan EAE, Flanagan SE, Futema M, Gale DP, García-Ruiz S, Corcia CG, Griffin HR, Hambleton S, Hicks AR, Houlden H, Houlston RS, Howles SA, Kleta R, Lekkerkerker I, Lin S, Liskova P, Mitchison HH, Morsy H, Mumford AD, Newman WG, Neatu R, O'Toole EA, Ong ACM, Pagnamenta AT, Rahman S, Rajan N, Robinson PN, Ryten M, Sadeghi-Alavijeh O, Sayer JA, Shovlin CL, Taylor JC, Teltsh O, Tomlinson I, Tucci A, Turnbull C, van Eerde AM, Ware JS, Watts LM, Webster AR, Westbury SK, Zheng SL, Caulfield M, Smedley D. 
+year: 2025
+title: Rare disease gene association discovery in the 100,000 Genomes Project. 
+journal: Nature 
+volume: 10.1038/s41586-025-08623-w. 
+pages: Epub ahead of print
+
 -pmid: 39922817
 authors Graefe ASL, Hübner MR, Rehburg F, Sander S, Klopfenstein SAI, Alkarkoukly S, Grönke A, Weyersberg A, Danis D, Zschüntzsch J, Nyoungui EF, Wiegand S, Kühnen P, Robinson PN, Beyan O, Thun S. 
 year: 2025
