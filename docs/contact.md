@@ -21,8 +21,8 @@ Peter Robinson
 
 ## Berlin Institute of Health
 
-The Robinson Lab is located at the Berlin Institute of Health (BIH) in the 
-Rahel Hirsch Center for Translational Medicine of the Charité in Berlin Mitte.
+The Robinson Lab is located in the fifth floor of the Berlin Institute of Health (BIH) in the 
+Rahel Hirsch Center for Translational Medicine of the Charité in Berlin Mitte (Luisenstraße 65, 10117 Berlin).
 
 
 
