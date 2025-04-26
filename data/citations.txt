@@ -1,6 +1,38 @@
 -- # Publications
 
 
+
+- pmid: 40235640
+authors: Nicolini M, Saitto E, Jimenez Franco RE, Cavalleri E, Galeano Alfonso AJ, Malchiodi D, Paccanaro A, Robinson PN, Casiraghi E, Valentini G. year: 2025
+title: Fine-tuning of conditional Transformers improves in silico enzyme prediction and generation. 
+journal: Comput Struct Biotechnol J
+volume: 27
+pages: 1318-1334
+
+- pmid: 40176701
+authors: Nematollahi S, Hamdy RC, van Bosse H, Li J, Blanshay-Goldberg D, de Vries JIP, Dieterich K, Filges I, Bedard T, Haendel M, Torres MM, Robinson PN, Dahan-Oliel N
+year: 2025
+title: Human Phenotype Ontology Annotations for Rare Congenital Conditions: Application to Arthrogryposis Multiplex Congenita
+journal: Am J Med Genet A. 2025 Apr 3:e64067. 
+volume: 10.1002/ajmg.a.64067
+pages: Epub ahead of print
+
+-pmid: 40121479
+authors: Bridges Y, Souza V, Cortes KG, Haendel M, Harris NL, Korn DR, Marinakis NM, Matentzoglu N, McLaughlin JA, Mungall CJ, Odell A, Osumi-Sutherland D, Robinson PN, Smedley D, Jacobsen JOB. 
+year: 2025
+title: Towards a standard benchmark for phenotype-driven variant and gene prioritisation algorithms: PhEval - Phenotypic inference Evaluation framework. 
+journal: BMC Bioinformatics
+volume: 26(1)
+pages: 87
+
+- pmid: 40048704
+authors: Matentzoglu N, Bello SM, Stefancsik R, Alghamdi SM, Anagnostopoulos AV, Balhoff JP, Balk MA, Bradford YM, Bridges Y, Callahan TJ, Caufield H, Cuzick A, Carmody LC, Caron AR, de Souza V, Engel SR, Fey P, Fisher M, Gehrke S, Grove C, Hansen P, Harris NL, Harris MA, Harris L, Ibrahim A, Jacobsen JOB, Köhler S, McMurry JA, Munoz-Fuentes V, Munoz-Torres MC, Parkinson H, Pendlington ZM, Pilgrim C, Robb SMC, Robinson PN, Seager J, Segerdell E, Smedley D, Sollis E, Toro S, Vasilevsky N, Wood V, Haendel MA, Mungall CJ, McLaughlin JA, Osumi-Sutherland D. 
+year: 2025
+title: The Unified Phenotype Ontology : a framework for cross-species integrative phenomics
+journal: Genetics
+volume:229(3)
+pages: iyaf027
+
 -pmid: 40011789
 authors: Cipriani V, Vestito L, Magavern EF, Jacobsen JOB, Arno G, Behr ER, Benson KA, Bertoli M, Bockenhauer D, Bowl MR, Burley K, Chan LF, Chinnery P, Conlon PJ, Costa MA, Davidson AE, Dawson SJ, Elhassan EAE, Flanagan SE, Futema M, Gale DP, García-Ruiz S, Corcia CG, Griffin HR, Hambleton S, Hicks AR, Houlden H, Houlston RS, Howles SA, Kleta R, Lekkerkerker I, Lin S, Liskova P, Mitchison HH, Morsy H, Mumford AD, Newman WG, Neatu R, O'Toole EA, Ong ACM, Pagnamenta AT, Rahman S, Rajan N, Robinson PN, Ryten M, Sadeghi-Alavijeh O, Sayer JA, Shovlin CL, Taylor JC, Teltsh O, Tomlinson I, Tucci A, Turnbull C, van Eerde AM, Ware JS, Watts LM, Webster AR, Westbury SK, Zheng SL, Caulfield M, Smedley D. 
 year: 2025
