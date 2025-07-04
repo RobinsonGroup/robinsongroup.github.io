@@ -47,7 +47,7 @@ Rare disease gene association discovery in the 100,000 Genomes Project.
  *Nature*, 2025; **10.1038/s41586-025-08623-w.**:Epub ahead of print [PMID:40011789](https://pubmed.ncbi.nlm.nih.gov/40011789/){:target="_blank"}
 3. Werren EA, Kalsner L, Ewald JM, Peracchio M, King C, Vats P, Audano PA, **Robinson PN**, Adams MD, Kelly MA, Matson AP  
 Phenotypic Expansion of Knobloch Syndrome Type 2 in an Individual With a De Novo PAK2 Variant.  
- *Am J Med Genet A*, 2025; **Epub ahead of print**:e64006 [PMID:39876536](https://pubmed.ncbi.nlm.nih.gov/39876536/){:target="_blank"}
+ *Am J Med Genet A*, 2025; **197(6)**:e64006 [PMID:39876536](https://pubmed.ncbi.nlm.nih.gov/39876536/){:target="_blank"}
 4. Guillod P, Savvas A, **Robinson PN**, Nai D, Naresh KN, Ott G, Schuh A, Sewell WA, Anderson M, Matentzoglu N, Durgavarjhula D, Xu ML, Druzdzel MJ, Astle JM  
 A Systematic Approach to Prioritise Diagnostically Useful Findings for Inclusion in Electronic Health Records as Discrete Data to Improve Clinical Artificial Intelligence Tools and Genomic Research.  
  *Clin Oncol (R Coll Radiol).*, 2025; **39**:103737 [PMID:39837110](https://pubmed.ncbi.nlm.nih.gov/39837110/){:target="_blank"}

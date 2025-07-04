@@ -1,11 +1,27 @@
 -- # Publications
 
 
+- pmid: 40414449
+authors: McInnis MG, Coleman B, Hurwitz E, Robinson PN, Williams AE, Haendel MA, McMurry JA
+title: Integrating Knowledge: The Power of Ontologies in Psychiatric Research and Clinical Informatics.
+journal: Biol Psychiatry
+year: 2025
+volume: Epub ahead of print
+pages: S0006-3223(25)01213-2
+
+- pmid: 40324016
+authors: Niyonkuru E, Gomez MS, Casarighi E, Antogiovanni S, Blau H, Reese JT, Valentini G, Robinson PN
+title: Replacing non-biomedical concepts improves embedding of biomedical concepts. 
+journal: PLoS One
+year: 2025 
+volume: 20(5)
+pages: e0322498
 
 - pmid: 40235640
-authors: Nicolini M, Saitto E, Jimenez Franco RE, Cavalleri E, Galeano Alfonso AJ, Malchiodi D, Paccanaro A, Robinson PN, Casiraghi E, Valentini G. year: 2025
+authors: Nicolini M, Saitto E, Jimenez Franco RE, Cavalleri E, Galeano Alfonso AJ, Malchiodi D, Paccanaro A, Robinson PN, Casiraghi E, Valentini G
 title: Fine-tuning of conditional Transformers improves in silico enzyme prediction and generation. 
 journal: Comput Struct Biotechnol J
+year: 2025
 volume: 27
 pages: 1318-1334
 
@@ -13,9 +29,9 @@ pages: 1318-1334
 authors: Nematollahi S, Hamdy RC, van Bosse H, Li J, Blanshay-Goldberg D, de Vries JIP, Dieterich K, Filges I, Bedard T, Haendel M, Torres MM, Robinson PN, Dahan-Oliel N
 year: 2025
 title: Human Phenotype Ontology Annotations for Rare Congenital Conditions: Application to Arthrogryposis Multiplex Congenita
-journal: Am J Med Genet A. 2025 Apr 3:e64067. 
-volume: 10.1002/ajmg.a.64067
-pages: Epub ahead of print
+journal: Am J Med Genet A
+volume: 197(8)
+pages: e64067
 
 -pmid: 40121479
 authors: Bridges Y, Souza V, Cortes KG, Haendel M, Harris NL, Korn DR, Marinakis NM, Matentzoglu N, McLaughlin JA, Mungall CJ, Odell A, Osumi-Sutherland D, Robinson PN, Smedley D, Jacobsen JOB. 
@@ -54,7 +70,7 @@ authors: Werren EA, Kalsner L, Ewald JM, Peracchio M, King C, Vats P, Audano PA,
 year: 2025
 title: Phenotypic Expansion of Knobloch Syndrome Type 2 in an Individual With a De Novo PAK2 Variant. 
 journal: Am J Med Genet A
-volume:  Epub ahead of print
+volume:  197(6)
 pages: e64006
 
 -pmid: 39837110

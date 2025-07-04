@@ -8,9 +8,7 @@ We are living in a time of unparalleled opportunity to extend our understanding 
 care of patients with precision genomic medicine. Sophisticated bioinformatics and computational biology are 
 essential to achieve the full potential of genomics for science as well as for patients. Peter Robinson, 
 Professor and Donald A. Roux Chair, Genomics and Computational Biology, leads a research group dedicated to the 
-development of algorithms and computational resources for genomics. Peter is a PI of the
-[Monarch Initiative](https://monarchinitiative.org), an NIH supported project dedicated to the integration, 
-alignment, and re-distribution of cross-species gene, genotype, variant, disease, and phenotype data. Highlights 
+development of algorithms and computational resources for genomics. Highlights 
 of the lab’s work include the [Human Phenotype Ontology](http://www.human-phenotype-ontology.org), 
 the [Exomiser](https://monarchinitiative.org/page/exomes) suite  of tools for exome and genome analysis, 
 and algorithms for ChIP-seq and immunogenomics. Peter studied Mathematics (Bachelor) at Columbia College, 
