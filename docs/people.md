@@ -178,7 +178,7 @@ Lauren Rekerle received her B.Sc. in Bioinformatics from Michigan Technological 
 ### Varenya Jain
 
 <figure markdown>
-![Lauren Rekerle](img/people/Varenya-Jain.jpg){ width="200" }
+![Varenya Jain](img/people/Varenya-Jain.jpg){ width="200" }
 <figcaption>Varenya Jain
 </figcaption>
 </figure>
