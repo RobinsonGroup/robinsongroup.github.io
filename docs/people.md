@@ -175,6 +175,16 @@ various other bioinformatics initiatives.
 </figure>
 Lauren Rekerle received her B.Sc. in Bioinformatics from Michigan Technological University (2017) and her M.Sc. in Computational Biology from the University of Minnesota (2019). During her time as a master’s student, she worked with the National Marrow Donor Program’s bioinformatics team. After she graduated, she spent over 2 years working for the Genomics Unit in the Mayo Clinic’s IT department. In spring of 2022, Lauren joined Peter Robinson’s lab as a bioinformatician. Since then, she has collected and analyzed data from predicted synthetic lethality interactions, designed and aided in the development of [GPSEA](https://github.com/monarch-initiative/gpsea), and used the software to find new genotype-phenotype correlations.
 
+### Varenya Jain
+
+<figure markdown>
+![Lauren Rekerle](img/people/Varenya-Jain.jpg){ width="200" }
+<figcaption>Varenya Jain
+</figcaption>
+</figure>
+Varenya Jain earned his B.Sc. in Integrative Biology with a minor in Computational Science and Engineering from the University of Illinois Urbana-Champaign in 2024. He started collaborating with the Peter Robinson in August 2024, where he joined the Anomalies Leadership team under the Fetal Sequencing Consortium at Columbia University and The Broad Institute at MIT to develop a genotype-phenotype database for rare diseases. His work involves training local Large Language Models to extract Human Phenotype Ontology terms from prenatal ultrasound data.
+
+Before joining the lab, Varenya studied Computational Phylogenetics, creating a low-coverage targeted assembly method for zebrafish whole-genome sequencing data, and worked as a contract bioinformatician where he used variant calling to integrate CNV detection into clinical interpretation workflows. His research background also spans Evolutionary Biology, Metabolomics, and High-Performance Computing.
 
 
 ### Alumni
