@@ -186,6 +186,15 @@ Varenya Jain earned his B.Sc. in Integrative Biology with a minor in Computation
 
 Previously, Varenya conducted research in computational phylogenetics, developing a novel method for assembling phylogenetic markers from low-coverage whole-genome sequence data using zebrafish. He also worked as a bioinformatician, integrating DRAGEN enrichment-based CNV detection into clinical variant interpretation workflows. His broader research background spans evolutionary biology, metabolomics, and high-performance computing.
 
+### Wiebke Hartung
+
+<figure markdown>
+![Wiebke Hartung](img/people/Wiebke-Hartung.jpg){ width="200" }
+<figcaption>Wiebke Hartung
+</figcaption>
+</figure>
+Wiebke is an experienced administrative and operations professional currently serving as Office Managerin at Charite - Universitatsmedizin Berlin, where she works in the research groups of Dr. Peter Robinson and Prof. Sylvia Thun. Before taking on this role, she was part of the Clinical Study Center (CSC) within the Berlin Institute of Health (BIH) at Charite, contributing to the Clinical Trial Unit (CTU) Site Management. In that capacity, she oversaw personnel planning and management for more than 100 staff members, coordinated budget planning and financial oversight, ensured compliance with regulations, and optimized administrative processes in support of clinical research. Hartung was also an elected member of the BIH staff council, representing employees' interests and advising on workplace matters. Her background blends expertise in human resources, budgeting, and operational coordination within complex medical research environments, making her a key link between scientific leadership, administrative structures, and institutional governance.
+
 
 ### Alumni
 | Almunus/a                                                  | Name                                                                                                                                          |
