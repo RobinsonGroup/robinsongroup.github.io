@@ -182,9 +182,9 @@ Lauren Rekerle received her B.Sc. in Bioinformatics from Michigan Technological 
 <figcaption>Varenya Jain
 </figcaption>
 </figure>
-Varenya Jain earned his B.Sc. in Integrative Biology with a minor in Computational Science and Engineering from the University of Illinois Urbana-Champaign in 2024. He started collaborating with Peter Robinson, Ronald Wapner, and Michael Duyzend in August 2024, where he joined the Anomalies Leadership team under the Fetal Sequencing Consortium at Columbia University and The Broad Institute at MIT to develop a genotype-phenotype database for rare diseases. His work involves training local Large Language Models to extract Human Phenotype Ontology terms from prenatal ultrasound data.
+Varenya Jain earned his B.Sc. in Integrative Biology with a minor in Computational Science and Engineering from the University of Illinois Urbana-Champaign in 2024. In August 2024, he began collaborating with Peter Robinson, Ronald Wapner, and Michael Duyzend as part of the Fetal Anomalies Repository Leadership Team, a joint initiative between Columbia University's Division of Women's Genetics and the Broad Institute of MIT and Harvard, to develop a genotype-phenotype database for rare diseases within the Fetal Sequencing Consortium. His current work involves training local large language models to extract Human Phenotype Ontology terms from prenatal ultrasound data and creating federated phenopacket repositories.
 
-Before joining the lab, Varenya studied Computational Phylogenetics, creating a low-coverage targeted assembly method for zebrafish whole-genome sequencing data, and worked as a contract bioinformatician where he used variant calling to integrate CNV detection into clinical interpretation workflows. His research background also spans Evolutionary Biology, Metabolomics, and High-Performance Computing.
+Previously, Varenya conducted research in computational phylogenetics, developing a novel method for assembling phylogenetic markers from low-coverage whole-genome sequence data using zebrafish. He also worked as a bioinformatician, integrating DRAGEN enrichment-based CNV detection into clinical variant interpretation workflows. His broader research background spans evolutionary biology, metabolomics, and high-performance computing.
 
 
 ### Alumni
