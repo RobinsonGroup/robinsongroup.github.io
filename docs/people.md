@@ -124,7 +124,7 @@ prediction of isoform functions,
 prediction of associations between protein kinases and cancer,
 and challenges in biomedical knowledge graph representation.
 More recently, he has been working on ontologizing experimental mouse data from the Mouse Phenome Database at JAX and
-representing it as Phenopakets.
+representing it as Phenopackets.
 
 
 
@@ -174,6 +174,16 @@ various other bioinformatics initiatives.
 </figcaption>
 </figure>
 Lauren Rekerle received her B.Sc. in Bioinformatics from Michigan Technological University (2017) and her M.Sc. in Computational Biology from the University of Minnesota (2019). During her time as a master’s student, she worked with the National Marrow Donor Program’s bioinformatics team. After she graduated, she spent over 2 years working for the Genomics Unit in the Mayo Clinic’s IT department. In spring of 2022, Lauren joined Peter Robinson’s lab as a bioinformatician. Since then, she has collected and analyzed data from predicted synthetic lethality interactions, designed and aided in the development of [GPSEA](https://github.com/monarch-initiative/gpsea), and used the software to find new genotype-phenotype correlations.
+
+### Patrick Nairne, Ph.D.
+
+<figure markdown>
+![Patrick Nairne](img/people/PatrickNairne.jpg){ width="200" }
+<figcaption>Patrick Nairne
+</figcaption>
+</figure>
+
+Patrick Nairne received his PhD in Mathematics from the University of Oxford in 2024. His research primarily focused on coarse metric embeddings between hyperbolic metric spaces and products of trees. He also researched certain algorithmic properties of hyperbolic groups. Since joining the Robinson Lab in June 2025, he has been applying machine learning methods to estimate the pathogenicity of non-coding variants. He is also interested in generating Phenopackets (a way of structuring patient data that is conducive to machine learning and data analysis) from a variety of different medical data sources. His personal academic website can be found [here](https://psnairne.github.io).
 
 
 
