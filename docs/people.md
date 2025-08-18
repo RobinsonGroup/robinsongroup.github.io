@@ -184,7 +184,7 @@ Lauren Rekerle received her B.Sc. in Bioinformatics from Michigan Technological 
 </figure>
 Varenya Jain earned his B.Sc. in Integrative Biology with a minor in Computational Science and Engineering from the University of Illinois Urbana-Champaign in 2024. In August 2024, he began collaborating with Peter Robinson, Ronald Wapner, and Michael Duyzend as part of the Fetal Anomalies Repository Leadership Team, a joint initiative between Columbia University's Division of Women's Genetics and the Broad Institute of MIT and Harvard, to develop a genotype-phenotype database for rare diseases within the Fetal Sequencing Consortium. His current work involves training local large language models to extract Human Phenotype Ontology terms from prenatal ultrasound data and creating federated phenopacket repositories.
 
-Previously, Varenya conducted research in computational phylogenetics, developing a novel method for assembling phylogenetic markers from low-coverage whole-genome sequence data using zebrafish. He also worked as a bioinformatician, integrating DRAGEN enrichment-based CNV detection into clinical variant interpretation workflows. His broader research background spans evolutionary biology, metabolomics, and high-performance computing.
+Previously, Varenya conducted research in computational phylogenetics, developing a novel method for assembling phylogenetic markers from low-coverage whole-genome sequence data using zebrafish. He also worked as a bioinformatician, integrating DRAGEN enrichment-based CNV detection into clinical variant interpretation workflows. His broader research background spans evolutionary biology, multiomics, and high-performance computing.
 
 
 ### Alumni
