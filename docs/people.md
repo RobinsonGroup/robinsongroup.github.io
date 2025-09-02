@@ -138,6 +138,22 @@ representing it as Phenopakets.
 Kristin earned her B.Sc. and M.Sc. in Bioinformatics from Free Universität Berlin. After completing her bachelor’s studies, she joined the Kircher lab at the Berlin Institute of Health (BIH), where she developed methods to analyze cfDNA from liquid biopsies and built predictive models for cancer diagnosis. During her master’s studies, she joined the Conrad lab at BIH, where she developed data processing pipelines for single-cell transcriptomics using nanopore technologies. This work enabled detailed analysis of transcript expression and splicing at the single-cell level. In May 2024, Kristin began her PhD at BIH, working jointly in the groups of Peter N. Robinson and Christian Conrad. Bridging the gap between wet and dry lab research, she focuses on developing software to analyze large-scale transcriptomic data, leveraging cutting-edge single-cell and spatial technologies.
 
 
+### Rouven Reuter
+
+<figure markdown>
+![Rouven Reuter](img/people/Rouven-Reuter.jpg){ width="200" }
+<figcaption>Rouven Reuter
+</figcaption>
+</figure>
+
+Rouven graduated in Media Technology (B.Eng.) at the Hochschule Emden/Leer and Media Informatics (M.Sc.) at the Berliner
+Hochschule für Technik. His master's thesis was done in cooperation with the nephrology department of the Charité
+Berlin, where he trained a deep neural network model using tabular and unstructured text data of digital health records
+to predict acute kidney injury. For the following four years, he gathered experience as a Machine Learning Engineer in
+the industry and started his PhD in June 2025 by joining the Robinson Lab at BIH. The medical sector was a natural
+choice for him, as he is fueled by a passion to build stuff that actually matters.
+[Blog](https://www.smart-monkey.blog/)
+
 ### Leonardo Chimirri, Ph.D.
 <figure markdown>
 ![Leonardo Chimirri](img/people/Chimirri_Leonardo_8x10.jpg){ width="200" }
