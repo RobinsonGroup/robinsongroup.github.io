@@ -191,6 +191,16 @@ various other bioinformatics initiatives.
 </figure>
 Lauren Rekerle received her B.Sc. in Bioinformatics from Michigan Technological University (2017) and her M.Sc. in Computational Biology from the University of Minnesota (2019). During her time as a master’s student, she worked with the National Marrow Donor Program’s bioinformatics team. After she graduated, she spent over 2 years working for the Genomics Unit in the Mayo Clinic’s IT department. In spring of 2022, Lauren joined Peter Robinson’s lab as a bioinformatician. Since then, she has collected and analyzed data from predicted synthetic lethality interactions, designed and aided in the development of [GPSEA](https://github.com/monarch-initiative/gpsea), and used the software to find new genotype-phenotype correlations.
 
+### Varenya Jain
+
+<figure markdown>
+![Varenya Jain](img/people/Varenya-Jain.jpg){ width="200" }
+<figcaption>Varenya Jain
+</figcaption>
+</figure>
+Varenya Jain earned his B.Sc. in Integrative Biology with a minor in Computational Science and Engineering from the University of Illinois Urbana-Champaign in 2024. In August 2024, he began collaborating with Peter Robinson, Ronald Wapner, and Michael Duyzend as part of the Fetal Anomalies Repository Leadership Team, a joint initiative between Columbia University's Division of Women's Genetics and the Broad Institute of MIT and Harvard, to develop a genotype-phenotype database for rare diseases within the Fetal Sequencing Consortium. His current work involves training local large language models to extract Human Phenotype Ontology terms from prenatal ultrasound data and creating federated phenopacket repositories.
+
+Previously, Varenya conducted research in computational phylogenetics, developing a novel method for assembling phylogenetic markers from low-coverage whole-genome sequence data using zebrafish. He also worked as a bioinformatician, integrating DRAGEN enrichment-based CNV detection into clinical variant interpretation workflows. His broader research background spans evolutionary biology, multiomics, and high-performance computing.
 
 ### Wiebke Hartung
 
