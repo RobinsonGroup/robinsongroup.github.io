@@ -138,6 +138,22 @@ representing it as Phenopackets.
 Kristin earned her B.Sc. and M.Sc. in Bioinformatics from Free Universität Berlin. After completing her bachelor’s studies, she joined the Kircher lab at the Berlin Institute of Health (BIH), where she developed methods to analyze cfDNA from liquid biopsies and built predictive models for cancer diagnosis. During her master’s studies, she joined the Conrad lab at BIH, where she developed data processing pipelines for single-cell transcriptomics using nanopore technologies. This work enabled detailed analysis of transcript expression and splicing at the single-cell level. In May 2024, Kristin began her PhD at BIH, working jointly in the groups of Peter N. Robinson and Christian Conrad. Bridging the gap between wet and dry lab research, she focuses on developing software to analyze large-scale transcriptomic data, leveraging cutting-edge single-cell and spatial technologies.
 
 
+### Rouven Reuter
+
+<figure markdown>
+![Rouven Reuter](img/people/Rouven-Reuter.jpg){ width="200" }
+<figcaption>Rouven Reuter
+</figcaption>
+</figure>
+
+Rouven graduated in Media Technology (B.Eng.) at the Hochschule Emden/Leer and Media Informatics (M.Sc.) at the Berliner
+Hochschule für Technik. His master's thesis was done in cooperation with the nephrology department of the Charité
+Berlin, where he trained a deep neural network model using tabular and unstructured text data of digital health records
+to predict acute kidney injury. For the following four years, he gathered experience as a Machine Learning Engineer in
+the industry and started his PhD in June 2025 by joining the Robinson Lab at BIH. The medical sector was a natural
+choice for him, as he is fueled by a passion to build stuff that actually matters.
+[Blog](https://www.smart-monkey.blog/)
+
 ### Leonardo Chimirri, Ph.D.
 <figure markdown>
 ![Leonardo Chimirri](img/people/Chimirri_Leonardo_8x10.jpg){ width="200" }
@@ -175,6 +191,7 @@ various other bioinformatics initiatives.
 </figure>
 Lauren Rekerle received her B.Sc. in Bioinformatics from Michigan Technological University (2017) and her M.Sc. in Computational Biology from the University of Minnesota (2019). During her time as a master’s student, she worked with the National Marrow Donor Program’s bioinformatics team. After she graduated, she spent over 2 years working for the Genomics Unit in the Mayo Clinic’s IT department. In spring of 2022, Lauren joined Peter Robinson’s lab as a bioinformatician. Since then, she has collected and analyzed data from predicted synthetic lethality interactions, designed and aided in the development of [GPSEA](https://github.com/monarch-initiative/gpsea), and used the software to find new genotype-phenotype correlations.
 
+
 ### Patrick Nairne, Ph.D.
 
 <figure markdown>
@@ -184,6 +201,27 @@ Lauren Rekerle received her B.Sc. in Bioinformatics from Michigan Technological 
 </figure>
 
 Patrick Nairne received his PhD in Mathematics from the University of Oxford in 2024. His research primarily focused on coarse metric embeddings between hyperbolic metric spaces and products of trees. He also researched certain algorithmic properties of hyperbolic groups. Since joining the Robinson Lab in June 2025, he has been applying machine learning methods to estimate the pathogenicity of non-coding variants. He is also interested in generating Phenopackets (a way of structuring patient data that is conducive to machine learning and data analysis) from a variety of different medical data sources. His personal academic website can be found [here](https://psnairne.github.io).
+
+
+### Varenya Jain
+
+<figure markdown>
+![Varenya Jain](img/people/Varenya-Jain.jpg){ width="200" }
+<figcaption>Varenya Jain
+</figcaption>
+</figure>
+Varenya Jain earned his B.Sc. in Integrative Biology with a minor in Computational Science and Engineering from the University of Illinois Urbana-Champaign in 2024. In August 2024, he began collaborating with Peter Robinson, Ronald Wapner, and Michael Duyzend as part of the Fetal Anomalies Repository Leadership Team, a joint initiative between Columbia University's Division of Women's Genetics and the Broad Institute of MIT and Harvard, to develop a genotype-phenotype database for rare diseases within the Fetal Sequencing Consortium. His current work involves training local large language models to extract Human Phenotype Ontology terms from prenatal ultrasound data and creating federated phenopacket repositories.
+
+Previously, Varenya conducted research in computational phylogenetics, developing a novel method for assembling phylogenetic markers from low-coverage whole-genome sequence data using zebrafish. He also worked as a bioinformatician, integrating DRAGEN enrichment-based CNV detection into clinical variant interpretation workflows. His broader research background spans evolutionary biology, multiomics, and high-performance computing.
+
+### Wiebke Hartung
+
+<figure markdown>
+![Wiebke Hartung](img/people/Wiebke-Hartung.jpg){ width="200" }
+<figcaption>Wiebke Hartung
+</figcaption>
+</figure>
+Wiebke Hartung is an experienced administrative and operations professional currently serving as Office Managerin at Charite - Universitatsmedizin Berlin, where she works in the research groups of the Berlin Institute of Health for Prof. Dr. Peter Robinson and Prof. Dr. Sylvia Thun. Before taking on this role, she was part of the Clinical Study Center (CSC) for over five years, contributing to the Clinical Trial Unit (CTU) Site Management. She was also an elected member of the BIH staff council, representing employees' interests and advising on workplace matters. Her background blends expertise in human resources, budgeting, and operational coordination within complex medical research environments, making her a key link between scientific leadership, administrative structures, and institutional governance.
 
 
 
