@@ -192,6 +192,15 @@ various other bioinformatics initiatives.
 Lauren Rekerle received her B.Sc. in Bioinformatics from Michigan Technological University (2017) and her M.Sc. in Computational Biology from the University of Minnesota (2019). During her time as a master’s student, she worked with the National Marrow Donor Program’s bioinformatics team. After she graduated, she spent over 2 years working for the Genomics Unit in the Mayo Clinic’s IT department. In spring of 2022, Lauren joined Peter Robinson’s lab as a bioinformatician. Since then, she has collected and analyzed data from predicted synthetic lethality interactions, designed and aided in the development of [GPSEA](https://github.com/monarch-initiative/gpsea), and used the software to find new genotype-phenotype correlations.
 
 
+### Wiebke Hartung
+
+<figure markdown>
+![Wiebke Hartung](img/people/Wiebke-Hartung.jpg){ width="200" }
+<figcaption>Wiebke Hartung
+</figcaption>
+</figure>
+Wiebke Hartung is an experienced administrative and operations professional currently serving as Office Managerin at Charite - Universitatsmedizin Berlin, where she works in the research groups of the Berlin Institute of Health for Prof. Dr. Peter Robinson and Prof. Dr. Sylvia Thun. Before taking on this role, she was part of the Clinical Study Center (CSC) for over five years, contributing to the Clinical Trial Unit (CTU) Site Management. She was also an elected member of the BIH staff council, representing employees' interests and advising on workplace matters. Her background blends expertise in human resources, budgeting, and operational coordination within complex medical research environments, making her a key link between scientific leadership, administrative structures, and institutional governance.
+
 
 ### Alumni
 | Almunus/a                                                  | Name                                                                                                                                          |
