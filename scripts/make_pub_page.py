@@ -1,3 +1,4 @@
+import os
 import re
 from collections import defaultdict
 
@@ -113,7 +114,6 @@ class Publication:
         author_display_list = []
         for a in author_list:
             auth = a.strip()
-            print(f"author \"{a}\"")
             if auth in our_team:
                 auth = f"**{auth}**"
             author_display_list.append(auth)
@@ -126,10 +126,14 @@ class Publication:
         if self._pmid is not None and self._pmid != "n/a":
             mdown = f"{mdown} [PMID:{self._pmid}](https://pubmed.ncbi.nlm.nih.gov/{self._pmid}/)" + "{:target=\"_blank\"}"
         return mdown
+    
+    def __repr__(self) -> str:
+        return f"{self.title} ({self.year}), {self.journal}"
 
 
 # This is the file we use to keep track of publications
-publication_file = "../data/citations.txt"
+script_dir = os.path.dirname(os.path.abspath(__file__))
+publication_file = os.path.join(script_dir, "..", "data", "citations.txt")
 
 def get_item(line):
     fields = line.strip().split(":")
@@ -141,6 +145,32 @@ def get_item(line):
 
 pub_d = defaultdict(list)
 previously_seen_pmids = set()
+
+def print_pub(item_d):
+    for k,v in item_d.items():
+        if v is None:
+            print(f"{k}: not defined")
+        else:
+            print(f"{k}: {v}")
+
+
+
+def check_validity(pmid, authors, year, title, journal, volume, pages, top):
+    items = {
+        "pmid": pmid, 
+        "authors": authors, 
+        "year": year, 
+        "title": title, 
+        "journal": journal, 
+        "volume": volume, 
+        "pages": pages, 
+        "top": top
+    }
+    missing = [k for k, v in items.items() if v is None]
+    if missing:
+        print_pub(items)
+        raise ValueError(f"Missing fields: {', '.join(missing)}")
+    
 
 inEntry = False
 with open(publication_file, 'r') as fh:
@@ -164,22 +194,27 @@ with open(publication_file, 'r') as fh:
                 else:
                     authors = authors + " " + line.strip()
         elif line.startswith("journal:"):
-            journal = get_item(line)
+            journal = get_item(line.strip())
         elif line.startswith("title:"):
-            title = get_item(line)
+            title = get_item(line.strip())
         elif line.startswith("volume:"):
-            volume = get_item(line)
+            volume = get_item(line.strip())
         elif line.startswith("pages:"):
-            pages = get_item(line)
+            pages = get_item(line.strip())
         elif line.startswith("top:"):
-            top = get_item(line)
+            top = get_item(line.strip())
         elif inEntry and len(line) < 5:
             inEntry = False
             try:
+                check_validity(pmid=pmid, authors=authors, year=year, title=title, journal=journal, volume=volume, pages=pages, top=top)
                 pub = Publication(pmid=pmid, authors=authors, year=year, title=title, journal=journal, volume=volume, pages=pages, top=top)
                 pub_d[pub.year].append(pub)
             except:
                 print(f"[ERROR] Not able to create publication for {title}")
+                check_validity(pmid=pmid, authors=authors, year=year, title=title, journal=journal, volume=volume, pages=pages, top=top)
+    print(f"Wrote file to {publication_file}")
+
+
 
 
 
@@ -200,8 +235,9 @@ def write_top_publications_table(pub_d, years, fh):
         fh.write("|".join(items) + "|\n")
     fh.write("\n\n")
 
-
-fh = open("../docs/publications.md", "wt")
+script_dir = os.path.dirname(os.path.abspath(__file__))
+publications_path = os.path.join(script_dir, "..", "docs", "publications.md")
+fh = open(publications_path, "wt")
 fh.write("# Publications\n\n")
 fh.write("Authors who are lab members or alumni are shown in **bold** font.\n\n")
 years = sorted(list(pub_d.keys()), reverse=True)
@@ -211,8 +247,7 @@ citation_i = 0
 for year in years:
     publist = pub_d.get(year)
     fh.write(f"## {year} Publications\n\n")
-
-    for pub in publist:
+    for pub in publist: # type: ignore
         citation_i += 1
         fh.write(f"{citation_i}. {pub.get_markdown()}\n")
 fh.close()

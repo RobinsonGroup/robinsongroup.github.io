@@ -1,6 +1,6 @@
 -- # Publications
 
--pmid 41172739
+-pmid: 41172739
 authors: Shefchek K, Ziniel SI, McMurry JA, Brownstein CA, Brownstein JS, Riggs ER, Might M, Smedley D, Clugston A, Beggs AH, Paterson H, Robinson PN, Vasilevsky NA, Holm IA, Haendel MA
 year: 2025
 title: Development of self-phenotyping tools to empower patients and improve diagnostics
@@ -8,7 +8,8 @@ journal: EBioMedicine
 volume: Epub ahead of print
 pages: 10.1016/j.ebiom.2025.105965
 
-- pmid: 41124636
+
+-pmid: 41124636
 authors: Robinson PN
 year: 2025
 title: A Rare-in-Common Paradigm for Precision Genomic Medicine
@@ -17,7 +18,8 @@ volume: 393(16)
 pages: 1648-1649
 top: true
 
-- pmid: 41092581
+
+-pmid: 41092581
 authors: Chimirri L, Caufield JH, Bridges Y, Matentzoglu N, Gargano M, Cazalla M, Chen S, Danis D, Dingemans AJM, Gehle K, Gehle P, Graefe ASL, Gu W, Ladewig MS, Lapunzina P, Nevado J, Niyonkuru E, Ogishima S, Seelow D, Tenorio Castaño JA, Turnovec M, de Vries BBA, Wang K, Wissink K, Yüksel Z, Zucca G, Haendel MA, Mungall CJ, Reese J, Robinson PN. 
 year: 2025
 title: Consistent performance of large language models in rare disease diagnosis across ten languages and 4917 cases
@@ -25,7 +27,8 @@ journal: EBioMedicine
 volume: Epub ahead of print
 pages: 10.1016/j.ebiom.2025.105957
 
-- pmid: 41052288
+
+-pmid: 41052288
 authors: Vasilevsky NA, Toro S, Matentzoglu N, Flack JE, Mullen KR, Hegde H, Gehrke S, Whetzel PL, Shwetar Y, Harris NL, Ngu MS, Alyea GL, Kane MS, Roncaglia P, Sid E, Thaxton CL, Wood V, Abraham RS, Achatz MI, Ajuyah P, Amberger JS, Babb L, Baker J, Balhoff JP, Berg JS, Bhalla A, Bofill-De Ros X, Braun IR, Broeren EC, Byer BK, Byrne AB, Callahan TJ, Carmody LC, Chan LE, Clause AR, Cohen JS, DeLuca M, Deuitch NT, Flowers M, Fraser J, Fujiwara T, Gitau V, Goldstein JL, Gration D, Groza T, Gyori BM, Hankey W, Hilton JA, Himmelstein DS, Hong SS, Hoyt CT, Huether R, Hurwitz E, Jacobsen JOB, Kikuchi A, Köhler S, Korn DR, Lagorce D, Laraway BJ, Li JY, Malheiro AJ, McLaughlin J, Meldal BHM, Mohan S, Moxon SAT, Munoz-Torres MC, Nelson TH, Nicholas FW, Ochoa D, Olson D, Oprea TI, Oskotsky TT, Osumi-Sutherland D, Paris K, Parkinson HE, Pendlington ZM, Peng XP, Pizzino A, Plon SE, Powell BC, Ratliff JC, Rehm HL, Remennik L, Riggs ER, Roberts S, Robinson PN, Ross JE, Schaper K, Schilder BM, Schmidt JL, Sharp EW, Similuk MN, Smedley D, Sneddon TP, Sparks R, Stefancsik R, Stupp GS, Sundar S, Takatsuki T, Tammen I, Tshering KC, Unni DR, Valasek E, Vanderver A, Wagner AH, Webb RF, Welter D, Yaya-Stupp D, Zankl A, Zhang XA, McMurry JA, Chute CG, Hamosh A, Mungall CJ, Haendel MA
 year: 2025
 title: Mondo: Integrating Disease Terminology Across Communities
@@ -33,7 +36,8 @@ journal: Genetics
 volume:Epub ahead of print
 pages: iyaf215
 
-- pmid: 41017641
+
+-pmid: 41017641
 authors: Sierk M, Danis D, Patil S, Kishor N, Mondal R, Jha A, Chen Q, Yan C, Munoz-Torres M, Meerzaman D, Robinson PN, Reese JT
 year: 2025
 title: Oncopacket: integration of cancer research data using GA4GH phenopackets
@@ -41,7 +45,8 @@ journal: Bioinformatics
 volume: 41(10)
 pages: btaf546
 
-- pmid: 40972982
+
+-pmid: 40972982
 authors: Rivière JG, Bastarache L, Campos LC, Carot-Sans G, Chin A, Chunara R, Cunningham-Rundles C, Erra L, Farmer J, Garcelon N, Hsieh E, Leavis H, Lee S, Liu L, Kusters M, Lloyd BC, Martinson AK, Mester R, Moore JB, Moshous D, Orange JS, Parrish N, Parker SH, Pasaniuc B, Peng XP, Pergent M, Piera-Jiménez J, Quinn J, Ramesh S, Roberts K, Robinson PN, Savova G, Scalchunes C, Seidel MG, Simoneau R, Soler-Palacin P, Sullivan KE, Van Gijn M, Wi CI, Zhou D, Tenembaum V, Butte MJ, Rider NL
 year: 2025 
 title: Proceedings of the second Artificial Intelligence in Primary Immunodeficiency (AIPI) meeting
@@ -49,7 +54,8 @@ journal: J Allergy Clin Immunol
 volume: Epub ahead of print
 pages: S0091-6749(25)00950-9
 
-- pmid: 40968496
+
+-pmid: 40968496
 authors: Ordaz T, Sundaramurthi JC, Arterbery AS, Bagley AM, Gargano MA, Bauer JP, Danis D, Giampietro P, Raney E, Rekerle L, Shingle M, Davids JR, Robinson PN. 
 year: 2025 
 title: An ITPR1 Variant in the IP3-ITPR1 Binding Pocket Associated With a Clinical Phenotype of Athetoid Cerebral Palsy. 
@@ -57,14 +63,17 @@ journal: Am J Med Genet A
 volume: Epub ahead of print
 pages: 10.1002/ajmg.a.64263
 
-- pmid: 40621601
+
+-pmid: 40621601
 authors: Niyonkuru E, Caufield JH, Carmody LC, Gargano MA, Toro S, Whetzel PL, Blau H, Soto Gomez M, Casiraghi E, Chimirri L, Reese JT, Valentini G, Haendel MA, Mungall CJ, Robinson PN
 year: 2025
-title: Leveraging generative AI to assist biocuration of medical actions for rare disease. journal: Bioinform Adv
+title: Leveraging generative AI to assist biocuration of medical actions for rare disease. 
+journal: Bioinform Adv
 volume: 5(1)
 pages: vbaf141
 
-- pmid: 40414449
+
+-pmid: 40414449
 authors: McInnis MG, Coleman B, Hurwitz E, Robinson PN, Williams AE, Haendel MA, McMurry JA
 year: 2025
 title: Integrating Knowledge: The Power of Ontologies in Psychiatric Research and Clinical Informatics.
@@ -72,7 +81,8 @@ journal: Biol Psychiatry
 volume: 98(4)
 pages: 293-301
 
-- pmid: 40324016
+
+-pmid: 40324016
 authors: Niyonkuru E, Gomez MS, Casarighi E, Antogiovanni S, Blau H, Reese JT, Valentini G, Robinson PN
 year: 2025 
 title: Replacing non-biomedical concepts improves embedding of biomedical concepts. 
@@ -80,7 +90,7 @@ journal: PLoS One
 volume: 20(5)
 pages: e0322498
 
-- pmid: 40235640
+-pmid: 40235640
 authors: Nicolini M, Saitto E, Jimenez Franco RE, Cavalleri E, Galeano Alfonso AJ, Malchiodi D, Paccanaro A, Robinson PN, Casiraghi E, Valentini G
 year: 2025
 title: Fine-tuning of conditional Transformers improves in silico enzyme prediction and generation. 
@@ -88,7 +98,8 @@ journal: Comput Struct Biotechnol J
 volume: 27
 pages: 1318-1334
 
-- pmid: 40176701
+
+-pmid: 40176701
 authors: Nematollahi S, Hamdy RC, van Bosse H, Li J, Blanshay-Goldberg D, de Vries JIP, Dieterich K, Filges I, Bedard T, Haendel M, Torres MM, Robinson PN, Dahan-Oliel N
 year: 2025
 title: Human Phenotype Ontology Annotations for Rare Congenital Conditions: Application to Arthrogryposis Multiplex Congenita
@@ -104,7 +115,7 @@ journal: BMC Bioinformatics
 volume: 26(1)
 pages: 87
 
-- pmid: 40048704
+-pmid: 40048704
 authors: Matentzoglu N, Bello SM, Stefancsik R, Alghamdi SM, Anagnostopoulos AV, Balhoff JP, Balk MA, Bradford YM, Bridges Y, Callahan TJ, Caufield H, Cuzick A, Carmody LC, Caron AR, de Souza V, Engel SR, Fey P, Fisher M, Gehrke S, Grove C, Hansen P, Harris NL, Harris MA, Harris L, Ibrahim A, Jacobsen JOB, Köhler S, McMurry JA, Munoz-Fuentes V, Munoz-Torres MC, Parkinson H, Pendlington ZM, Pilgrim C, Robb SMC, Robinson PN, Seager J, Segerdell E, Smedley D, Sollis E, Toro S, Vasilevsky N, Wood V, Haendel MA, Mungall CJ, McLaughlin JA, Osumi-Sutherland D. 
 year: 2025
 title: The Unified Phenotype Ontology : a framework for cross-species integrative phenomics
@@ -163,7 +174,6 @@ volume: 27(1)
 pages: 101292
 
 
-
 -pmid: 39394689
 authors: Danis D, Bamshad MJ, Bridges Y, Caballero-Oteyza A, Cacheiro P, Carmody LC, Chimirri L, Chong JX, Coleman B, Dalgleish R, Freeman PJ, Graefe ASL, Groza T, Hansen P, Jacobsen JOB, Klocperk A, Kusters M, Ladewig MS, Marcello AJ, Mattina T, Mungall CJ, Munoz-Torres MC, Reese JT, Rehburg F, Reis BCS, Schuetz C, Smedley D, Strauss T, Chandrabose Sundaramurthi J, Thun S, Wissink K, Wagstaff JF, Zocche D, Haendel MA, Robinson PN. 
 year: 2025
@@ -201,9 +211,9 @@ pages:lqae165
 
 
 -pmid: 39660253
-authors: Hansen P, Blau H, Hecht J, Karlebach G, Krannich A, Steinhaus R, Truss M, Robinson PN. 
+authors: Hansen P, Blau H, Hecht J, Karlebach G, Krannich A, Steinhaus R, Truss M, Robinson PN.
+year: 2024 
 title: Using paired-end read orientations to assess technical biases in capture Hi-C
-year: 2024
 journal: NAR Genom Bioinform
 volume: 6(4)
 pages:lqae156
