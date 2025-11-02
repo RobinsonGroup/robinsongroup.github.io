@@ -1,27 +1,90 @@
 -- # Publications
 
+-pmid 41172739
+authors: Shefchek K, Ziniel SI, McMurry JA, Brownstein CA, Brownstein JS, Riggs ER, Might M, Smedley D, Clugston A, Beggs AH, Paterson H, Robinson PN, Vasilevsky NA, Holm IA, Haendel MA
+year: 2025
+title: Development of self-phenotyping tools to empower patients and improve diagnostics
+journal: EBioMedicine
+volume: Epub ahead of print
+pages: 10.1016/j.ebiom.2025.105965
+
+- pmid: 41124636
+authors: Robinson PN
+year: 2025
+title: A Rare-in-Common Paradigm for Precision Genomic Medicine
+journal: N Engl J Med
+volume: 393(16)
+pages: 1648-1649
+top: true
+
+- pmid: 41092581
+authors: Chimirri L, Caufield JH, Bridges Y, Matentzoglu N, Gargano M, Cazalla M, Chen S, Danis D, Dingemans AJM, Gehle K, Gehle P, Graefe ASL, Gu W, Ladewig MS, Lapunzina P, Nevado J, Niyonkuru E, Ogishima S, Seelow D, Tenorio Castaño JA, Turnovec M, de Vries BBA, Wang K, Wissink K, Yüksel Z, Zucca G, Haendel MA, Mungall CJ, Reese J, Robinson PN. 
+year: 2025
+title: Consistent performance of large language models in rare disease diagnosis across ten languages and 4917 cases
+journal: EBioMedicine
+volume: Epub ahead of print
+pages: 10.1016/j.ebiom.2025.105957
+
+- pmid: 41052288
+authors: Vasilevsky NA, Toro S, Matentzoglu N, Flack JE, Mullen KR, Hegde H, Gehrke S, Whetzel PL, Shwetar Y, Harris NL, Ngu MS, Alyea GL, Kane MS, Roncaglia P, Sid E, Thaxton CL, Wood V, Abraham RS, Achatz MI, Ajuyah P, Amberger JS, Babb L, Baker J, Balhoff JP, Berg JS, Bhalla A, Bofill-De Ros X, Braun IR, Broeren EC, Byer BK, Byrne AB, Callahan TJ, Carmody LC, Chan LE, Clause AR, Cohen JS, DeLuca M, Deuitch NT, Flowers M, Fraser J, Fujiwara T, Gitau V, Goldstein JL, Gration D, Groza T, Gyori BM, Hankey W, Hilton JA, Himmelstein DS, Hong SS, Hoyt CT, Huether R, Hurwitz E, Jacobsen JOB, Kikuchi A, Köhler S, Korn DR, Lagorce D, Laraway BJ, Li JY, Malheiro AJ, McLaughlin J, Meldal BHM, Mohan S, Moxon SAT, Munoz-Torres MC, Nelson TH, Nicholas FW, Ochoa D, Olson D, Oprea TI, Oskotsky TT, Osumi-Sutherland D, Paris K, Parkinson HE, Pendlington ZM, Peng XP, Pizzino A, Plon SE, Powell BC, Ratliff JC, Rehm HL, Remennik L, Riggs ER, Roberts S, Robinson PN, Ross JE, Schaper K, Schilder BM, Schmidt JL, Sharp EW, Similuk MN, Smedley D, Sneddon TP, Sparks R, Stefancsik R, Stupp GS, Sundar S, Takatsuki T, Tammen I, Tshering KC, Unni DR, Valasek E, Vanderver A, Wagner AH, Webb RF, Welter D, Yaya-Stupp D, Zankl A, Zhang XA, McMurry JA, Chute CG, Hamosh A, Mungall CJ, Haendel MA
+year: 2025
+title: Mondo: Integrating Disease Terminology Across Communities
+journal: Genetics
+volume:Epub ahead of print
+pages: iyaf215
+
+- pmid: 41017641
+authors: Sierk M, Danis D, Patil S, Kishor N, Mondal R, Jha A, Chen Q, Yan C, Munoz-Torres M, Meerzaman D, Robinson PN, Reese JT
+year: 2025
+title: Oncopacket: integration of cancer research data using GA4GH phenopackets
+journal: Bioinformatics
+volume: 41(10)
+pages: btaf546
+
+- pmid: 40972982
+authors: Rivière JG, Bastarache L, Campos LC, Carot-Sans G, Chin A, Chunara R, Cunningham-Rundles C, Erra L, Farmer J, Garcelon N, Hsieh E, Leavis H, Lee S, Liu L, Kusters M, Lloyd BC, Martinson AK, Mester R, Moore JB, Moshous D, Orange JS, Parrish N, Parker SH, Pasaniuc B, Peng XP, Pergent M, Piera-Jiménez J, Quinn J, Ramesh S, Roberts K, Robinson PN, Savova G, Scalchunes C, Seidel MG, Simoneau R, Soler-Palacin P, Sullivan KE, Van Gijn M, Wi CI, Zhou D, Tenembaum V, Butte MJ, Rider NL
+year: 2025 
+title: Proceedings of the second Artificial Intelligence in Primary Immunodeficiency (AIPI) meeting
+journal: J Allergy Clin Immunol
+volume: Epub ahead of print
+pages: S0091-6749(25)00950-9
+
+- pmid: 40968496
+authors: Ordaz T, Sundaramurthi JC, Arterbery AS, Bagley AM, Gargano MA, Bauer JP, Danis D, Giampietro P, Raney E, Rekerle L, Shingle M, Davids JR, Robinson PN. 
+year: 2025 
+title: An ITPR1 Variant in the IP3-ITPR1 Binding Pocket Associated With a Clinical Phenotype of Athetoid Cerebral Palsy. 
+journal: Am J Med Genet A
+volume: Epub ahead of print
+pages: 10.1002/ajmg.a.64263
+
+- pmid: 40621601
+authors: Niyonkuru E, Caufield JH, Carmody LC, Gargano MA, Toro S, Whetzel PL, Blau H, Soto Gomez M, Casiraghi E, Chimirri L, Reese JT, Valentini G, Haendel MA, Mungall CJ, Robinson PN
+year: 2025
+title: Leveraging generative AI to assist biocuration of medical actions for rare disease. journal: Bioinform Adv
+volume: 5(1)
+pages: vbaf141
 
 - pmid: 40414449
 authors: McInnis MG, Coleman B, Hurwitz E, Robinson PN, Williams AE, Haendel MA, McMurry JA
+year: 2025
 title: Integrating Knowledge: The Power of Ontologies in Psychiatric Research and Clinical Informatics.
 journal: Biol Psychiatry
-year: 2025
-volume: Epub ahead of print
-pages: S0006-3223(25)01213-2
+volume: 98(4)
+pages: 293-301
 
 - pmid: 40324016
 authors: Niyonkuru E, Gomez MS, Casarighi E, Antogiovanni S, Blau H, Reese JT, Valentini G, Robinson PN
+year: 2025 
 title: Replacing non-biomedical concepts improves embedding of biomedical concepts. 
 journal: PLoS One
-year: 2025 
 volume: 20(5)
 pages: e0322498
 
 - pmid: 40235640
 authors: Nicolini M, Saitto E, Jimenez Franco RE, Cavalleri E, Galeano Alfonso AJ, Malchiodi D, Paccanaro A, Robinson PN, Casiraghi E, Valentini G
+year: 2025
 title: Fine-tuning of conditional Transformers improves in silico enzyme prediction and generation. 
 journal: Comput Struct Biotechnol J
-year: 2025
 volume: 27
 pages: 1318-1334
 
@@ -58,9 +121,9 @@ volume: 10.1038/s41586-025-08623-w.
 pages: Epub ahead of print
 
 -pmid: 39922817
-authors Graefe ASL, Hübner MR, Rehburg F, Sander S, Klopfenstein SAI, Alkarkoukly S, Grönke A, Weyersberg A, Danis D, Zschüntzsch J, Nyoungui EF, Wiegand S, Kühnen P, Robinson PN, Beyan O, Thun S. 
+authors: Graefe ASL, Hübner MR, Rehburg F, Sander S, Klopfenstein SAI, Alkarkoukly S, Grönke A, Weyersberg A, Danis D, Zschüntzsch J, Nyoungui EF, Wiegand S, Kühnen P, Robinson PN, Beyan O, Thun S. 
 year: 2025
-title: An ontology-based rare disease common data model harmonising international registries, FHIR, and Phenopackets. 
+title: An ontology-based rare disease common data model harmonising international registries, FHIR, and Phenopackets
 journal: Sci Data
 volume: 12(1)
 pages: 234
