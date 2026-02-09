@@ -4,20 +4,20 @@
 
 ## Peter N. Robinson, MD
 
-We are living in a time of unparalleled opportunity to extend our understanding of human disease and improve the 
-care of patients with precision genomic medicine. Sophisticated bioinformatics and computational biology are 
-essential to achieve the full potential of genomics for science as well as for patients. Peter Robinson, 
-Professor and Donald A. Roux Chair, Genomics and Computational Biology, leads a research group dedicated to the 
-development of algorithms and computational resources for genomics. Highlights 
-of the lab’s work include the [Human Phenotype Ontology](http://www.human-phenotype-ontology.org), 
-the [Exomiser](https://monarchinitiative.org/page/exomes) suite  of tools for exome and genome analysis, 
-and algorithms for ChIP-seq and immunogenomics. Peter studied Mathematics (Bachelor) at Columbia College, 
-Medicine at the University of Pennsylvania, and Computer Science (Master's) at Columbia University. 
-He completed an internship in Primary Care Internal Medicine at Yale University, and a residency (Facharzt) in 
+We are living in a time of unparalleled opportunity to extend our understanding of human disease and improve the
+care of patients with precision genomic medicine. Sophisticated bioinformatics and computational biology are
+essential to achieve the full potential of genomics for science as well as for patients. Peter Robinson,
+Professor and Donald A. Roux Chair, Genomics and Computational Biology, leads a research group dedicated to the
+development of algorithms and computational resources for genomics. Highlights
+of the lab’s work include the [Human Phenotype Ontology](http://www.human-phenotype-ontology.org),
+the [Exomiser](https://monarchinitiative.org/page/exomes) suite  of tools for exome and genome analysis,
+and algorithms for ChIP-seq and immunogenomics. Peter studied Mathematics (Bachelor) at Columbia College,
+Medicine at the University of Pennsylvania, and Computer Science (Master's) at Columbia University.
+He completed an internship in Primary Care Internal Medicine at Yale University, and a residency (Facharzt) in
 Pediatrics  and obtained a Habilitation (roughly equivalent
-to a PhD) in Human Genetics at the Charité - Universitätsmedizin Berlin. He led the 
-Bioinformatics group at the Institute for Medical Genetics and Human Genetics at the Charité from 2004-2016. 
-From 2016-2023, he led a research group at  the Jackson Laboratory (JAX) for Genomic Medicine in Connecticut, USA. 
+to a PhD) in Human Genetics at the Charité - Universitätsmedizin Berlin. He led the
+Bioinformatics group at the Institute for Medical Genetics and Human Genetics at the Charité from 2004-2016.
+From 2016-2023, he led a research group at  the Jackson Laboratory (JAX) for Genomic Medicine in Connecticut, USA.
 From 2024, his primary affiliation will be with the Berlin Institute of Health (BIH) and he will continue to
 be affiliated with JAX.
 
@@ -37,13 +37,13 @@ be affiliated with JAX.
 </figcaption>
 </figure>
 
-Martha Beckwith obtained her PhD in Physical Chemistry from Cornell 
+Martha Beckwith obtained her PhD in Physical Chemistry from Cornell
 University. During her PhD, she also conducted research at the Max-Planck-
-Institute for Chemical Energy Conversion in Germany. Prior to joining the 
-Robinson Lab, she was a Postdoctoral Research Associate at Lawrence 
-Livermore National Laboratory, and then a Computational Scientist at the 
-CUNY Advanced Science Research Center. Her current work focuses on 
-developing software for incorporating clinical intuition in phenotype-driven 
+Institute for Chemical Energy Conversion in Germany. Prior to joining the
+Robinson Lab, she was a Postdoctoral Research Associate at Lawrence
+Livermore National Laboratory, and then a Computational Scientist at the
+CUNY Advanced Science Research Center. Her current work focuses on
+developing software for incorporating clinical intuition in phenotype-driven
 prioritization of rare diseases.
 
 
@@ -54,13 +54,13 @@ prioritization of rare diseases.
 </figcaption>
 </figure>
 
-I am a current MD-PhD student at UConn School of Medicine with a background in physics. 
-I joined the Robinson Lab after two years of medical school to conduct my thesis research. 
-My research focuses on using the Human Phenotype Ontology (HPO) to describe and understand 
-the phenotypic features of neurodevelopmental disorders in a generalizable and computable format. 
-By improving the way we describe patient phenotypes, we will improve our ability to identify 
-the genetic drivers of these phenotypes. To do this, I work with domain experts to expand the 
-HPO's terminology for neurodevelopmental disorders and to develop tools to translate clinical 
+I am a current MD-PhD student at UConn School of Medicine with a background in physics.
+I joined the Robinson Lab after two years of medical school to conduct my thesis research.
+My research focuses on using the Human Phenotype Ontology (HPO) to describe and understand
+the phenotypic features of neurodevelopmental disorders in a generalizable and computable format.
+By improving the way we describe patient phenotypes, we will improve our ability to identify
+the genetic drivers of these phenotypes. To do this, I work with domain experts to expand the
+HPO's terminology for neurodevelopmental disorders and to develop tools to translate clinical
 measurements to the HPO.
 
 
@@ -75,7 +75,7 @@ measurements to the HPO.
 Daniel has a M.Sc. in Pharmacy from the Comenius University, Bratislava, Slovakia. He is currently working on his Ph.D., mainly focused on the molecular basis and pathomechanisms of rare hereditary diseases in human patients. He has experience in the assembly of custom UNIX-based bioinformatics pipelines for whole exome sequencing data analysis that have identified disease-causing variants in several Slovak families.
 His work in the Robinson lab involves the development of algorithms for prioritizing exome and genome variants. These new algorithms are designed to integrate into the Exomiser and Genomiser frameworks. In addition, he works on tools for the biocuration of published disease-causing variants.
 
-### Michael Gargano 
+### Michael Gargano
 
 <figure markdown>
 ![Michael Gargano](img/people/michael-g.png){ width="200" }
@@ -84,10 +84,10 @@ His work in the Robinson lab involves the development of algorithms for prioriti
 </figure>
 
 
-Michael Gargano has an M.S in Bioinformatics from Northeastern University. First starting as a UI 
-Developer at Cigna, he joined both The Jackson Laboratory & the Robinson Lab in 2017, and has grown to 
-a Senior Scientific Software Engineer. Bringing the Human Phenotype Ontology to the modern web was his 
-flagship project. He now specializes in data engineering on the cloud, restful applications, bioinformatics 
+Michael Gargano has an M.S in Bioinformatics from Northeastern University. First starting as a UI
+Developer at Cigna, he joined both The Jackson Laboratory & the Robinson Lab in 2017, and has grown to
+a Senior Scientific Software Engineer. Bringing the Human Phenotype Ontology to the modern web was his
+flagship project. He now specializes in data engineering on the cloud, restful applications, bioinformatics
 pipelines, and architecting software solutions for translational & clinical genomics.
 
 ### Peter Hansen, Ph.D.
@@ -137,6 +137,24 @@ representing it as Phenopackets.
 
 Kristin earned her B.Sc. and M.Sc. in Bioinformatics from Free Universität Berlin. After completing her bachelor’s studies, she joined the Kircher lab at the Berlin Institute of Health (BIH), where she developed methods to analyze cfDNA from liquid biopsies and built predictive models for cancer diagnosis. During her master’s studies, she joined the Conrad lab at BIH, where she developed data processing pipelines for single-cell transcriptomics using nanopore technologies. This work enabled detailed analysis of transcript expression and splicing at the single-cell level. In May 2024, Kristin began her PhD at BIH, working jointly in the groups of Peter N. Robinson and Christian Conrad. Bridging the gap between wet and dry lab research, she focuses on developing software to analyze large-scale transcriptomic data, leveraging cutting-edge single-cell and spatial technologies.
 
+### Lukas Ramlow, Ph.D.
+
+<figure markdown>
+![Lukas Ramlow](img/people/Lukas-Ramlow.jpg){ width="200" }
+<figcaption>Lukas Ramlow
+</figcaption>
+</figure>
+
+Lukas joined the Robinson Lab in May 2025 as a Postdoctoral Researcher, transitioning from theoretical physics to medical informatics. He holds both a B.Sc. and M.Sc. in Physics from the Technical University of Berlin.
+
+He earned his PhD in Statistical Physics from the Humboldt University of Berlin and the Bernstein Center for Computational Neuroscience. In his doctoral research, he developed mathematical models to investigate the cellular physiology underlying non-renewal spiking. He analyzed how these cellular processes influence the spiking statistics, and consequently the information transmission, of complex neural and calcium signaling systems.
+
+Motivated by his interest in the intersection of biology and advanced statistical mechanics, Lukas uses rigorous theoretical methods to solve complex problems in translational bioinformatics. His goal is to extract meaningful insights from large-scale biomedical data and bridge the gap between theory and clinical application.
+
+[Google Scholar](https://scholar.google.com/citations?user=6zqlhhoAAAAJ&hl=de)
+
+[ORCID](https://orcid.org/0000-0001-6089-0613)
+
 
 ### Rouven Reuter
 
@@ -161,7 +179,7 @@ choice for him, as he is fueled by a passion to build stuff that actually matter
 </figcaption>
 </figure>
 
-Leonardo received his B.Sc. in Physics and M.Sc. in Theoretical Physics (2013-2018) at University of Torino, Italy, before moving to Berlin where he earned his Ph.D. in Theoretical Particle Physics (2019-2023) at Humboldt University Berlin and DESY-Zeuthen. During his Master and then Ph.D. theses he focused on lattice field theories, a computationally intensive approach based on stochastic simulations. There he expanded his interest and experience in programming, mathematical modelling, data analysis and machine learning. Driven by his deep desire to apply his skills to improve people's lives and health and given his broad scientific interest, among which computational biology and genetics stand out, he decided to change career focus and joined the Robinson Lab in April 2024. This was facilitated by coming into contact with knowledge graphs, ontologies, and rare genetic diseases when working as a volunteer at MI4People gGmbH (German non-profit), which he still supports whenever possible. He has been focusing on LLMs for differentials diagnostics of rare diseases throughout his first period in the Lab. Other topics he is starting to explore are bayesian networks for differential diagnostics and training of machine learning models for prioritizing pathogenic variants of non-coding DNA regions. 
+Leonardo received his B.Sc. in Physics and M.Sc. in Theoretical Physics (2013-2018) at University of Torino, Italy, before moving to Berlin where he earned his Ph.D. in Theoretical Particle Physics (2019-2023) at Humboldt University Berlin and DESY-Zeuthen. During his Master and then Ph.D. theses he focused on lattice field theories, a computationally intensive approach based on stochastic simulations. There he expanded his interest and experience in programming, mathematical modelling, data analysis and machine learning. Driven by his deep desire to apply his skills to improve people's lives and health and given his broad scientific interest, among which computational biology and genetics stand out, he decided to change career focus and joined the Robinson Lab in April 2024. This was facilitated by coming into contact with knowledge graphs, ontologies, and rare genetic diseases when working as a volunteer at MI4People gGmbH (German non-profit), which he still supports whenever possible. He has been focusing on LLMs for differentials diagnostics of rare diseases throughout his first period in the Lab. Other topics he is starting to explore are bayesian networks for differential diagnostics and training of machine learning models for prioritizing pathogenic variants of non-coding DNA regions.
 [Google Scholar](https://scholar.google.com/citations?user=9ltLmKMAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0002-6912-8518)
 
 ### Enock Niyonkuru
@@ -172,14 +190,14 @@ Leonardo received his B.Sc. in Physics and M.Sc. in Theoretical Physics (2013-20
 </figcaption>
 </figure>
 
-Enock is pursuing his BS in Computer Science at Trinity College, CT. 
-He became a member of The Robinson Lab in Fall 2021. From a young age, Enock was deeply intrigued by the 
-potential of Artificial Intelligence in enhancing healthcare. This interest was further cemented 
-during his high school years when he shadowed physicians at a Rwandan hospital and recognized the 
-pressing need for advanced technology in the medical field. Within the Lab, Enock focuses on developing 
-software and algorithms to refine text mining techniques. He integrates Machine Learning and 
-Large Language Models to assist in the curation of the Medical Action Ontology (MAxO) and contributes to 
-various other bioinformatics initiatives. 
+Enock is pursuing his BS in Computer Science at Trinity College, CT.
+He became a member of The Robinson Lab in Fall 2021. From a young age, Enock was deeply intrigued by the
+potential of Artificial Intelligence in enhancing healthcare. This interest was further cemented
+during his high school years when he shadowed physicians at a Rwandan hospital and recognized the
+pressing need for advanced technology in the medical field. Within the Lab, Enock focuses on developing
+software and algorithms to refine text mining techniques. He integrates Machine Learning and
+Large Language Models to assist in the curation of the Medical Action Ontology (MAxO) and contributes to
+various other bioinformatics initiatives.
 
 
 ### Lauren Rekerle
@@ -252,6 +270,3 @@ Wiebke Hartung is an experienced administrative and operations professional curr
 |  ![](img/people/head-icon.png){ align=left width="30" }    | Oliver Stolpe (BIH)                                                                                                                           |
 | ![](img/people/aaron-zhang.jpg){ align=left width="40" }   | Xingmin “Aaron” Zhang, Ph.D.                                                                                                                  |
 |  ![](img/people/head-icon.png){ align=left width="30" }    | Na Zhu. PhD                                                                                                                                   |
-
-            
-
