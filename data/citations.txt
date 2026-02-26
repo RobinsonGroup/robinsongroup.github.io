@@ -1,12 +1,69 @@
 -- # Publications
 
+-pmid:41443197
+authors: Rekerle L, Danis D, Rehburg F, Graefe ASL, Bily V, Caballero-Oteyza A, Cacheiro P, Chimirri L, Chong JX, Connelly E, de Vries BBA, Dingemans AJM, Duyzend MH, Freiberger T, Gehle P, Groza T, Hansen P, Jacobsen JOB, Klocperk A, Ladewig MS, Love MI, Marcello AJ, Mordhorst A, Munoz-Torres MC, Reese J, Schuetz C, Smedley D, Strauss T, Vladyka O, Zocche D, Thun S, Mungall CJ, Haendel MA, Robinson PN. 
+year: 2026
+title: GA4GH phenopacket-driven characterization of genotype-phenotype correlations in Mendelian disorders. 
+journal: Am J Hum Genet
+volume: 113(1)
+pages: 57-70.
+top: true
+
+-pmid: 41383021
+authors: Groza T, Marcello AJ, Carlisle T, Lim WK, Haendel M, Karnani N, Robinson PN, Graessner H, Chong JX, Baynam G, Jamuar SS. 
+year: 2026
+title: A systematic assessment of large language models' knowledge of rare diseases: How much do large language models know about rare disease? 
+journal: HGG Adv
+volume: 7(1)
+pages: 100558
+
+-pmid: 41360703
+authors: Gulrajani NB, Boscardin J, Lianoglou BR, Tick K, Santoli CMA, Miller KA, Jelin AC, Dugoff L, Giardine R, Feist C, Pilliod R, Dukhovny S, Gilmore K, Vora NL, Murphy A, Robinson PN, Norton ME, Sparks TN. 
+year: 2025
+title: Evolving Features of RASopathies Among Pregnancies With Abnormal Fetal Fluid Collections
+journal: Prenat Diagn
+volume: Epub ahead of print
+pages: 10.1002/pd.70039
+
+-pmid: 41680596
+authors: von Kodolitsch Y, Olfe J, Debus ES, Kirchhof P, Mir TS, Preuss M, Gehle P, Kutsche K, Kubisch C, Robinson PN, Willecke F, Schön G, Rybczynski M. 
+year: 2026
+title: Genetic testing in thoracic aortic disease: diagnostic performance of the 2024 ESC algorithm
+journal: Eur Heart J
+volume: Epub ahead of print
+pages: 10.1093/eurheartj/ehaf926
+
+-pmid: 41291038
+authors: Groza T, Robinson PN, Lim WK, Narasimhalu K, Hsieh J, Yeo KK, Keow GB, Thomas T, Wong TY, Karnani N, Baynam G, Jamuar SS. 
+year: 2025
+title: Information content as a health system screening tool for rare diseases
+journal: NPJ Digit Med
+volume: 8(1)
+pages:720
+
+-pmid: 41253795
+authors: Graefe ASL, Rehburg F, Alkarkoukly S, Danis D, Grönke A, Hübner MR, Bartschke A, Debertshäuser T, Klopfenstein SAI, Saß J, Fleck J, Rehberg M, Zschüntzsch J, Nyoungui EF, Kalashnikova T, Murguía-Favela L, Derfalvi B, Wright NAM, Moosa S, Ogishima S, Semler O, Wiegand S, Kühnen P, Mungall CJ, Haendel MA, Robinson PN, Thun S, Beyan O. 
+year: 2025
+title: RareLink: scalable REDCap-based framework for rare disease interoperability linking international registries to FHIR and Phenopackets
+journal: NPJ Genom Med
+volume: 10(1)
+pages: 72
+
+-pmid: 41347188
+authors: Kindle G, Alligon M, Albert MH, Buckland M, Edgar JD, Gathmann B, Ghosh S, Gkantaras A, Nieters A, Pignata C, Robinson PN, Rusch S, Schuetz C, Sharapova S, Shillitoe B, Candotti F, Cant AJ, Casanova JL, Etzioni A, Fischer A, Meyts I, Notarangelo LD, Pergent M, Smith CIE; ESID Registry Working Party; Hammarström L, Grimbacher B, Seppänen MRJ, Mahlaoui N, Ehl S, Seidel MG. 
+year: 2025
+title: Inborn errors of immunity: Manifestation, treatment, and outcome-an ESID registry 1994-2024 report on 30,628 patients. 
+journal: J Hum Immun
+volume: 1(3)
+pages: e20250007
+
 -pmid: 41172739
 authors: Shefchek K, Ziniel SI, McMurry JA, Brownstein CA, Brownstein JS, Riggs ER, Might M, Smedley D, Clugston A, Beggs AH, Paterson H, Robinson PN, Vasilevsky NA, Holm IA, Haendel MA
 year: 2025
 title: Development of self-phenotyping tools to empower patients and improve diagnostics
 journal: EBioMedicine
-volume: Epub ahead of print
-pages: 10.1016/j.ebiom.2025.105965
+volume: 121
+pages: 121105965
 
 
 -pmid: 41124636
