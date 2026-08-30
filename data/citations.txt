@@ -1,5 +1,44 @@
 -- # Publications
 
+-pmid:42411323
+authors: Steinhaus R, Robinson PN, Seelow D. 
+year:2026
+title:FABIAN-variant 2026: improved prediction of the effects of DNA variants on transcription factor binding
+journal: Nucleic Acids Res
+volume: 54(W1)
+pages: W96-W104
+
+-pmid:42299620
+authors: Cuperus E, Pasmans SGMA, Han HL, Arterbery AS, Danis D, van Geel M, Has C, Weibel L, Hannula-Jouppi K, Bodemer C, Hovnanian A, Robinson PN, van Gijn ME. 
+year: 2026
+title: In-depth human phenotype ontology curation boosts prioritization performance for Netherton syndrome (SPINK5-syndromic epidermal differentiation disorder)
+journal: Br J Dermatol
+volume:195
+pages:535-537
+
+-pmid:42050932
+authors: Werren EA, Vats P, Rech GE, Peracchio M, King C, Charnysh EJ, Gorham RD, Audano PA, Robinson PN, Kelly MA, Matson AP, Adams MD, Kalsner L. 
+year: 2026
+title: Diagnostic utility of clinical genome reanalysis in rare pediatric disorders using long-read sequencing. 
+journal: HGG Adv
+volume: 7
+pages: 100620
+
+-pmid:41785191
+authors: Rajab A, Neitzel H, Jalali J, Krebsova A, Al-Gazali L, Robinson PN, Sperling K
+year: 2026
+title: Familial Robertsonian Translocation, rob(14;21), with High Risk for Down Syndrome. 
+journal: Cytogenet Genome Res. 2026 Mar 5:1-10. 
+volume: Epub ahead of print.
+pages:doi: 10.1159/000551071
+-pmid:41735669
+authors: Reese JT, Chimirri L, Bridges Y, Danis D, Caufield JH, Gargano MA, Kroll C, Schmeder A, Liu F, Wissink K, McMurry JA, Graefe ASL, Niyonkuru E, Korn DR, Casiraghi E, Valentini G, Jacobsen JOB, Haendel M, Smedley D, Mungall CJ, Robinson PN. 
+year: 2026
+title: Systematic benchmarking demonstrates large language models have not reached the diagnostic accuracy of traditional rare-disease decision support tools. 
+journal: Eur J Hum Genet
+volume: 34
+pages:498-504
+
 -pmid:41443197
 authors: Rekerle L, Danis D, Rehburg F, Graefe ASL, Bily V, Caballero-Oteyza A, Cacheiro P, Chimirri L, Chong JX, Connelly E, de Vries BBA, Dingemans AJM, Duyzend MH, Freiberger T, Gehle P, Groza T, Hansen P, Jacobsen JOB, Klocperk A, Ladewig MS, Love MI, Marcello AJ, Mordhorst A, Munoz-Torres MC, Reese J, Schuetz C, Smedley D, Strauss T, Vladyka O, Zocche D, Thun S, Mungall CJ, Haendel MA, Robinson PN. 
 year: 2026
@@ -30,8 +69,8 @@ authors: von Kodolitsch Y, Olfe J, Debus ES, Kirchhof P, Mir TS, Preuss M, Gehle
 year: 2026
 title: Genetic testing in thoracic aortic disease: diagnostic performance of the 2024 ESC algorithm
 journal: Eur Heart J
-volume: Epub ahead of print
-pages: 10.1093/eurheartj/ehaf926
+volume: 47
+pages: 2512-2514
 
 -pmid: 41291038
 authors: Groza T, Robinson PN, Lim WK, Narasimhalu K, Hsieh J, Yeo KK, Keow GB, Thomas T, Wong TY, Karnani N, Baynam G, Jamuar SS. 
