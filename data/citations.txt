@@ -1,7 +1,22 @@
 -- # Publications
 
+-pmid:42715344
+authors:Carrasco-Zanini J, Andrade J, Pietzner M, Kousathanas A, Jacobsen JOB, Lord J, Telugu N, Diecke S, Mülleder M, Bierbaum D, Vestito L, Robinson PN, Ralser M, Baralle D, Wareham NJ, Elgar G, Potente M, Brown MA, Caulfield M, Smedley D, Langenberg C
+title: Proteomics identify disease-associated variants in patients with rare diseases undiagnosed after genome sequencing. 
+journal: Sci Transl Med
+volume:18
+pages: eaeb1331.
+
+-pmid:42979155
+authors: Ramlow L, Scholtes J, Danis D, Robinson PN
+year: 2026 
+title: Ontologizer 3: a cross-platform desktop application for frequentist and Bayesian GO enrichment analysis. 
+journal: NAR Genom Bioinform
+volume:8
+pages:lqag131. 
+
 -pmid:42411323
-authors: Steinhaus R, Robinson PN, Seelow D. 
+authors: Steinhaus R, Robinson PN, Seelow D
 year:2026
 title:FABIAN-variant 2026: improved prediction of the effects of DNA variants on transcription factor binding
 journal: Nucleic Acids Res
@@ -28,9 +43,11 @@ pages: 100620
 authors: Rajab A, Neitzel H, Jalali J, Krebsova A, Al-Gazali L, Robinson PN, Sperling K
 year: 2026
 title: Familial Robertsonian Translocation, rob(14;21), with High Risk for Down Syndrome. 
-journal: Cytogenet Genome Res. 2026 Mar 5:1-10. 
-volume: Epub ahead of print.
-pages:doi: 10.1159/000551071
+journal: Cytogenet Genome Res
+volume: 166
+pages:233-242
+
+
 -pmid:41735669
 authors: Reese JT, Chimirri L, Bridges Y, Danis D, Caufield JH, Gargano MA, Kroll C, Schmeder A, Liu F, Wissink K, McMurry JA, Graefe ASL, Niyonkuru E, Korn DR, Casiraghi E, Valentini G, Jacobsen JOB, Haendel M, Smedley D, Mungall CJ, Robinson PN. 
 year: 2026

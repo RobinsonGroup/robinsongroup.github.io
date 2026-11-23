@@ -4,12 +4,27 @@ Our lab is made up of bioinformaticians, computer scientists, ontologists, curat
 Our mission is to develop software resources and algorithms to improve human health.
 Our research focuses on the development of ontologies and software for translational genomics.
 
+<div class="grid cards" markdown>
+
+- **Human Phenotype Ontology** – standardized vocabulary for phenotypic abnormalities  
+  [:octicons-arrow-right-24: Visit](http://www.human-phenotype-ontology.org)
+
+- **Phenopacket Schema** – GA4GH standard for clinical data  
+  [:octicons-arrow-right-24: Learn more](https://pubmed.ncbi.nlm.nih.gov/35705716/)
+
+- **Software** – Algorithms and tools for ontology-based translational bioinformatics and for genomics analysis  
+  [:octicons-arrow-right-24: Software](software.md)
+
+  - **Teaching** – Winter semester: Ontologies and LLMs  
+  [:octicons-arrow-right-24: Teaching](teaching.md)
+
+</div>
+
 The Robinson Lab started at the [Charité – Universitätsmedizin Berlin](https://www.charite.de/) and moved to the 
 [Jackson Laboratory (JAX) for Genomic Medicine](https://www.jax.org/) in 2016.
 In January 2024, we moved to the [Berlin Institute of Health](https://www.bihealth.org/en/) (BIH) at Charité in Berlin.
-In the framework of an [Alexander von Humboldt Professorship](https://www.humboldt-foundation.de/entdecken/newsroom/dossier-alexander-von-humboldt-professur/peter-nicholas-robinson),
-[__we are setting up a new research group in Berlin and are hiring__](careers.md).
-Our Lab will be retaining an affiliation with JAX and some group members are working remotely in the US.
+In the framework of an [Alexander von Humboldt Professorship](https://www.humboldt-foundation.de/entdecken/newsroom/dossier-alexander-von-humboldt-professur/peter-nicholas-robinson).
+Our Lab retains an affiliation with JAX and some group members are working remotely in the US.
 
 <figure markdown>
 ![BIH](img/bih.jpg){align="center" width="550"}
@@ -17,6 +32,10 @@ Our Lab will be retaining an affiliation with JAX and some group members are wor
 Our offices are located on the 5th floor of Rahel Hirsch Center for Translational Medicine of the BIH in Berlin Mitte
 </figcaption>
 </figure>
+
+## Latest news
+
+--8<-- "snippets/news_teaser.md"
 
 ## Research
 
