@@ -19,6 +19,12 @@ Peter Robinson
 </figure>
 
 
+The Robinson Lab started at the [Charité – Universitätsmedizin Berlin](https://www.charite.de/) and moved to the 
+[Jackson Laboratory (JAX) for Genomic Medicine](https://www.jax.org/) in 2016.
+In January 2024, we moved to the [Berlin Institute of Health](https://www.bihealth.org/en/) (BIH) at Charité in Berlin.
+In the framework of an [Alexander von Humboldt Professorship](https://www.humboldt-foundation.de/entdecken/newsroom/dossier-alexander-von-humboldt-professur/peter-nicholas-robinson), retaining a lab at JAX.
+
+
 ## Berlin Institute of Health
 
 The Robinson Lab is located in the fifth floor of the Berlin Institute of Health (BIH) in the 

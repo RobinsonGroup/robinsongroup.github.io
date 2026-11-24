@@ -2,6 +2,7 @@
 
 -pmid:42715344
 authors:Carrasco-Zanini J, Andrade J, Pietzner M, Kousathanas A, Jacobsen JOB, Lord J, Telugu N, Diecke S, Mülleder M, Bierbaum D, Vestito L, Robinson PN, Ralser M, Baralle D, Wareham NJ, Elgar G, Potente M, Brown MA, Caulfield M, Smedley D, Langenberg C
+year: 2026
 title: Proteomics identify disease-associated variants in patients with rare diseases undiagnosed after genome sequencing. 
 journal: Sci Transl Med
 volume:18

@@ -20,19 +20,6 @@ Our research focuses on the development of ontologies and software for translati
 
 </div>
 
-The Robinson Lab started at the [Charité – Universitätsmedizin Berlin](https://www.charite.de/) and moved to the 
-[Jackson Laboratory (JAX) for Genomic Medicine](https://www.jax.org/) in 2016.
-In January 2024, we moved to the [Berlin Institute of Health](https://www.bihealth.org/en/) (BIH) at Charité in Berlin.
-In the framework of an [Alexander von Humboldt Professorship](https://www.humboldt-foundation.de/entdecken/newsroom/dossier-alexander-von-humboldt-professur/peter-nicholas-robinson).
-Our Lab retains an affiliation with JAX and some group members are working remotely in the US.
-
-<figure markdown>
-![BIH](img/bih.jpg){align="center" width="550"}
-<figcaption>
-Our offices are located on the 5th floor of Rahel Hirsch Center for Translational Medicine of the BIH in Berlin Mitte
-</figcaption>
-</figure>
-
 ## Latest news
 
 --8<-- "snippets/news_teaser.md"
